@@ -33,14 +33,14 @@
     mapboxgl.accessToken = 'pk.eyJ1IjoiYmxhbmNpZW4iLCJhIjoiY2tpcTh2cWFvMXVjczJ4cWpqMm91dXIzciJ9.xmJAXqYPyfIZPKzRQCk_HA';
     var map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/blancien/ckirqdprf084b1at4yyzftzxr', // stylesheet location
+        style: 'mapbox://styles/blancien/ckirohywn06ab1anxygubajqr',
         center: [-54.1,-15], // starting position [lng, lat]
         zoom: 4 // starting zoom
     });
 
     map.on('click', function(e) {
       var features = map.queryRenderedFeatures(e.point, {
-        layers: ['chicago-parks']
+        layers: ['cities-in-tupi']
       });
 
       if (!features.length) {
@@ -51,7 +51,7 @@
 
       var popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
-        .setHTML('<h3>' + feature.properties.title + '</h3><p>' + feature.properties.description + '</p>')
+        .setHTML('<h3>' + feature.properties.name + '</h3><p>' + feature.properties.state + '</p><p>' + feature.properties.meaning + '</p>')
         .addTo(map);
     });
   </script>

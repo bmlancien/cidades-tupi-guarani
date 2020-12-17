@@ -1,0 +1,21 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araxá",
+        "state": "MS",
+        "origin": {
+          "ara": "lugar",
+          "cha": "alto, elevado"
+        },
+        "meaning": "Lugar, terreno elevado"
+      },
+      "geometry": {
+        "coordinates": [-46.940833, -19.592778],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
