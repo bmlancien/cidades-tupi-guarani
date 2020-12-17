@@ -5,26 +5,18 @@
       "properties": {
         "name": "Araxá",
         "state": "MS",
-        "origin": {
-          "ara": {
-            "pt": "lugar",
-            "en": "place"
-          },
-          "cha": {
-            "pt": "alto, elevado",
-            "en": "high"
-          }
-        },
-        "meaning": {
-          "pt": "Lugar, terreno elevado",
-          "en": "High ground"
-        }
+        "meaning_pt": "Lugar, terreno elevado",
+        "meaning_en": "High ground",
+        "tupi": [
+          "ara",
+          "cha"
+        ],
+        "source": "https://pt.wikipedia.org/wiki/Arax%C3%A1"
       },
       "geometry": {
         "coordinates": [-46.940833, -19.592778],
         "type": "Point"
-      },
-      "source": "https://pt.wikipedia.org/wiki/Arax%C3%A1"
+      }
     }
   ],
   "type": "FeatureCollection"
