@@ -1,0 +1,18 @@
+.map {
+  height: 100%;
+  width: 100%;
+  @media only screen and (min-width: 1024px) {
+    width: $map-width;
+    position: relative;
+  }
+}
+#map,
+.mapboxgl-marker {
+  position: absolute; 
+  top: $tabs-height-mobile; 
+  bottom: 0; 
+  width: 100%;
+  @media only screen and (min-width: 1024px) {
+    top: 0;
+  }
+}
