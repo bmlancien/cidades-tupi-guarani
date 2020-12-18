@@ -3,6 +3,14 @@
     "pt": "alto, elevado, monte",
     "en": "high, elevated, mount"
   },
+  "aba": {
+    "pt": "lugar, sitio",
+    "en": "place, site"
+  },
+  "abá": {
+    "pt": "homem",
+    "en": "man"
+  },
   "áca": {
     "pt": "solta, frouxa",
     "en": "loose"
@@ -47,29 +55,93 @@
     "pt": "manto indígena de pena",
     "en": "native feathered coat"
   },
+  "bocaiúva": {
+    "pt": "palmeira",
+    "en": "palm tree"
+  },
+  "buri": {
+    "pt": "palmeira",
+    "en": "palm tree"
+  },
   "cha": {
     "pt": "alto, elevado",
     "en": "high"
+  },
+  "etama": {
+    "pt": "terra natal, pátria",
+    "en": "homeland"
+  },
+  "eté": {
+    "pt": "serra",
+    "en": "mountain"
+  },
+  "e'yma": {
+    "pt": "sem",
+    "en": "without"
   },
   "guá": {
     "pt": "vale, baixada",
     "en": "valley"
   },
+  "gwa'su": {
+    "pt": "veado",
+    "en": "deer"
+  },
   "îá": {
     "pt": "repleção, fartura, abundância",
     "en": "abundance, plenty"
+  },
+  "katu": {
+    "pt": "bom",
+    "en": "good"
   },
   "kûara": {
     "pt": "toca, buraco",
     "en": "den, cave"
   },
+  "mbiru": {
+    "pt": "mosca",
+    "en": "fly"
+  },
+  "mbora": {
+    "pt": "povo",
+    "en": "people"
+  },
+  "mborá": {
+    "pt": "abelha",
+    "en": "bee"
+  },
+  "mboy": {
+    "pt": "cobra",
+    "en": "snake"
+  },
   "mirá": {
     "pt": "madeira",
     "en": "wood"
   },
+  "miru": {
+    "pt": "pequeno",
+    "en": "small"
+  },
+  "nhan": {
+    "pt": "correr",
+    "en": "run"
+  },
+  "oka": {
+    "pt": "toca, morada",
+    "en": "lair, habitation"
+  },
+  "paraty": {
+    "pt": "tainha",
+    "en": "mullet"
+  },
   "pi": {
     "pt": "limpar, tratar",
     "en": "to clean, treat, handle"
+  },
+  "piara": {
+    "pt": "caminho para",
+    "en": "road to"
   },
   "pira": {
     "pt": "casca",
@@ -83,6 +155,22 @@
     "pt": "bonito",
     "en": "beautiful"
   },
+  "rá": {
+    "pt": "o que impede",
+    "en": "that is preventing"
+  },
+  "ré": {
+    "pt": "diferente, outro",
+    "en": "different"
+  },
+  "rema": {
+    "pt": "fedido",
+    "en": "stinky"
+  },
+  "tira": {
+    "pt": "alto",
+    "en": "high"
+  },
   "tyba": {
     "pt": "ajuntamento, muito",
     "en": "bunch, gathering, a lot"
@@ -95,8 +183,28 @@
     "pt": "pássaro",
     "en": "bird"
   },
-  "'r'y'": {
+  "uru": {
+    "pt": "cesto",
+    "en": "basket"
+  },
+  "y'": {
     "pt": "rio",
     "en": "river"
+  },
+  "ybá": {
+    "pt": "fruta",
+    "en": "fruit"
+  },
+  "yby": {
+    "pt": "terra",
+    "en": "soil, land"
+  },
+  "ybyrá": {
+    "pt": "árvore, madeira",
+    "en": "tree, wood"
+  },
+  "ybytu": {
+    "pt": "ar, vento",
+    "en": "air, wind"
   }
 }

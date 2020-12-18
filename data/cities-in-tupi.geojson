@@ -262,7 +262,7 @@
         "meaning_en": "High ground",
         "tupi": [
           "ará",
-          "r'y"
+          "y"
         ],
         "foundation": 1865,
         "population": 107337,
@@ -311,6 +311,420 @@
       },
       "geometry": {
         "coordinates": [-46.320833, -23.395833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atibaia",
+        "state": "SP",
+        "name_id": "atibaia_sp",
+        "meaning_pt": "",
+        "meaning_en": "",
+        "tupi": [],
+        "foundation": 1665,
+        "population": 144088,
+        "source": "https://pt.wikipedia.org/wiki/Atibaia"
+      },
+      "geometry": {
+        "coordinates": [-46.55, -23.116944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avanhandava",
+        "state": "SP",
+        "name_id": "avanhandava_sp",
+        "meaning_pt": "Lugar da corrida dos homens",
+        "meaning_en": "Place of the men running",
+        "tupi": [
+          "abá",
+          "nhan",
+          "aba"
+        ],
+        "foundation": "",
+        "population": 13433,
+        "source": "https://pt.wikipedia.org/wiki/Avanhandava"
+      },
+      "geometry": {
+        "coordinates": [-49.95, -21.460833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avaré",
+        "state": "SP",
+        "name_id": "avare_sp",
+        "meaning_pt": "Padre, missionário",
+        "meaning_en": "Priest, missionary",
+        "tupi": [
+          "abá",
+          "ré"
+        ],
+        "foundation": 1861,
+        "population": 90655,
+        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+      },
+      "geometry": {
+        "coordinates": [-48.925833, -23.098889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baturité",
+        "state": "CE",
+        "name_id": "baturite_ce",
+        "meaning_pt": "Serra",
+        "meaning_en": "Mountain",
+        "tupi": [
+          "yby",
+          "tira",
+          "eté"
+        ],
+        "foundation": 1858,
+        "population": 33326,
+        "source": "https://pt.wikipedia.org/wiki/Baturit%C3%A9"
+      },
+      "geometry": {
+        "coordinates": [-38.885, -4.328889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bauru",
+        "state": "SP",
+        "name_id": "bauru_sp",
+        "meaning_pt": "Cesto de frutas",
+        "meaning_en": "Fruit basket",
+        "tupi": [
+          "ybá",
+          "uru"
+        ],
+        "foundation": 1896,
+        "population": 379297,
+        "source": "https://pt.wikipedia.org/wiki/Bauru"
+      },
+      "geometry": {
+        "coordinates": [-49.060833, -22.315],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bertioga",
+        "state": "SP",
+        "name_id": "bertioga_sp",
+        "meaning_pt": "Casa do peixe branco",
+        "meaning_en": "House the white fish",
+        "tupi": [
+          "paraty",
+          "oka"
+        ],
+        "foundation": 1547,
+        "population": 63249,
+        "source": "https://pt.wikipedia.org/wiki/Bertioga"
+      },
+      "geometry": {
+        "coordinates": [-46.138889, -23.853889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birigui",
+        "state": "SP",
+        "name_id": "birigui_sp",
+        "meaning_pt": "Mosqua pequena",
+        "meaning_en": "Small fly",
+        "tupi": [
+          "mbiru",
+          "miry"
+        ],
+        "foundation": 1911,
+        "population": 123638,
+        "source": "https://pt.wikipedia.org/wiki/Birigui"
+      },
+      "geometry": {
+        "coordinates": [-50.34, -21.288889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocaiuva",
+        "state": "MG",
+        "name_id": "bocaiuva_mg",
+        "meaning_pt": "Palmeira bocaiúva",
+        "meaning_en": "Type of palm tree",
+        "tupi": [
+          "bocaiúva"
+        ],
+        "foundation": 1888,
+        "population": 48974,
+        "source": "https://pt.wikipedia.org/wiki/Bocaiuva"
+      },
+      "geometry": {
+        "coordinates": [-43.815, -17.107778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boituva",
+        "state": "SP",
+        "name_id": "boituva_sp",
+        "meaning_pt": "Local de muitas cobras",
+        "meaning_en": "Home of many snakes",
+        "tupi": [
+          "mboy",
+          "tyba"
+        ],
+        "foundation": 1883,
+        "population": 60997,
+        "source": "https://pt.wikipedia.org/wiki/Boituva"
+      },
+      "geometry": {
+        "coordinates": [-47.671944, -23.282778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borá",
+        "state": "SP",
+        "name_id": "bora_sp",
+        "meaning_pt": "Local de muitas cobras",
+        "meaning_en": "Home of many snakes",
+        "tupi": [
+          "mborá"
+        ],
+        "foundation": 1965,
+        "population": 838,
+        "source": "https://pt.wikipedia.org/wiki/Bor%C3%A1"
+      },
+      "geometry": {
+        "coordinates": [-50.533889, -22.27],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borborema",
+        "state": "SP",
+        "name_id": "borborema_sp",
+        "meaning_pt": "Terra sem habitantes",
+        "meaning_en": "Inhabited land",
+        "tupi": [
+          "yby",
+          "mbora",
+          "e'yma"
+        ],
+        "foundation": 1925,
+        "population": 16164,
+        "source": "https://pt.wikipedia.org/wiki/Borborema_(S%C3%A3o_Paulo)"
+      },
+      "geometry": {
+        "coordinates": [-49.073889, -21.62],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botucatu",
+        "state": "SP",
+        "name_id": "botucatu_sp",
+        "meaning_pt": "Bons ares",
+        "meaning_en": "Good climate",
+        "tupi": [
+          "ybytu",
+          "katu"
+        ],
+        "foundation": 1843,
+        "population": 144820,
+        "source": "https://pt.wikipedia.org/wiki/Botucatu"
+      },
+      "geometry": {
+        "coordinates": [-48.445, -22.885833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buerarema",
+        "state": "BA",
+        "name_id": "buerarema_ba",
+        "meaning_pt": "Madeira fedida",
+        "meaning_en": "Stinky wood",
+        "tupi": [
+          "ybyrá",
+          "rema"
+        ],
+        "foundation": 1959,
+        "population": 18622,
+        "source": "https://pt.wikipedia.org/wiki/Buerarema"
+      },
+      "geometry": {
+        "coordinates": [-39.3, -14.958889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buritama",
+        "state": "SP",
+        "name_id": "buritama_sp",
+        "meaning_pt": "Terra dos buris (palmeira)",
+        "meaning_en": "Land of the buris (palm tree)",
+        "tupi": [
+          "buri",
+          "etama"
+        ],
+        "foundation": 1892,
+        "population": 15418,
+        "source": "https://pt.wikipedia.org/wiki/Buritama"
+      },
+      "geometry": {
+        "coordinates": [-50.146944, -21.065833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravatá",
+        "state": "PE",
+        "name_id": "gravata_pe",
+        "meaning_pt": "Caraguatá (Nome de uma planta do gênero Bromelia)",
+        "meaning_en": "Bromelia pinguin (Name of a plant in the genus Bromelia)",
+        "tupi": [],
+        "foundation": 1893,
+        "population": 84699,
+        "source": "https://pt.wikipedia.org/wiki/Gravat%C3%A1_(Pernambuco)"
+      },
+      "geometry": {
+        "coordinates": [-35.565, -8.200833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravataí",
+        "state": "RS",
+        "name_id": "gravatai_rs",
+        "meaning_pt": "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)",
+        "meaning_en": "River of bromelia pinguin (Name of a plant in the genus Bromelia)",
+        "tupi": [
+          "y"
+        ],
+        "foundation": 1763,
+        "population": 273742,
+        "source": "https://pt.wikipedia.org/wiki/Gravata%C3%AD"
+      },
+      "geometry": {
+        "coordinates": [-50.993889, -29.943333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaçuí",
+        "state": "ES",
+        "name_id": "guacui_es",
+        "meaning_pt": "Água de veado",
+        "meaning_en": "Deer's water",
+        "tupi": [
+          "y",
+          "gwa'su"
+        ],
+        "foundation": 1928,
+        "population": 30685,
+        "source": "https://pt.wikipedia.org/wiki/Gua%C3%A7u%C3%AD"
+      },
+      "geometry": {
+        "coordinates": [-41.678889, -20.775833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaíra",
+        "state": "SP",
+        "name_id": "guaira_sp",
+        "meaning_pt": "Águas correntes",
+        "meaning_en": "Running water",
+        "tupi": [
+          "guá",
+          "y",
+          "rá"
+        ],
+        "foundation": 1908,
+        "population": 42480,
+        "source": "https://pt.wikipedia.org/wiki/Gua%C3%ADra_(S%C3%A3o_Paulo)"
+      },
+      "geometry": {
+        "coordinates": [-48.310833, -20.317778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guajará-Mirim",
+        "state": "RO",
+        "name_id": "guajaramirim_ro",
+        "meaning_pt": "Cachoeira pequena",
+        "meaning_en": "Small waterfall",
+        "tupi": [
+          "miru"
+        ],
+        "foundation": 1929,
+        "population": 46174,
+        "source": "https://pt.wikipedia.org/wiki/Guajar%C3%A1-Mirim"
+      },
+      "geometry": {
+        "coordinates": [-65.339444, -10.782778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guapiara",
+        "state": "SP",
+        "name_id": "guapiara_sp",
+        "meaning_pt": "Caminho para a enseada",
+        "meaning_en": "Road to the valley",
+        "tupi": [
+          "guá",
+          "piara"
+        ],
+        "foundation": 1872,
+        "population": 17758,
+        "source": "https://pt.wikipedia.org/wiki/Guapiara"
+      },
+      "geometry": {
+        "coordinates": [-48.532778, -24.185],
         "type": "Point"
       }
     }
