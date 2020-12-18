@@ -1,10 +1,102 @@
 {
+  "a": {
+    "pt": "alto, elevado, monte",
+    "en": "high, elevated, mount"
+  },
+  "áca": {
+    "pt": "solta, frouxa",
+    "en": "loose"
+  },
+  "aco": {
+    "pt": "roça, roçado, cultura",
+    "en": "country, farm"
+  },
+  "akaîu": {
+    "pt": "cajueiro",
+    "en": "cashew tree"
+  },
+  "apyaba": {
+    "pt": "índios, separação de rios",
+    "en": "indians, separation o rivers"
+  },
   "ara": {
     "pt": "lugar",
     "en": "place"
   },
+  "araçá": {
+    "pt": "araçá",
+    "en": "fruit"
+  },
+  "ará": {
+    "pt": "arara",
+    "en": "macaw"
+  },
+  "arara": {
+    "pt": "arara",
+    "en": "macaw, "
+  },
+  "ari'raña": {
+    "pt": "onça d'água, arinhanha",
+    "en": "giant otter"
+  },
+  "aru": {
+    "pt": "aru, sapo",
+    "en": "toad"
+  },
+  "aso'îaba": {
+    "pt": "manto indígena de pena",
+    "en": "native feathered coat"
+  },
   "cha": {
     "pt": "alto, elevado",
     "en": "high"
+  },
+  "guá": {
+    "pt": "vale, baixada",
+    "en": "valley"
+  },
+  "îá": {
+    "pt": "repleção, fartura, abundância",
+    "en": "abundance, plenty"
+  },
+  "kûara": {
+    "pt": "toca, buraco",
+    "en": "den, cave"
+  },
+  "mirá": {
+    "pt": "madeira",
+    "en": "wood"
+  },
+  "pi": {
+    "pt": "limpar, tratar",
+    "en": "to clean, treat, handle"
+  },
+  "pira": {
+    "pt": "casca",
+    "en": "bark"
+  },
+  "pong": {
+    "pt": "soar, fazer ruído",
+    "en": "to make noise"
+  },
+  "poranga": {
+    "pt": "bonito",
+    "en": "beautiful"
+  },
+  "tyba": {
+    "pt": "ajuntamento, muito",
+    "en": "bunch, gathering, a lot"
+  },
+  "ûará": {
+    "pt": "guará",
+    "en": "ibis"
+  },
+  "uirá": {
+    "pt": "pássaro",
+    "en": "bird"
+  },
+  "'r'y'": {
+    "pt": "rio",
+    "en": "river"
   }
 }

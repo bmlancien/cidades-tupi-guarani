@@ -3,18 +3,314 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Acajutiba",
+        "state": "BA",
+        "name_id": "acajutiba_ba",
+        "meaning_pt": "Ajuntamento de cajueiros",
+        "meaning_en": "Bunch of cashew trees",
+        "tupi": [
+          "akaîu",
+          "tyba"
+        ],
+        "foundation": 1952,
+        "population": 15129,
+        "source": "https://pt.wikipedia.org/wiki/Acajutiba"
+      },
+      "geometry": {
+        "coordinates": [-38.016944, -11.661944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acopiara",
+        "state": "CE",
+        "name_id": "acopiara_ce",
+        "meaning_pt": "Aquele que cultiva a terra",
+        "meaning_en": "Farmer",
+        "tupi": [
+          "aco",
+          "pi"
+        ],
+        "foundation": 1921,
+        "population": 53931,
+        "source": "https://pt.wikipedia.org/wiki/Acopiara"
+      },
+      "geometry": {
+        "coordinates": [-39.452778, -6.095],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apiaí",
+        "state": "SP",
+        "name_id": "apiai_sp",
+        "meaning_pt": "Rio dos índios",
+        "meaning_en": "River of the indians",
+        "tupi": [
+          "apyaba"
+        ],
+        "foundation": 1771,
+        "population": 25196,
+        "source": "https://pt.wikipedia.org/wiki/Apia%C3%AD"
+      },
+      "geometry": {
+        "coordinates": [-48.842778, -24.508889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aporá",
+        "state": "BA",
+        "name_id": "apora_ba",
+        "meaning_pt": "Monte bonito",
+        "meaning_en": "Beautiful mount",
+        "tupi": [
+          "a",
+          "poranga"
+        ],
+        "foundation": 1958,
+        "population": 17720,
+        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+      },
+      "geometry": {
+        "coordinates": [-38.080833, -11.66],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aracaju",
+        "state": "SE",
+        "name_id": "aracaju_se",
+        "meaning_pt": "Cajueiro das araras",
+        "meaning_en": "Cashew tree of the macaws",
+        "tupi": [
+          "ará",
+          "akaîu"
+        ],
+        "foundation": 1855,
+        "population": 648939,
+        "source": "https://pt.wikipedia.org/wiki/Aracaju"
+      },
+      "geometry": {
+        "coordinates": [-37.07, -10.91],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araçatuba",
+        "state": "SP",
+        "name_id": "aracatuba_sp",
+        "meaning_pt": "Muitos araçás",
+        "meaning_en": "High quantity of fruits",
+        "tupi": [
+          "araçá",
+          "tyba"
+        ],
+        "foundation": 1908,
+        "population": 198129,
+        "source": "https://pt.wikipedia.org/wiki/Ara%C3%A7atuba"
+      },
+      "geometry": {
+        "coordinates": [-50.432778, -21.208889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araçoiaba",
+        "state": "PE",
+        "name_id": "aracoiaba_pe",
+        "meaning_pt": "Manto de penas de guarás",
+        "meaning_en": "Feathered coat of the ibis",
+        "tupi": [
+          "aso'îaba",
+          "ûará"
+        ],
+        "foundation": 1995,
+        "population": 19816,
+        "source": "https://pt.wikipedia.org/wiki/Ara%C3%A7oiaba"
+      },
+      "geometry": {
+        "coordinates": [-35.090833, -7.79],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araguari",
+        "state": "MG",
+        "name_id": "araguari_mg",
+        "meaning_pt": " Rio da baixada dos ararás",
+        "meaning_en": "Valley's river of the macaws",
+        "tupi": [
+          "aso'îaba",
+          "ûará"
+        ],
+        "foundation": 1888,
+        "population": 117825,
+        "source": "https://pt.wikipedia.org/wiki/Araguari"
+      },
+      "geometry": {
+        "coordinates": [-48.186944, -18.648889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arapiraca",
+        "state": "AL",
+        "name_id": "arapiraca_al",
+        "meaning_pt": " Farpas",
+        "meaning_en": "Splinters",
+        "tupi": [
+          "mirá",
+          "pira",
+          "áca"
+        ],
+        "foundation": 1924,
+        "population": 231747,
+        "source": "https://pt.wikipedia.org/wiki/Arapiraca"
+      },
+      "geometry": {
+        "coordinates": [-36.660833, -9.751944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arapongas",
+        "state": "PR",
+        "name_id": "arapongas_pr",
+        "meaning_pt": " Pássaro que faz ruído",
+        "meaning_en": "Bird making noise",
+        "tupi": [
+          "uirá",
+          "pong"
+        ],
+        "foundation": 1947,
+        "population": 124810,
+        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+      },
+      "geometry": {
+        "coordinates": [-51.423889, -23.418889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araranguá",
+        "state": "SC",
+        "name_id": "ararangua_sc",
+        "meaning_pt": " Vale das araras",
+        "meaning_en": "Valley of the macaws",
+        "tupi": [
+          "ararã",
+          "guá"
+        ],
+        "foundation": 1728,
+        "population": 68228,
+        "source": "https://pt.wikipedia.org/wiki/Ararangu%C3%A1"
+      },
+      "geometry": {
+        "coordinates": [-49.485833, -28.935],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araraquara",
+        "state": "SP",
+        "name_id": "araraquara_sp",
+        "meaning_pt": "Vale das araras",
+        "meaning_en": "Valley of the macaws",
+        "tupi": [
+          "arara",
+          "kûara"
+        ],
+        "foundation": 1817,
+        "population": 238339,
+        "source": "https://pt.wikipedia.org/wiki/Araraquara"
+      },
+      "geometry": {
+        "coordinates": [-48.175833, -21.793889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Araxá",
         "state": "MS",
+        "name_id": "araxa_ms",
         "meaning_pt": "Lugar, terreno elevado",
         "meaning_en": "High ground",
         "tupi": [
-          "ara",
-          "cha"
+          "ará",
+          "r'y"
         ],
+        "foundation": 1865,
+        "population": 107337,
         "source": "https://pt.wikipedia.org/wiki/Arax%C3%A1"
       },
       "geometry": {
         "coordinates": [-46.940833, -19.592778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariranha",
+        "state": "SP",
+        "name_id": "ariranha_sp",
+        "meaning_pt": "Vale das araras",
+        "meaning_en": "Valley of the macaws",
+        "tupi": [
+          "ari'raña"
+        ],
+        "foundation": 1919,
+        "population": 9365,
+        "source": "https://pt.wikipedia.org/wiki/Ariranha_(S%C3%A3o_Paulo)"
+      },
+      "geometry": {
+        "coordinates": [-48.786944, -21.18777],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arujá",
+        "state": "SP",
+        "name_id": "aruja_sp",
+        "meaning_pt": "Abundância de arus",
+        "meaning_en": "Plenty of toads",
+        "tupi": [
+          "aru",
+          "îá"
+        ],
+        "foundation": 1852,
+        "population": 91157,
+        "source": "https://pt.wikipedia.org/wiki/Aruj%C3%A1"
+      },
+      "geometry": {
+        "coordinates": [-46.320833, -23.395833],
         "type": "Point"
       }
     }
