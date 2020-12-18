@@ -55,6 +55,14 @@
     "pt": "manto indígena de pena",
     "en": "native feathered coat"
   },
+  "ã’tã": {
+    "pt": "resistant",
+    "en": "resistente"
+  },
+  "awa'rá": {
+    "pt": "vermelho",
+    "en": "red"
+  },
   "bocaiúva": {
     "pt": "palmeira",
     "en": "palm tree"
@@ -62,6 +70,10 @@
   "buri": {
     "pt": "palmeira",
     "en": "palm tree"
+  },
+  "çaí": {
+    "pt": "pequeno",
+    "en": "small"
   },
   "cha": {
     "pt": "alto, elevado",
@@ -134,6 +146,10 @@
   "paraty": {
     "pt": "tainha",
     "en": "mullet"
+  },
+  "parim": {
+    "pt": "Arma de caça",
+    "en": "Hunting weapon"
   },
   "pi": {
     "pt": "limpar, tratar",

@@ -727,6 +727,87 @@
         "coordinates": [-48.532778, -24.185],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guará",
+        "state": "SP",
+        "name_id": "guara_sp",
+        "meaning_pt": "Guará (pássaro)",
+        "meaning_en": "Guará (bird)",
+        "tupi": [
+          "awa'rá"
+        ],
+        "foundation": 1902,
+        "population": 20997,
+        "source": "https://pt.wikipedia.org/wiki/Guar%C3%A1_(S%C3%A3o_Paulo)"
+      },
+      "geometry": {
+        "coordinates": [-47.823889, -20.427778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaraçaí",
+        "state": "SP",
+        "name_id": "guaracai_sp",
+        "meaning_pt": "Guará (pássaro) pequeno",
+        "meaning_en": "Small guará (bird)",
+        "tupi": [
+          "çaí"
+        ],
+        "foundation": 1948,
+        "population": 8435,
+        "source": "https://pt.wikipedia.org/wiki/Guara%C3%A7a%C3%AD_(S%C3%A3o_Paulo)"
+      },
+      "geometry": {
+        "coordinates": [-51.206944, -21.027778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guarantã do Norte",
+        "state": "MT",
+        "name_id": "guarantadonorte_mt",
+        "meaning_pt": "Madeira resistente",
+        "meaning_en": "Resistent wood",
+        "tupi": [
+          "ybyrá",
+          "ã’tã"
+        ],
+        "foundation": 1981,
+        "population": 35816,
+        "source": "https://pt.wikipedia.org/wiki/Guarant%C3%A3_do_Norte"
+      },
+      "geometry": {
+        "coordinates": [-54.91, -9.787778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guarapari",
+        "state": "ES",
+        "name_id": "guarapari_es",
+        "meaning_pt": "Arma para a caça de guarás",
+        "meaning_en": "Hunting weapon for guarás (birds)",
+        "tupi": [
+          "parim"
+        ],
+        "foundation": 1679,
+        "population": 122982,
+        "source": "https://pt.wikipedia.org/wiki/Guarapari"
+      },
+      "geometry": {
+        "coordinates": [-40.510833, -20.657778],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
