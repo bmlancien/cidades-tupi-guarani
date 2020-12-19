@@ -41,7 +41,7 @@
 
     map.on('click', function(e) {
       var features = map.queryRenderedFeatures(e.point, {
-        layers: ['cities-in-tupi']
+        layers: ['cities-in-tupi-test2']
       });
 
       if (!features.length) {
@@ -52,7 +52,7 @@
 
       var popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
-        .setHTML('<h3>' + feature.properties.name + '</h3><p>' + feature.properties.state + '</p><p>' + feature.properties.meaning + '</p>')
+        .setHTML('<h3 class="popup popup--city" style="display: inline-block">' + feature.properties.name + '</h3><span class="popup popup--state" style="inline-block;padding-left:.5rem">(' + feature.properties.state + ')</span><p class="popup popup--pt">' + feature.properties.meaning_pt + '</p><p class="popup popup--en">' + feature.properties.meaning_en + '</p><p class="popup popup--source">' + feature.properties.source + '</p>')
         .addTo(map);
     });
 

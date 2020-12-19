@@ -20,3 +20,26 @@
 .mapboxgl-canvas-container {
   height: 100vh;
 }
+
+.mapboxgl-map .popup {
+  font-size: 14px;
+  &--city {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  &--state {
+    display: inline-block;
+    padding-left: .5rem;
+    color: $gray-1;
+  }
+  &--pt {
+    margin-bottom: .25rem;
+  }
+  &--en {
+    color: $gray-1;
+  }
+  &--source {
+    font-size: 10px;
+  }
+}
