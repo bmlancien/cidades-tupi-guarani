@@ -83,6 +83,10 @@
     "pt": "terra natal, pátria",
     "en": "homeland"
   },
+  "etá": {
+    "pt": "muitos",
+    "en": "many"
+  },
   "eté": {
     "pt": "serra",
     "en": "mountain"
@@ -94,6 +98,10 @@
   "guá": {
     "pt": "vale, baixada",
     "en": "valley"
+  },
+  "guará": {
+    "pt": "garça",
+    "en": "heron"
   },
   "gûará": {
     "pt": "lobo-guará",
@@ -155,6 +163,10 @@
     "pt": "Arma de caça",
     "en": "Hunting weapon"
   },
+  "pe": {
+    "pt": "No (local)",
+    "en": "In (local)"
+  },
   "pi": {
     "pt": "limpar, tratar",
     "en": "to clean, treat, handle"
@@ -191,6 +203,10 @@
     "pt": "fedido",
     "en": "stinky"
   },
+  "tinga": {
+    "pt": "branco",
+    "en": "white"
+  },
   "tira": {
     "pt": "alto",
     "en": "high"
@@ -202,6 +218,10 @@
   "ûará": {
     "pt": "guará",
     "en": "ibis"
+  },
+  "uarará": {
+    "pt": "tambor indígena",
+    "en": "native drum"
   },
   "uirá": {
     "pt": "pássaro",

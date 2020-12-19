@@ -750,6 +750,64 @@
         "coordinates": [-51.457778, -25.395],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guararapes",
+        "state": "SP",
+        "name_id": "guararapes_sp",
+        "meaning_pt": "Estrondo dos tambores",
+        "meaning_en": "Sound of the drums",
+        "tupi": [
+          "uarará",
+          "pe"
+        ],
+        "source": "https://pt.wikipedia.org/wiki/Guararapes"
+      },
+      "geometry": {
+        "coordinates": [-50.642778, -21.260833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaratinga",
+        "state": "BA",
+        "name_id": "guaratinga_ba",
+        "meaning_pt": "Garça branca",
+        "meaning_en": "White heron",
+        "tupi": [
+          "guará",
+          "tinga"
+        ],
+        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+      },
+      "geometry": {
+        "coordinates": [-39.782778, -16.583889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaratinguetá",
+        "state": "SP",
+        "name_id": "guaratingueta_sp",
+        "meaning_pt": "Muitas garças brancas",
+        "meaning_en": "Many white herons",
+        "tupi": [
+          "guará",
+          "tinga",
+          "etá"
+        ],
+        "source": "https://pt.wikipedia.org/wiki/Guaratinguet%C3%A1"
+      },
+      "geometry": {
+        "coordinates": [-45.192778, -22.815833],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
