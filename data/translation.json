@@ -19,6 +19,10 @@
     "pt": "roça, roçado, cultura",
     "en": "country, farm"
   },
+  "aíua": {
+    "pt": "feio",
+    "en": "ugly"
+  },
   "akaîu": {
     "pt": "cajueiro",
     "en": "cashew tree"
@@ -90,6 +94,10 @@
   "eté": {
     "pt": "serra",
     "en": "mountain"
+  },
+  "exu": {
+    "pt": "abelha",
+    "en": "bee"
   },
   "e'yma": {
     "pt": "sem",
@@ -164,7 +172,7 @@
     "en": "Hunting weapon"
   },
   "pe": {
-    "pt": "No (local)",
+    "pt": "Em (local)",
     "en": "In (local)"
   },
   "pi": {
@@ -214,6 +222,10 @@
   "tyba": {
     "pt": "ajuntamento, muito",
     "en": "bunch, gathering, a lot"
+  },
+  "ua'ra": {
+    "pt": "indivíduo",
+    "en": "person"
   },
   "ûará": {
     "pt": "guará",

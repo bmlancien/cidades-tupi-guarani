@@ -792,20 +792,90 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Guaratinguetá",
+        "name": "Guariba",
         "state": "SP",
-        "name_id": "guaratingueta_sp",
-        "meaning_pt": "Muitas garças brancas",
-        "meaning_en": "Many white herons",
+        "name_id": "guariba_sp",
+        "meaning_pt": "Gente ruim",
+        "meaning_en": "Bad people",
         "tupi": [
-          "guará",
-          "tinga",
-          "etá"
+          "ua'ra",
+          "aíua"
         ],
-        "source": "https://pt.wikipedia.org/wiki/Guaratinguet%C3%A1"
+        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
       },
       "geometry": {
-        "coordinates": [-45.192778, -22.815833],
+        "coordinates": [-48.227778, -21.36],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guarujá",
+        "state": "SP",
+        "name_id": "guaruja_sp",
+        "meaning_pt": "Guaruçá (caranguejo)",
+        "meaning_en": "Atlantic ghost crab",
+        "tupi": [],
+        "source": "https://pt.wikipedia.org/wiki/Guaruj%C3%A1"
+      },
+      "geometry": {
+        "coordinates": [-46.255833, -23.992778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guarulhos",
+        "state": "SP",
+        "name_id": "guaruja_sp",
+        "meaning_pt": "Guaramomis (Nativos que habitavam a região)",
+        "meaning_en": "Guaramomis (Natives living in this region)",
+        "tupi": [],
+        "source": "https://pt.wikipedia.org/wiki/Guarulhos"
+      },
+      "geometry": {
+        "coordinates": [-46.532778, -23.462778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaxupé",
+        "state": "MG",
+        "name_id": "guaxupe_mg",
+        "meaning_pt": "Caminho das abelhas",
+        "meaning_en": "Way of the bees",
+        "tupi": [
+          "guá",
+          "exu",
+          "pe"
+        ],
+        "source": "https://pt.wikipedia.org/wiki/Guaxup%C3%A9"
+      },
+      "geometry": {
+        "coordinates": [-46.712778, -21.305],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiratinga",
+        "state": "MT",
+        "name_id": "guiratinga_mt",
+        "meaning_pt": "Garça branca",
+        "meaning_en": "White heron",
+        "tupi": [
+          "guará",
+          "tinga"
+        ],
+        "source": "https://pt.wikipedia.org/wiki/Guiratinga"
+      },
+      "geometry": {
+        "coordinates": [-53.757778, -16.348889],
         "type": "Point"
       }
     }
