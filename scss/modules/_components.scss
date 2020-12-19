@@ -1,29 +1,3 @@
-// TABS
-.nav.nav-pills {
-  height: $tabs-height-mobile;
-  li {
-    width: 50%;
-    text-align: center;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-  }
-}
-@media only screen and (min-width: 1024px) {
-  .nav.nav-pills {
-    display: none;
-  }
-  .tab-content>.tab-pane {
-    display: block;
-  }
-  .fade {
-    opacity: 1;
-  }
-  .tab-content {
-    display: flex;
-    flex-direction: row;
-  }
-}
-
 .marker {
   background-image: url('../../assets/circle.svg');
   background-size: cover;

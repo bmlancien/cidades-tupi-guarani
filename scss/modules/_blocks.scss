@@ -1,0 +1,24 @@
+.app-info {
+  position: absolute;
+  width: 100%;
+  padding: 1rem 1rem .75rem;
+  z-index: 99;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  color: #075b4c;
+  box-shadow: 5px 5px 8px -3px #075b4c;
+  opacity: .8;
+
+  @media only screen and (min-width: 640px) {
+    width: 24rem;
+    border-radius: .25rem;
+    top: 1rem;
+    left: 1rem;
+  }
+
+  h1 {
+    font-size: 14px;
+    text-align: center;
+  }
+}

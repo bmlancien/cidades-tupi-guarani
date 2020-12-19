@@ -1,15 +1,10 @@
 .map {
   height: 100%;
   width: 100%;
-  @media only screen and (min-width: 1024px) {
-    width: $map-width;
-    position: relative;
-  }
 }
 #map,
 .mapboxgl-marker {
   position: absolute; 
-  top: $tabs-height-mobile; 
   bottom: 0; 
   width: 100%;
   @media only screen and (min-width: 1024px) {
@@ -21,8 +16,13 @@
   height: 100vh;
 }
 
+.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
+  opacity: .8;
+}
+
 .mapboxgl-map .popup {
   font-size: 14px;
+  color: #075b4c;
   &--city {
     display: inline-block;
     font-size: 20px;
@@ -31,15 +31,14 @@
   &--state {
     display: inline-block;
     padding-left: .5rem;
-    color: $gray-1;
+    font-weight: 300;
   }
   &--pt {
-    margin-bottom: .25rem;
-  }
-  &--en {
-    color: $gray-1;
+    margin-bottom: 1rem;
+    color: #eb3b0f;
   }
   &--source {
     font-size: 10px;
+    font-weight: 700;
   }
 }

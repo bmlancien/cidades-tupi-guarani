@@ -7,18 +7,3 @@
     height: 100%;
   }
 }
-
-.tab-content--desktop {
-  @media only screen and (min-width: 1024px) {
-    width: 100%;
-  }
-}
-
-.panel {
-  padding: 1rem;
-  @media only screen and (min-width: 1024px) {
-    width: 32rem;
-    padding: 1.5rem;
-  }
-}
-
