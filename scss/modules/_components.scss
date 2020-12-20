@@ -6,3 +6,39 @@
   border-radius: 50%;
   cursor: pointer;
 }
+
+.app-nav {
+  height: 2.5rem;
+  background-color: #fff;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  ul {
+    width: 100%;
+    height: 2.5rem;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    display: inline-block;
+    width: 32%;
+    height: 2.5rem;
+    font-size: .75rem;
+    padding-left: .5rem;
+  }
+  &__item {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 2.5rem;
+    align-items: center;
+    img {
+      display: inline-block;
+      margin-right: .5rem;
+    }
+    span {
+      display: inline-block;
+    }
+  }
+}
