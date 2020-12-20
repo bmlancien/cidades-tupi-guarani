@@ -16,4 +16,14 @@ main.privacy {
       width: 50rem;
     }
   }
+
+  .legal-links {
+    width: 100%;
+    padding: 2rem 0;
+    a {
+      display: block;
+      font-size: 12px;
+      padding-top: 1rem;
+    }
+  }
 }
