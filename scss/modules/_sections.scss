@@ -1,0 +1,19 @@
+main.infos,
+main.imprint,
+main.privacy {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  padding: 2rem 1rem;
+  @media only screen and (min-width: 1024px) {
+    padding: 10rem 0 0;
+  }
+
+  section {
+    @media only screen and (min-width: 1024px) {
+      width: 50rem;
+    }
+  }
+}
