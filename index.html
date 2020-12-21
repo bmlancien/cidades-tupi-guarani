@@ -72,17 +72,6 @@
         return;
       }
 
-      fetch('data/translation.json')
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (data) {
-        console.log(data[0]);
-      })
-      .catch(function (err) {
-        console.log(err);
-      });
-
       var feature = features[0];
       var tupiObj = JSON.parse(feature.properties.tupi);
       var tupiLength = tupiObj.length;
@@ -97,6 +86,21 @@
       }
     
       var tupiWords = getTupiWords();
+
+      function appendData(data) {
+        console.log("data: " + data);
+      }
+
+      fetch('data/translation.json')
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (data) {
+        appendData(data);
+      })
+      .catch(function (err) {
+        console.log(err);
+      });
 
       var popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
