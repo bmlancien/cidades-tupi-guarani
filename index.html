@@ -83,8 +83,6 @@
         }
         return words;
       }
-    
-      var tupiWords = getTupiWords();
 
       let jsonData;    
       fetch('data/translation.json')
@@ -96,16 +94,17 @@
           jsonData = json;
           let jsonDataKeys = Object.keys(jsonData[0]);
           let jsonDataKeysLength = jsonDataKeys.length;
-          let translationToPt = "";
+          let words = "";
           for (i = 0; i < tupiLength; i++) {
             console.log("test1: " + tupiObj[i]);
             console.log("test2: " +  JSON.stringify(jsonData[0][tupiObj[i]]["pt"]));
-            translationToPt += "<p>" + JSON.stringify(jsonData[0][tupiObj[i]]["pt"]) + "</p>";
-            console.log("test3: " +  translationToPt);
+            words += "<p>" + tupiObj[i] + "</p>";
+            words += "<p>" + JSON.stringify(jsonData[0][tupiObj[i]]["pt"]) + "</p>";
+            console.log("test3: " +  words);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">' + feature.properties.meaning_pt + '</p>' + tupiWords)
+            .setHTML('<h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">' + feature.properties.meaning_pt + '</p>' + words)
             .addTo(map);
           }
         )
