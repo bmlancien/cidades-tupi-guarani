@@ -95,7 +95,7 @@
         .then(function(json){
           jsonData = json;
           let jsonDataKeys = Object.keys(jsonData[0]);
-          let jsonDataValues = Object.keys(jsonData[0]);
+          let jsonDataValues = Object.values(jsonData[0]);
           let jsonDataKeysLength = jsonDataKeys.length;
           console.log(jsonDataKeys);
           console.log(jsonDataKeysLength);
@@ -106,7 +106,9 @@
             console.log(jsonDataKeys);
             console.log(jsonDataValues);
             console.log("test3: " + jsonData[0].word);
-            console.log("test3: " + jsonData[0]["ã’tã"]);
+            console.log("test3: " +  JSON.stringify(jsonData["ã’tã"]));
+            console.log("test3: " +  jsonData["ã’tã"]);
+            console.log("test3: " +  JSON.stringify(jsonData[0]["ã’tã"]));
             console.log("test3: " + jsonData[0].tupiObj[i]);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
