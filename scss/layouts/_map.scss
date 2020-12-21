@@ -26,14 +26,18 @@
   }
 }
 
-.mapboxgl-popup.mapboxgl-popup-anchor-bottom {
+.mapboxgl-popup .mapboxgl-popup-content {
+  padding: 0;
+}
+
+.mapboxgl-map.mapboxgl-popup {
   opacity: .8;
 }
 
 .mapboxgl-map .popup {
   &--top {
     opacity: 1;
-    padding: 1rem;
+    padding: 1rem 2.5rem 1rem 1rem;
   }
   &--city {
     display: inline-block;
@@ -49,8 +53,11 @@
   }
   &--tupi-word {
     padding: 1rem;
+    background-color: $white;
     .tupi {
       width: 40%;
+      min-width: 10rem;
+      display: inline-block;
       p {
         font-size: .875rem;
         color: $primary-color-1;
@@ -62,6 +69,7 @@
     }
     .pt {
       width: 60%;
+      display: inline-block;
       font-size: .875rem;
       color: $gray-1;
       font-weight: 400;
