@@ -100,13 +100,13 @@
           for (i = 0; i < tupiLength; i++) {
             let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
             translationToPt = translationToPt.substring(1, translationToPt.length-1);
-            words += "<div class='popup popup--tupi-word'><p>" + tupiObj[i] + "</p>";
-            words += "<p>" + translationToPt + "</p></div>";
+            words += "<div class='popup popup--tupi-word'><div class='tupi'><p>" + tupiObj[i] + "</p></div>";
+            words += "<p class='pt'>= " + translationToPt + "</p></div>";
           }
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">' + feature.properties.meaning_pt + '</p>' + words)
+            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">= ' + feature.properties.meaning_pt + '</p></div>' + words)
             .addTo(map);
           }
         )
