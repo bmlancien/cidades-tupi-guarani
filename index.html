@@ -80,7 +80,6 @@
         let words = "";
         for (i = 0; i < tupiLength; i++) {
           words += "<p>" + tupiObj[i] + "</p>";
-          console.log(typeof tupiObj[i]);
         }
         return words;
       }
@@ -100,7 +99,8 @@
           console.log(jsonDataKeys);
           console.log(jsonDataKeysLength);
           for (i = 0; i < tupiLength; i++) {
-            console.log("test1: " + jsonDataKeys[tupiObj[i]]);
+            console.log("test1: " + tupiObj[i]);
+            console.log("test2: " + jsonDataKeys[tupiObj[i]]);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
