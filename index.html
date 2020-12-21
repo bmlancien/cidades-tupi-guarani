@@ -72,6 +72,18 @@
         return;
       }
 
+      fetch('data/translation.json')
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (data) {
+        appendData(data);
+        console.log(data[0]);
+      })
+      .catch(function (err) {
+        console.log(err);
+      });
+
       var feature = features[0];
       var tupiObj = JSON.parse(feature.properties.tupi);
       var tupiLength = tupiObj.length;
