@@ -96,10 +96,13 @@
           let jsonDataKeysLength = jsonDataKeys.length;
           let words = "";
           for (i = 0; i < tupiLength; i++) {
-            console.log("test1: " + tupiObj[i]);
-            console.log("test2: " +  JSON.stringify(jsonData[0][tupiObj[i]]["pt"]));
+            let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
+            translationToPt.replace(/\\"/g,"\uFFFF");
+            translationToPt = translationToPt.replace(/"([^"]+)":/g, '$1:').replace(/\uFFFF/g, '\\\"');
+            console.log(typeof tupiObj[i]);
+            console.log("test2: " +  translationToPt);
             words += "<p>" + tupiObj[i] + "</p>";
-            words += "<p>" + JSON.stringify(jsonData[0][tupiObj[i]]["pt"]) + "</p>";
+            words += "<p>" + translationToPt + "</p>";
             console.log("test3: " +  words);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
