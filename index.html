@@ -95,14 +95,13 @@
         .then(function(json){
           jsonData = json;
           let jsonDataKeys = Object.keys(jsonData[0]);
-          let jsonDataValues = Object.values(jsonData[0]);
           let jsonDataKeysLength = jsonDataKeys.length;
-          console.log(jsonDataKeys);
-          console.log(jsonDataKeysLength);
+          let translationToPt = "";
           for (i = 0; i < tupiLength; i++) {
-            let word = JSON.stringify(jsonData[0]);
             console.log("test1: " + tupiObj[i]);
-            console.log("test3: " +  JSON.stringify(jsonData[0][tupiObj[i]]["pt"]));
+            console.log("test2: " +  JSON.stringify(jsonData[0][tupiObj[i]]["pt"]));
+            translationToPt += "<p>" + JSON.stringify(jsonData[0][tupiObj[i]]["pt"]) + "</p>";
+            console.log("test3: " +  translationToPt);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
