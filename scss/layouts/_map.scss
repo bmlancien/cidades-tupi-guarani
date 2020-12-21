@@ -30,14 +30,14 @@
   padding: 0;
 }
 
-.mapboxgl-map.mapboxgl-popup {
-  opacity: .8;
+.mapboxgl-map .mapboxgl-popup {
+  opacity: .85;
 }
 
 .mapboxgl-map .popup {
   &--top {
     opacity: 1;
-    padding: 1rem 2.5rem 1rem 1rem;
+    padding: 1rem 2rem 0 1rem;
   }
   &--city {
     display: inline-block;
@@ -52,13 +52,14 @@
     color: $primary-color-3;
   }
   &--tupi-word {
-    padding: 1rem;
+    padding: 1rem 1rem 0;
     background-color: $white;
     .tupi {
       width: 40%;
       min-width: 10rem;
       display: inline-block;
       p {
+        display: inline-block;
         font-size: .875rem;
         color: $primary-color-1;
         font-weight: 400;
@@ -69,6 +70,7 @@
     }
     .pt {
       width: 60%;
+      min-width: 12rem;
       display: inline-block;
       font-size: .875rem;
       color: $gray-1;
