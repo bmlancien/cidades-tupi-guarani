@@ -98,8 +98,7 @@
           for(key in jsondata[0]) {
             if(jsondata[0].hasOwnProperty(key)) {
               var value = jsondata[0][key];
-              console.log(value[key]);
-              console.log(value[value]);
+              console.log(value);
             }
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
