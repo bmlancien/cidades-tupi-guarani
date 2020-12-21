@@ -73,11 +73,43 @@
       }
 
       var feature = features[0];
+      var tupiObj = JSON.parse(feature.properties.tupi);
+      var tupiLength = tupiObj.length;
 
-      var popup = new mapboxgl.Popup({ offset: [0, -15] })
-        .setLngLat(feature.geometry.coordinates)
-        .setHTML('<h3 class="popup popup--city">' + feature.properties.name + '</h3><span class="popup popup--state">(' + feature.properties.state + ')</span><p class="popup popup--pt">' + feature.properties.meaning_pt + '</p><a class="popup popup--source" href="' + feature.properties.source + '">Fonte</a>')
-        .addTo(map);
+      function getTupiWords() {
+        let words = "";
+        for (i = 0; i < tupiLength; i++) {
+          words += "<p>" + tupiObj[i] + "</p>";
+        }
+        return words;
+      }
+
+      let jsonData;    
+      fetch('data/translation.json')
+        .then(function(u){ 
+          return u.json();
+          }
+        )
+        .then(function(json){
+          jsonData = json;
+          let jsonDataKeys = Object.keys(jsonData[0]);
+          let jsonDataKeysLength = jsonDataKeys.length;
+          let words = "";
+
+          // add tupi word(s) and portuguese translation(s)
+          for (i = 0; i < tupiLength; i++) {
+            let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
+            translationToPt = translationToPt.substring(1, translationToPt.length-1);
+            words += "<div class='popup popup--tupi-word'><p>" + tupiObj[i] + "</p>";
+            words += "<p>" + translationToPt + "</p></div>";
+          }
+
+          var popup = new mapboxgl.Popup({ offset: [0, -15] })
+            .setLngLat(feature.geometry.coordinates)
+            .setHTML('<h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">' + feature.properties.meaning_pt + '</p>' + words)
+            .addTo(map);
+          }
+        )
     });
 
     map.on('load', function () {

@@ -1,266 +1,268 @@
-{
-  "a": {
-    "pt": "alto, elevado, monte",
-    "en": "high, elevated, mount"
-  },
-  "aba": {
-    "pt": "lugar, sitio",
-    "en": "place, site"
-  },
-  "abá": {
-    "pt": "homem",
-    "en": "man"
-  },
-  "áca": {
-    "pt": "solta, frouxa",
-    "en": "loose"
-  },
-  "aco": {
-    "pt": "roça, roçado, cultura",
-    "en": "country, farm"
-  },
-  "aíua": {
-    "pt": "feio",
-    "en": "ugly"
-  },
-  "akaîu": {
-    "pt": "cajueiro",
-    "en": "cashew tree"
-  },
-  "apyaba": {
-    "pt": "índios, separação de rios",
-    "en": "indians, separation o rivers"
-  },
-  "ara": {
-    "pt": "lugar",
-    "en": "place"
-  },
-  "araçá": {
-    "pt": "araçá",
-    "en": "fruit"
-  },
-  "ará": {
-    "pt": "arara",
-    "en": "macaw"
-  },
-  "arara": {
-    "pt": "arara",
-    "en": "macaw, "
-  },
-  "ari'raña": {
-    "pt": "onça d'água, arinhanha",
-    "en": "giant otter"
-  },
-  "aru": {
-    "pt": "aru, sapo",
-    "en": "toad"
-  },
-  "aso'îaba": {
-    "pt": "manto indígena de pena",
-    "en": "native feathered coat"
-  },
-  "ã’tã": {
-    "pt": "resistant",
-    "en": "resistente"
-  },
-  "awa'rá": {
-    "pt": "vermelho",
-    "en": "red"
-  },
-  "bocaiúva": {
-    "pt": "palmeira",
-    "en": "palm tree"
-  },
-  "buri": {
-    "pt": "palmeira",
-    "en": "palm tree"
-  },
-  "çaí": {
-    "pt": "pequeno",
-    "en": "small"
-  },
-  "cha": {
-    "pt": "alto, elevado",
-    "en": "high"
-  },
-  "etama": {
-    "pt": "terra natal, pátria",
-    "en": "homeland"
-  },
-  "etá": {
-    "pt": "muitos",
-    "en": "many"
-  },
-  "eté": {
-    "pt": "serra",
-    "en": "mountain"
-  },
-  "exu": {
-    "pt": "abelha",
-    "en": "bee"
-  },
-  "e'yma": {
-    "pt": "sem",
-    "en": "without"
-  },
-  "guá": {
-    "pt": "vale, baixada",
-    "en": "valley"
-  },
-  "guará": {
-    "pt": "garça",
-    "en": "heron"
-  },
-  "gûará": {
-    "pt": "lobo-guará",
-    "en": "maned wolf"
-  },
-  "gwa'su": {
-    "pt": "veado",
-    "en": "deer"
-  },
-  "îá": {
-    "pt": "repleção, fartura, abundância",
-    "en": "abundance, plenty"
-  },
-  "katu": {
-    "pt": "bom",
-    "en": "good"
-  },
-  "kûara": {
-    "pt": "toca, buraco",
-    "en": "den, cave"
-  },
-  "mbiru": {
-    "pt": "mosca",
-    "en": "fly"
-  },
-  "mbora": {
-    "pt": "povo",
-    "en": "people"
-  },
-  "mborá": {
-    "pt": "abelha",
-    "en": "bee"
-  },
-  "mboy": {
-    "pt": "cobra",
-    "en": "snake"
-  },
-  "mirá": {
-    "pt": "madeira",
-    "en": "wood"
-  },
-  "miru": {
-    "pt": "pequeno",
-    "en": "small"
-  },
-  "nhan": {
-    "pt": "correr",
-    "en": "run"
-  },
-  "oka": {
-    "pt": "toca, morada",
-    "en": "lair, habitation"
-  },
-  "paraty": {
-    "pt": "tainha",
-    "en": "mullet"
-  },
-  "parim": {
-    "pt": "Arma de caça",
-    "en": "Hunting weapon"
-  },
-  "pe": {
-    "pt": "Em (local)",
-    "en": "In (local)"
-  },
-  "pi": {
-    "pt": "limpar, tratar",
-    "en": "to clean, treat, handle"
-  },
-  "piara": {
-    "pt": "caminho para",
-    "en": "road to"
-  },
-  "pira": {
-    "pt": "casca",
-    "en": "bark"
-  },
-  "pong": {
-    "pt": "soar, fazer ruído",
-    "en": "to make noise"
-  },
-  "poranga": {
-    "pt": "bonito",
-    "en": "beautiful"
-  },
-  "pu": {
-    "pt": "barulho",
-    "en": "noise"
-  },
-  "rá": {
-    "pt": "o que impede",
-    "en": "that is preventing"
-  },
-  "ré": {
-    "pt": "diferente, outro",
-    "en": "different"
-  },
-  "rema": {
-    "pt": "fedido",
-    "en": "stinky"
-  },
-  "tinga": {
-    "pt": "branco",
-    "en": "white"
-  },
-  "tira": {
-    "pt": "alto",
-    "en": "high"
-  },
-  "tyba": {
-    "pt": "ajuntamento, muito",
-    "en": "bunch, gathering, a lot"
-  },
-  "ua'ra": {
-    "pt": "indivíduo",
-    "en": "person"
-  },
-  "ûará": {
-    "pt": "guará",
-    "en": "ibis"
-  },
-  "uarará": {
-    "pt": "tambor indígena",
-    "en": "native drum"
-  },
-  "uirá": {
-    "pt": "pássaro",
-    "en": "bird"
-  },
-  "uru": {
-    "pt": "cesto",
-    "en": "basket"
-  },
-  "y'": {
-    "pt": "rio",
-    "en": "river"
-  },
-  "ybá": {
-    "pt": "fruta",
-    "en": "fruit"
-  },
-  "yby": {
-    "pt": "terra",
-    "en": "soil, land"
-  },
-  "ybyrá": {
-    "pt": "árvore, madeira",
-    "en": "tree, wood"
-  },
-  "ybytu": {
-    "pt": "ar, vento",
-    "en": "air, wind"
+[
+  {
+    "a": {
+      "pt": "alto, elevado, monte",
+      "en": "high, elevated, mount"
+    },
+    "aba": {
+      "pt": "lugar, sitio",
+      "en": "place, site"
+    },
+    "abá": {
+      "pt": "homem",
+      "en": "man"
+    },
+    "áca": {
+      "pt": "solta, frouxa",
+      "en": "loose"
+    },
+    "aco": {
+      "pt": "roça, roçado, cultura",
+      "en": "country, farm"
+    },
+    "aíua": {
+      "pt": "feio",
+      "en": "ugly"
+    },
+    "akaîu": {
+      "pt": "cajueiro",
+      "en": "cashew tree"
+    },
+    "apyaba": {
+      "pt": "índios, separação de rios",
+      "en": "indians, separation o rivers"
+    },
+    "ara": {
+      "pt": "lugar",
+      "en": "place"
+    },
+    "araçá": {
+      "pt": "araçá",
+      "en": "fruit"
+    },
+    "ará": {
+      "pt": "arara",
+      "en": "macaw"
+    },
+    "arara": {
+      "pt": "arara",
+      "en": "macaw, "
+    },
+    "ari'raña": {
+      "pt": "onça d'água, arinhanha",
+      "en": "giant otter"
+    },
+    "aru": {
+      "pt": "aru, sapo",
+      "en": "toad"
+    },
+    "aso'îaba": {
+      "pt": "manto indígena de pena",
+      "en": "native feathered coat"
+    },
+    "ã’tã": {
+      "pt": "resistente",
+      "en": "resistant"
+    },
+    "awa'rá": {
+      "pt": "vermelho",
+      "en": "red"
+    },
+    "bocaiúva": {
+      "pt": "palmeira",
+      "en": "palm tree"
+    },
+    "buri": {
+      "pt": "palmeira",
+      "en": "palm tree"
+    },
+    "çaí": {
+      "pt": "pequeno",
+      "en": "small"
+    },
+    "cha": {
+      "pt": "alto, elevado",
+      "en": "high"
+    },
+    "etama": {
+      "pt": "terra natal, pátria",
+      "en": "homeland"
+    },
+    "etá": {
+      "pt": "muitos",
+      "en": "many"
+    },
+    "eté": {
+      "pt": "serra",
+      "en": "mountain"
+    },
+    "exu": {
+      "pt": "abelha",
+      "en": "bee"
+    },
+    "e'yma": {
+      "pt": "sem",
+      "en": "without"
+    },
+    "guá": {
+      "pt": "vale, baixada",
+      "en": "valley"
+    },
+    "guará": {
+      "pt": "garça",
+      "en": "heron"
+    },
+    "gûará": {
+      "pt": "lobo-guará",
+      "en": "maned wolf"
+    },
+    "gwa'su": {
+      "pt": "veado",
+      "en": "deer"
+    },
+    "îá": {
+      "pt": "repleção, fartura, abundância",
+      "en": "abundance, plenty"
+    },
+    "katu": {
+      "pt": "bom",
+      "en": "good"
+    },
+    "kûara": {
+      "pt": "toca, buraco",
+      "en": "den, cave"
+    },
+    "mbiru": {
+      "pt": "mosca",
+      "en": "fly"
+    },
+    "mbora": {
+      "pt": "povo",
+      "en": "people"
+    },
+    "mborá": {
+      "pt": "abelha",
+      "en": "bee"
+    },
+    "mboy": {
+      "pt": "cobra",
+      "en": "snake"
+    },
+    "mirá": {
+      "pt": "madeira",
+      "en": "wood"
+    },
+    "miru": {
+      "pt": "pequeno",
+      "en": "small"
+    },
+    "nhan": {
+      "pt": "correr",
+      "en": "run"
+    },
+    "oka": {
+      "pt": "toca, morada",
+      "en": "lair, habitation"
+    },
+    "paraty": {
+      "pt": "tainha",
+      "en": "mullet"
+    },
+    "parim": {
+      "pt": "Arma de caça",
+      "en": "Hunting weapon"
+    },
+    "pe": {
+      "pt": "Em (local)",
+      "en": "In (local)"
+    },
+    "pi": {
+      "pt": "limpar, tratar",
+      "en": "to clean, treat, handle"
+    },
+    "piara": {
+      "pt": "caminho para",
+      "en": "road to"
+    },
+    "pira": {
+      "pt": "casca",
+      "en": "bark"
+    },
+    "pong": {
+      "pt": "soar, fazer ruído",
+      "en": "to make noise"
+    },
+    "poranga": {
+      "pt": "bonito",
+      "en": "beautiful"
+    },
+    "pu": {
+      "pt": "barulho",
+      "en": "noise"
+    },
+    "rá": {
+      "pt": "o que impede",
+      "en": "that is preventing"
+    },
+    "ré": {
+      "pt": "diferente, outro",
+      "en": "different"
+    },
+    "rema": {
+      "pt": "fedido",
+      "en": "stinky"
+    },
+    "tinga": {
+      "pt": "branco",
+      "en": "white"
+    },
+    "tira": {
+      "pt": "alto",
+      "en": "high"
+    },
+    "tyba": {
+      "pt": "ajuntamento, muito",
+      "en": "bunch, gathering, a lot"
+    },
+    "ua'ra": {
+      "pt": "indivíduo",
+      "en": "person"
+    },
+    "ûará": {
+      "pt": "guará",
+      "en": "ibis"
+    },
+    "uarará": {
+      "pt": "tambor indígena",
+      "en": "native drum"
+    },
+    "uirá": {
+      "pt": "pássaro",
+      "en": "bird"
+    },
+    "uru": {
+      "pt": "cesto",
+      "en": "basket"
+    },
+    "y'": {
+      "pt": "rio",
+      "en": "river"
+    },
+    "ybá": {
+      "pt": "fruta",
+      "en": "fruit"
+    },
+    "yby": {
+      "pt": "terra",
+      "en": "soil, land"
+    },
+    "ybyrá": {
+      "pt": "árvore, madeira",
+      "en": "tree, wood"
+    },
+    "ybytu": {
+      "pt": "ar, vento",
+      "en": "air, wind"
+    }
   }
-}
+]
