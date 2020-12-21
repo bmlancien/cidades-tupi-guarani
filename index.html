@@ -97,9 +97,7 @@
           let words = "";
           for (i = 0; i < tupiLength; i++) {
             let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
-            translationToPt = translationToPt.replace(/"([^"]+)":/g, '$1:');
-            translationToPt = translationToPt.replace(/\\"/g,"\uFFFF");
-            translationToPt = translationToPt.replace(/"([^"]+)":/g, '$1:').replace(/\uFFFF/g, '\\\"');
+            translationToPt.replace(/\"/g, "")
             console.log(typeof tupiObj[i]);
             console.log("test2: " +  translationToPt);
             words += "<p>" + tupiObj[i] + "</p>";
