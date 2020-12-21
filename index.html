@@ -93,7 +93,9 @@
           .then(result => cb(result[0]));
       }
 
-      getData('data/translation.json', (data) => console.log({ data }));
+      var myData = getData('data/translation.json', (data) => console.log({ data }));
+
+      console.log(myData);
 
       var popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
