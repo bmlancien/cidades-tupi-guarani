@@ -90,7 +90,7 @@
       function getData(url, cb) {
         fetch(url)
           .then(response => response.json())
-          .then(result => cb(result[0][0]));
+          .then(result => cb(result[0]));
       }
 
       var myData = getData('data/translation.json', (data) => console.log({ data }));
