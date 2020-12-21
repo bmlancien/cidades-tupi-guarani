@@ -100,7 +100,7 @@
           for (i = 0; i < tupiLength; i++) {
             let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
             translationToPt = translationToPt.substring(1, translationToPt.length-1);
-            words += "<div class='popup popup--tupi-word'></p>" + tupiObj[i] + "</p>";
+            words += "<div class='popup popup--tupi-word'><p>" + tupiObj[i] + "</p>";
             words += "<p>" + translationToPt + "</p></div>";
           }
 
