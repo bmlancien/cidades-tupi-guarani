@@ -99,11 +99,8 @@
           let jsonDataKeysLength = jsonDataKeys.length;
           console.log(jsonDataKeys);
           console.log(jsonDataKeysLength);
-          for (i = 0; i < jsonDataKeysLength; i++) {
-            console.log("test1: " + jsonDataKeys[i]);
-            for (j = 0; j < tupiLength; j++) {
-              console.log("test2: " + tupiObj[i]);
-            }
+          for (i = 0; i < tupiLength; i++) {
+            console.log("test1: " + jsonDataKeys[tupiObj[i]]);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
