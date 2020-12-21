@@ -87,15 +87,18 @@
     
       var tupiWords = getTupiWords();
 
-      function getData(url, cb) {
-        fetch(url)
-          .then(response => response.json())
-          .then(result => cb(result[0]));
-      }
+      let jsondata;    
+      fetch('data/translation.json')
+        .then(function(u){ 
+          return u.json();
+          }
+        )
+        .then(function(json){
+          jsondata = json;
+          }
+        )
 
-      var myData = getData('data/translation.json', (data) => data[0]);
-
-      console.log(myData);
+      console.log(jsondata);
 
       var popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
