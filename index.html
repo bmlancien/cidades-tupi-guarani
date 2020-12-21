@@ -102,7 +102,7 @@
             let word = tupiObj[i];
             console.log("test1: " + tupiObj[i]);
             console.log(typeof tupiObj[i]);
-            console.log("test2: " + jsonDataKeys[word]);
+            console.log("test2: " + jsonData[0][word]);
           }
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
