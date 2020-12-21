@@ -97,7 +97,7 @@
           jsondata = json;
           for(key in jsondata[0]) {
             if(jsondata[0].hasOwnProperty(key)) {
-              var value = data[key];
+              var value = jsondata[0][key];
               console.log(value);
             }
           }
