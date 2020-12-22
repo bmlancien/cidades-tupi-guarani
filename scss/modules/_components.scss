@@ -18,7 +18,7 @@
   @media only screen and (min-width: 1024px) {
     top: 5rem;
     left: 1rem;
-    width: 24rem;
+    width: 16rem;
     border-radius: 4px;
   }
   ul {
@@ -29,10 +29,9 @@
   }
   li {
     display: inline-block;
-    width: 32%;
+    width: 49%;
     height: 2.5rem;
     font-size: .75rem;
-    padding-left: .5rem;
   }
   &__item {
     display: flex;
