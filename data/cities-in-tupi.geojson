@@ -10,8 +10,7 @@
         "tupi": [
           "akaîu",
           "tyba"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Acajutiba"
+        ]
       },
       "geometry": {
         "coordinates": [-38.016944, -11.661944],
@@ -28,8 +27,7 @@
         "tupi": [
           "aco",
           "pi"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Acopiara"
+        ]
       },
       "geometry": {
         "coordinates": [-39.452778, -6.095],
@@ -45,8 +43,7 @@
         "meaning_pt": "Rio dos índios",
         "tupi": [
           "apyaba"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Apia%C3%AD"
+        ]
       },
       "geometry": {
         "coordinates": [-48.842778, -24.508889],
@@ -63,8 +60,7 @@
         "tupi": [
           "a",
           "poranga"
-        ],
-        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+        ]
       },
       "geometry": {
         "coordinates": [-38.080833, -11.66],
@@ -81,8 +77,7 @@
         "tupi": [
           "ará",
           "akaîu"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Aracaju"
+        ]
       },
       "geometry": {
         "coordinates": [-37.07, -10.91],
@@ -99,8 +94,7 @@
         "tupi": [
           "araçá",
           "tyba"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Ara%C3%A7atuba"
+        ]
       },
       "geometry": {
         "coordinates": [-50.432778, -21.208889],
@@ -117,8 +111,7 @@
         "tupi": [
           "aso'îaba",
           "ûará"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Ara%C3%A7oiaba"
+        ]
       },
       "geometry": {
         "coordinates": [-35.090833, -7.79],
@@ -135,8 +128,7 @@
         "tupi": [
           "aso'îaba",
           "ûará"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Araguari"
+        ]
       },
       "geometry": {
         "coordinates": [-48.186944, -18.648889],
@@ -154,8 +146,7 @@
           "mirá",
           "pira",
           "áca"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Arapiraca"
+        ]
       },
       "geometry": {
         "coordinates": [-36.660833, -9.751944],
@@ -172,8 +163,7 @@
         "tupi": [
           "uirá",
           "pong"
-        ],
-        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+        ]
       },
       "geometry": {
         "coordinates": [-51.423889, -23.418889],
@@ -190,8 +180,7 @@
         "tupi": [
           "ararã",
           "guá"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Ararangu%C3%A1"
+        ]
       },
       "geometry": {
         "coordinates": [-49.485833, -28.935],
@@ -208,8 +197,7 @@
         "tupi": [
           "arara",
           "kûara"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Araraquara"
+        ]
       },
       "geometry": {
         "coordinates": [-48.175833, -21.793889],
@@ -226,8 +214,7 @@
         "tupi": [
           "ará",
           "y"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Arax%C3%A1"
+        ]
       },
       "geometry": {
         "coordinates": [-46.940833, -19.592778],
@@ -243,8 +230,7 @@
         "meaning_pt": "Vale das araras",
         "tupi": [
           "ari'raña"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Ariranha_(S%C3%A3o_Paulo)"
+        ]
       },
       "geometry": {
         "coordinates": [-48.786944, -21.18777],
@@ -261,8 +247,7 @@
         "tupi": [
           "aru",
           "îá"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Aruj%C3%A1"
+        ]
       },
       "geometry": {
         "coordinates": [-46.320833, -23.395833],
@@ -276,8 +261,7 @@
         "state": "SP",
         "name_id": "atibaia_sp",
         "meaning_pt": "",
-        "tupi": [],
-        "source": "https://pt.wikipedia.org/wiki/Atibaia"
+        "tupi": []
       },
       "geometry": {
         "coordinates": [-46.55, -23.116944],
@@ -295,8 +279,7 @@
           "abá",
           "nhan",
           "aba"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Avanhandava"
+        ]
       },
       "geometry": {
         "coordinates": [-49.95, -21.460833],
@@ -313,8 +296,7 @@
         "tupi": [
           "abá",
           "ré"
-        ],
-        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+        ]
       },
       "geometry": {
         "coordinates": [-48.925833, -23.098889],
@@ -332,8 +314,7 @@
           "Sair boa água": ["bu", "ty", "ete"],
           "Verdadeira serra": ["batu", "ete"],
           "Serra": ["yby", "tira", "eté"]
-        },
-        "source": "https://pt.wikipedia.org/wiki/Baturit%C3%A9"
+        }
       },
       "geometry": {
         "coordinates": [-38.885, -4.328889],
@@ -350,8 +331,7 @@
         "tupi": [
           "ybá",
           "uru"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Bauru"
+        ]
       },
       "geometry": {
         "coordinates": [-49.060833, -22.315],
@@ -368,8 +348,7 @@
         "tupi": [
           "paraty",
           "oka"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Bertioga"
+        ]
       },
       "geometry": {
         "coordinates": [-46.138889, -23.853889],
@@ -386,8 +365,7 @@
         "tupi": [
           "mbiru",
           "miry"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Birigui"
+        ]
       },
       "geometry": {
         "coordinates": [-50.34, -21.288889],
@@ -403,8 +381,7 @@
         "meaning_pt": "Palmeira bocaiúva",
         "tupi": [
           "bocaiúva"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Bocaiuva"
+        ]
       },
       "geometry": {
         "coordinates": [-43.815, -17.107778],
@@ -421,8 +398,7 @@
         "tupi": [
           "mboy",
           "tyba"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Boituva"
+        ]
       },
       "geometry": {
         "coordinates": [-47.671944, -23.282778],
@@ -438,8 +414,7 @@
         "meaning_pt": "Abelha",
         "tupi": [
           "mborá"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Bor%C3%A1"
+        ]
       },
       "geometry": {
         "coordinates": [-50.533889, -22.27],
@@ -457,8 +432,7 @@
           "yby",
           "mbora",
           "e'yma"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Borborema_(S%C3%A3o_Paulo)"
+        ]
       },
       "geometry": {
         "coordinates": [-49.073889, -21.62],
@@ -475,8 +449,7 @@
         "tupi": [
           "ybytu",
           "katu"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Botucatu"
+        ]
       },
       "geometry": {
         "coordinates": [-48.445, -22.885833],
@@ -493,8 +466,7 @@
         "tupi": [
           "ybyrá",
           "rema"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Buerarema"
+        ]
       },
       "geometry": {
         "coordinates": [-39.3, -14.958889],
@@ -511,8 +483,7 @@
         "tupi": [
           "buri",
           "etama"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Buritama"
+        ]
       },
       "geometry": {
         "coordinates": [-50.146944, -21.065833],
@@ -526,8 +497,7 @@
         "state": "PE",
         "name_id": "gravata_pe",
         "meaning_pt": "Caraguatá (Nome de uma planta do gênero Bromelia)",
-        "tupi": [],
-        "source": "https://pt.wikipedia.org/wiki/Gravat%C3%A1_(Pernambuco)"
+        "tupi": []
       },
       "geometry": {
         "coordinates": [-35.565, -8.200833],
@@ -543,8 +513,7 @@
         "meaning_pt": "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)",
         "tupi": [
           "y"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Gravata%C3%AD"
+        ]
       },
       "geometry": {
         "coordinates": [-50.993889, -29.943333],
@@ -561,8 +530,7 @@
         "tupi": [
           "y",
           "gwa'su"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Gua%C3%A7u%C3%AD"
+        ]
       },
       "geometry": {
         "coordinates": [-41.678889, -20.775833],
@@ -580,8 +548,7 @@
           "guá",
           "y",
           "rá"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Gua%C3%ADra_(S%C3%A3o_Paulo)"
+        ]
       },
       "geometry": {
         "coordinates": [-48.310833, -20.317778],
@@ -597,8 +564,7 @@
         "meaning_pt": "Cachoeira pequena",
         "tupi": [
           "miru"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guajar%C3%A1-Mirim"
+        ]
       },
       "geometry": {
         "coordinates": [-65.339444, -10.782778],
@@ -615,8 +581,7 @@
         "tupi": [
           "guá",
           "piara"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guapiara"
+        ]
       },
       "geometry": {
         "coordinates": [-48.532778, -24.185],
@@ -632,8 +597,7 @@
         "meaning_pt": "Guará (pássaro)",
         "tupi": [
           "awa'rá"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guar%C3%A1_(S%C3%A3o_Paulo)"
+        ]
       },
       "geometry": {
         "coordinates": [-47.823889, -20.427778],
@@ -649,8 +613,7 @@
         "meaning_pt": "Guará (pássaro) pequeno",
         "tupi": [
           "çaí"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guara%C3%A7a%C3%AD_(S%C3%A3o_Paulo)"
+        ]
       },
       "geometry": {
         "coordinates": [-51.206944, -21.027778],
@@ -667,8 +630,7 @@
         "tupi": [
           "ybyrá",
           "ã’tã"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guarant%C3%A3_do_Norte"
+        ]
       },
       "geometry": {
         "coordinates": [-54.91, -9.787778],
@@ -684,8 +646,7 @@
         "meaning_pt": "Arma para a caça de guarás",
         "tupi": [
           "parim"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guarapari"
+        ]
       },
       "geometry": {
         "coordinates": [-40.510833, -20.657778],
@@ -703,8 +664,7 @@
           "gûará",
           "pu",
           "aba"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guarapuava"
+        ]
       },
       "geometry": {
         "coordinates": [-51.457778, -25.395],
@@ -721,8 +681,7 @@
         "tupi": [
           "uarará",
           "pe"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guararapes"
+        ]
       },
       "geometry": {
         "coordinates": [-50.642778, -21.260833],
@@ -739,8 +698,7 @@
         "tupi": [
           "guará",
           "tinga"
-        ],
-        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+        ]
       },
       "geometry": {
         "coordinates": [-39.782778, -16.583889],
@@ -757,8 +715,7 @@
         "tupi": [
           "ua'ra",
           "aíua"
-        ],
-        "source": "http://www.terrabrasileira.com.br/folclore/a01icidad.html"
+        ]
       },
       "geometry": {
         "coordinates": [-48.227778, -21.36],
@@ -772,8 +729,7 @@
         "state": "SP",
         "name_id": "guaruja_sp",
         "meaning_pt": "Guaruçá (caranguejo)",
-        "tupi": [],
-        "source": "https://pt.wikipedia.org/wiki/Guaruj%C3%A1"
+        "tupi": []
       },
       "geometry": {
         "coordinates": [-46.255833, -23.992778],
@@ -787,8 +743,7 @@
         "state": "SP",
         "name_id": "guaruja_sp",
         "meaning_pt": "Guaramomis (Nativos que habitavam a região)",
-        "tupi": [],
-        "source": "https://pt.wikipedia.org/wiki/Guarulhos"
+        "tupi": []
       },
       "geometry": {
         "coordinates": [-46.532778, -23.462778],
@@ -806,8 +761,7 @@
           "guá",
           "exu",
           "pe"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guaxup%C3%A9"
+        ]
       },
       "geometry": {
         "coordinates": [-46.712778, -21.305],
@@ -824,8 +778,7 @@
         "tupi": [
           "guará",
           "tinga"
-        ],
-        "source": "https://pt.wikipedia.org/wiki/Guiratinga"
+        ]
       },
       "geometry": {
         "coordinates": [-53.757778, -16.348889],
