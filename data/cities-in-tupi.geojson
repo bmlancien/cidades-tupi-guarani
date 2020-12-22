@@ -327,12 +327,12 @@
         "name": "Baturité",
         "state": "CE",
         "name_id": "baturite_ce",
-        "meaning_pt": "Serra",
-        "tupi": [
-          "yby",
-          "tira",
-          "eté"
-        ],
+        "meaning_pt": 
+        {
+          "Sair boa água": ["bu", "ty", "ete"],
+          "Verdadeira serra": ["batu", "ete"],
+          "Serra": ["yby", "tira", "eté"]
+        },
         "source": "https://pt.wikipedia.org/wiki/Baturit%C3%A9"
       },
       "geometry": {
