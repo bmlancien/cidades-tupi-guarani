@@ -87,7 +87,7 @@
 
           // add tupi word(s) and portuguese translation(s)
           for (i = 0; i < tupiLength; i++) {
-            let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
+            let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]);
             translationToPt = translationToPt.substring(1, translationToPt.length-1);
             words += "<div class='popup popup--tupi-word'><div class='tupi'><p>" + tupiObj[i] + "</p></div>";
             words += "<p class='pt'>= " + translationToPt + "</p></div>";

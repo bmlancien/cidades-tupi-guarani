@@ -7,7 +7,6 @@
         "state": "BA",
         "name_id": "acajutiba_ba",
         "meaning_pt": "Ajuntamento de cajueiros",
-        "meaning_en": "Bunch of cashew trees",
         "tupi": [
           "akaîu",
           "tyba"
@@ -26,7 +25,6 @@
         "state": "CE",
         "name_id": "acopiara_ce",
         "meaning_pt": "Aquele que cultiva a terra",
-        "meaning_en": "Farmer",
         "tupi": [
           "aco",
           "pi"
@@ -45,7 +43,6 @@
         "state": "SP",
         "name_id": "apiai_sp",
         "meaning_pt": "Rio dos índios",
-        "meaning_en": "River of the indians",
         "tupi": [
           "apyaba"
         ],
@@ -63,7 +60,6 @@
         "state": "BA",
         "name_id": "apora_ba",
         "meaning_pt": "Monte bonito",
-        "meaning_en": "Beautiful mount",
         "tupi": [
           "a",
           "poranga"
@@ -82,7 +78,6 @@
         "state": "SE",
         "name_id": "aracaju_se",
         "meaning_pt": "Cajueiro das araras",
-        "meaning_en": "Cashew tree of the macaws",
         "tupi": [
           "ará",
           "akaîu"
@@ -101,7 +96,6 @@
         "state": "SP",
         "name_id": "aracatuba_sp",
         "meaning_pt": "Muitos araçás",
-        "meaning_en": "High quantity of fruits",
         "tupi": [
           "araçá",
           "tyba"
@@ -120,7 +114,6 @@
         "state": "PE",
         "name_id": "aracoiaba_pe",
         "meaning_pt": "Manto de penas de guarás",
-        "meaning_en": "Feathered coat of the ibis",
         "tupi": [
           "aso'îaba",
           "ûará"
@@ -139,7 +132,6 @@
         "state": "MG",
         "name_id": "araguari_mg",
         "meaning_pt": " Rio da baixada dos ararás",
-        "meaning_en": "Valley's river of the macaws",
         "tupi": [
           "aso'îaba",
           "ûará"
@@ -158,7 +150,6 @@
         "state": "AL",
         "name_id": "arapiraca_al",
         "meaning_pt": " Farpas",
-        "meaning_en": "Splinters",
         "tupi": [
           "mirá",
           "pira",
@@ -178,7 +169,6 @@
         "state": "PR",
         "name_id": "arapongas_pr",
         "meaning_pt": " Pássaro que faz ruído",
-        "meaning_en": "Bird making noise",
         "tupi": [
           "uirá",
           "pong"
@@ -197,7 +187,6 @@
         "state": "SC",
         "name_id": "ararangua_sc",
         "meaning_pt": " Vale das araras",
-        "meaning_en": "Valley of the macaws",
         "tupi": [
           "ararã",
           "guá"
@@ -216,7 +205,6 @@
         "state": "SP",
         "name_id": "araraquara_sp",
         "meaning_pt": "Vale das araras",
-        "meaning_en": "Valley of the macaws",
         "tupi": [
           "arara",
           "kûara"
@@ -235,7 +223,6 @@
         "state": "MS",
         "name_id": "araxa_ms",
         "meaning_pt": "Lugar, terreno elevado",
-        "meaning_en": "High ground",
         "tupi": [
           "ará",
           "y"
@@ -254,7 +241,6 @@
         "state": "SP",
         "name_id": "ariranha_sp",
         "meaning_pt": "Vale das araras",
-        "meaning_en": "Valley of the macaws",
         "tupi": [
           "ari'raña"
         ],
@@ -272,7 +258,6 @@
         "state": "SP",
         "name_id": "aruja_sp",
         "meaning_pt": "Abundância de arus",
-        "meaning_en": "Plenty of toads",
         "tupi": [
           "aru",
           "îá"
@@ -291,7 +276,6 @@
         "state": "SP",
         "name_id": "atibaia_sp",
         "meaning_pt": "",
-        "meaning_en": "",
         "tupi": [],
         "source": "https://pt.wikipedia.org/wiki/Atibaia"
       },
@@ -307,7 +291,6 @@
         "state": "SP",
         "name_id": "avanhandava_sp",
         "meaning_pt": "Lugar da corrida dos homens",
-        "meaning_en": "Place of the men running",
         "tupi": [
           "abá",
           "nhan",
@@ -327,7 +310,6 @@
         "state": "SP",
         "name_id": "avare_sp",
         "meaning_pt": "Padre, missionário",
-        "meaning_en": "Priest, missionary",
         "tupi": [
           "abá",
           "ré"
@@ -346,7 +328,6 @@
         "state": "CE",
         "name_id": "baturite_ce",
         "meaning_pt": "Serra",
-        "meaning_en": "Mountain",
         "tupi": [
           "yby",
           "tira",
@@ -366,7 +347,6 @@
         "state": "SP",
         "name_id": "bauru_sp",
         "meaning_pt": "Cesto de frutas",
-        "meaning_en": "Fruit basket",
         "tupi": [
           "ybá",
           "uru"
@@ -385,7 +365,6 @@
         "state": "SP",
         "name_id": "bertioga_sp",
         "meaning_pt": "Casa do peixe branco",
-        "meaning_en": "House the white fish",
         "tupi": [
           "paraty",
           "oka"
@@ -404,7 +383,6 @@
         "state": "SP",
         "name_id": "birigui_sp",
         "meaning_pt": "Mosqua pequena",
-        "meaning_en": "Small fly",
         "tupi": [
           "mbiru",
           "miry"
@@ -423,7 +401,6 @@
         "state": "MG",
         "name_id": "bocaiuva_mg",
         "meaning_pt": "Palmeira bocaiúva",
-        "meaning_en": "Type of palm tree",
         "tupi": [
           "bocaiúva"
         ],
@@ -441,7 +418,6 @@
         "state": "SP",
         "name_id": "boituva_sp",
         "meaning_pt": "Local de muitas cobras",
-        "meaning_en": "Home of many snakes",
         "tupi": [
           "mboy",
           "tyba"
@@ -460,7 +436,6 @@
         "state": "SP",
         "name_id": "bora_sp",
         "meaning_pt": "Abelha",
-        "meaning_en": "Bee",
         "tupi": [
           "mborá"
         ],
@@ -478,7 +453,6 @@
         "state": "SP",
         "name_id": "borborema_sp",
         "meaning_pt": "Terra sem habitantes",
-        "meaning_en": "Inhabited land",
         "tupi": [
           "yby",
           "mbora",
@@ -498,7 +472,6 @@
         "state": "SP",
         "name_id": "botucatu_sp",
         "meaning_pt": "Bons ares",
-        "meaning_en": "Good climate",
         "tupi": [
           "ybytu",
           "katu"
@@ -517,7 +490,6 @@
         "state": "BA",
         "name_id": "buerarema_ba",
         "meaning_pt": "Madeira fedida",
-        "meaning_en": "Stinky wood",
         "tupi": [
           "ybyrá",
           "rema"
@@ -536,7 +508,6 @@
         "state": "SP",
         "name_id": "buritama_sp",
         "meaning_pt": "Terra dos buris (palmeira)",
-        "meaning_en": "Land of the buris (palm tree)",
         "tupi": [
           "buri",
           "etama"
@@ -555,7 +526,6 @@
         "state": "PE",
         "name_id": "gravata_pe",
         "meaning_pt": "Caraguatá (Nome de uma planta do gênero Bromelia)",
-        "meaning_en": "Bromelia pinguin (Name of a plant in the genus Bromelia)",
         "tupi": [],
         "source": "https://pt.wikipedia.org/wiki/Gravat%C3%A1_(Pernambuco)"
       },
@@ -571,7 +541,6 @@
         "state": "RS",
         "name_id": "gravatai_rs",
         "meaning_pt": "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)",
-        "meaning_en": "River of bromelia pinguin (Name of a plant in the genus Bromelia)",
         "tupi": [
           "y"
         ],
@@ -589,7 +558,6 @@
         "state": "ES",
         "name_id": "guacui_es",
         "meaning_pt": "Água de veado",
-        "meaning_en": "Deer's water",
         "tupi": [
           "y",
           "gwa'su"
@@ -608,7 +576,6 @@
         "state": "SP",
         "name_id": "guaira_sp",
         "meaning_pt": "Águas correntes",
-        "meaning_en": "Running water",
         "tupi": [
           "guá",
           "y",
@@ -628,7 +595,6 @@
         "state": "RO",
         "name_id": "guajaramirim_ro",
         "meaning_pt": "Cachoeira pequena",
-        "meaning_en": "Small waterfall",
         "tupi": [
           "miru"
         ],
@@ -646,7 +612,6 @@
         "state": "SP",
         "name_id": "guapiara_sp",
         "meaning_pt": "Caminho para a enseada",
-        "meaning_en": "Road to the valley",
         "tupi": [
           "guá",
           "piara"
@@ -665,7 +630,6 @@
         "state": "SP",
         "name_id": "guara_sp",
         "meaning_pt": "Guará (pássaro)",
-        "meaning_en": "Guará (bird)",
         "tupi": [
           "awa'rá"
         ],
@@ -683,7 +647,6 @@
         "state": "SP",
         "name_id": "guaracai_sp",
         "meaning_pt": "Guará (pássaro) pequeno",
-        "meaning_en": "Small guará (bird)",
         "tupi": [
           "çaí"
         ],
@@ -701,7 +664,6 @@
         "state": "MT",
         "name_id": "guarantadonorte_mt",
         "meaning_pt": "Madeira resistente",
-        "meaning_en": "Resistent wood",
         "tupi": [
           "ybyrá",
           "ã’tã"
@@ -720,7 +682,6 @@
         "state": "ES",
         "name_id": "guarapari_es",
         "meaning_pt": "Arma para a caça de guarás",
-        "meaning_en": "Hunting weapon for guarás (birds)",
         "tupi": [
           "parim"
         ],
@@ -738,7 +699,6 @@
         "state": "PR",
         "name_id": "guarapuava_pr",
         "meaning_pt": "Lugar do barulho dos lobos-guarás",
-        "meaning_en": "Where the maned wolves make noise",
         "tupi": [
           "gûará",
           "pu",
@@ -758,7 +718,6 @@
         "state": "SP",
         "name_id": "guararapes_sp",
         "meaning_pt": "Estrondo dos tambores",
-        "meaning_en": "Sound of the drums",
         "tupi": [
           "uarará",
           "pe"
@@ -777,7 +736,6 @@
         "state": "BA",
         "name_id": "guaratinga_ba",
         "meaning_pt": "Garça branca",
-        "meaning_en": "White heron",
         "tupi": [
           "guará",
           "tinga"
@@ -796,7 +754,6 @@
         "state": "SP",
         "name_id": "guariba_sp",
         "meaning_pt": "Gente ruim",
-        "meaning_en": "Bad people",
         "tupi": [
           "ua'ra",
           "aíua"
@@ -815,7 +772,6 @@
         "state": "SP",
         "name_id": "guaruja_sp",
         "meaning_pt": "Guaruçá (caranguejo)",
-        "meaning_en": "Atlantic ghost crab",
         "tupi": [],
         "source": "https://pt.wikipedia.org/wiki/Guaruj%C3%A1"
       },
@@ -831,7 +787,6 @@
         "state": "SP",
         "name_id": "guaruja_sp",
         "meaning_pt": "Guaramomis (Nativos que habitavam a região)",
-        "meaning_en": "Guaramomis (Natives living in this region)",
         "tupi": [],
         "source": "https://pt.wikipedia.org/wiki/Guarulhos"
       },
@@ -847,7 +802,6 @@
         "state": "MG",
         "name_id": "guaxupe_mg",
         "meaning_pt": "Caminho das abelhas",
-        "meaning_en": "Way of the bees",
         "tupi": [
           "guá",
           "exu",
@@ -867,7 +821,6 @@
         "state": "MT",
         "name_id": "guiratinga_mt",
         "meaning_pt": "Garça branca",
-        "meaning_en": "White heron",
         "tupi": [
           "guará",
           "tinga"
