@@ -143,19 +143,10 @@
 
           cityNamesIDListFunction(jsonCityMeanings);
           console.log(citiesInPt);
-          
-          
-
-          // add tupi word(s) and portuguese translation(s)
-          for (i = 0; i < tupiLength; i++) {
-            let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]);
-            words += "<div class='popup popup--tupi-word'><div class='tupi'><p>" + tupiObj[i] + "</p></div>";
-            words += "<p class='pt'>= " + translationToPt + "</p></div>";
-          }
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">= ' + feature.properties.meaning_pt + '</p></div>' + words)
+            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">= ' + citiesInPt + '</p></div>' + words)
             .addTo(map);
           }
         )
