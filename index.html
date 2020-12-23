@@ -118,11 +118,11 @@
               if (feature.properties.name_id == cities[i]) {
                 cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
                 tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
-                console.log(cityMeaning);
-                console.log(tupiWords[0]);
-                displayCityMeanings(cityMeaning, tupiWords);
               }
             }
+            console.log(cityMeaning);
+            console.log(tupiWords[0]);
+            displayCityMeanings(cityMeaning, tupiWords);
           }
 
           function cityNamesIDListFunction(city) {
