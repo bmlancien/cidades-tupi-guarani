@@ -35,12 +35,9 @@
 }
 
 .mapboxgl-map .popup {
-  &__top {
+  &--top {
     opacity: 1;
     padding: 1rem 1.5rem 0 1rem;
-  }
-  &__item {
-    padding-bottom: .5rem;
   }
   &__city-name {
     font-size: .875rem;
