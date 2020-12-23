@@ -83,15 +83,15 @@
         }));
       })
         .then(function(json){
-          function cityNamesIDList(city) {
+          function cityNamesIDListFunction(city) {
             console.log(city);
           }
-          
+
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
           let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
           let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]); // list of tupi words
-          let cityNamesIDList = cityNamesIDList(jsonCityMeanings);
+          let cityNamesIDList = cityNamesIDListFunction(jsonCityMeanings);
           console.log(jsonCityMeaningsKeys);
           console.log(jsonTupiTranslationsKeys);
           let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
