@@ -5,12 +5,7 @@
       "properties": {
         "name": "Acajutiba",
         "state": "BA",
-        "name_id": "acajutiba_ba",
-        "meaning_pt": "Ajuntamento de cajueiros",
-        "tupi": [
-          "akaîu",
-          "tyba"
-        ]
+        "name_id": "acajutiba_ba"
       },
       "geometry": {
         "coordinates": [-38.016944, -11.661944],
@@ -22,12 +17,7 @@
       "properties": {
         "name": "Acopiara",
         "state": "CE",
-        "name_id": "acopiara_ce",
-        "meaning_pt": "Aquele que cultiva a terra",
-        "tupi": [
-          "aco",
-          "pi"
-        ]
+        "name_id": "acopiara_ce"
       },
       "geometry": {
         "coordinates": [-39.452778, -6.095],
@@ -39,11 +29,7 @@
       "properties": {
         "name": "Apiaí",
         "state": "SP",
-        "name_id": "apiai_sp",
-        "meaning_pt": "Rio dos índios",
-        "tupi": [
-          "apyaba"
-        ]
+        "name_id": "apiai_sp"
       },
       "geometry": {
         "coordinates": [-48.842778, -24.508889],
@@ -53,31 +39,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aporá",
-        "state": "BA",
-        "name_id": "apora_ba",
-        "meaning_pt": "Monte bonito",
-        "tupi": [
-          "a",
-          "poranga"
-        ]
-      },
-      "geometry": {
-        "coordinates": [-38.080833, -11.66],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Aracaju",
         "state": "SE",
-        "name_id": "aracaju_se",
-        "meaning_pt": "Cajueiro das araras",
-        "tupi": [
-          "ará",
-          "akaîu"
-        ]
+        "name_id": "aracaju_se"
       },
       "geometry": {
         "coordinates": [-37.07, -10.91],
@@ -89,12 +53,7 @@
       "properties": {
         "name": "Araçatuba",
         "state": "SP",
-        "name_id": "aracatuba_sp",
-        "meaning_pt": "Muitos araçás",
-        "tupi": [
-          "araçá",
-          "tyba"
-        ]
+        "name_id": "aracatuba_sp"
       },
       "geometry": {
         "coordinates": [-50.432778, -21.208889],
@@ -106,12 +65,7 @@
       "properties": {
         "name": "Araçoiaba",
         "state": "PE",
-        "name_id": "aracoiaba_pe",
-        "meaning_pt": "Manto de penas de guarás",
-        "tupi": [
-          "aso'îaba",
-          "ûará"
-        ]
+        "name_id": "aracoiaba_pe"
       },
       "geometry": {
         "coordinates": [-35.090833, -7.79],
@@ -124,11 +78,7 @@
         "name": "Araguari",
         "state": "MG",
         "name_id": "araguari_mg",
-        "meaning_pt": " Rio da baixada dos ararás",
-        "tupi": [
-          "aso'îaba",
-          "ûará"
-        ]
+        "meaning_pt": " Rio da baixada dos ararás"
       },
       "geometry": {
         "coordinates": [-48.186944, -18.648889],
