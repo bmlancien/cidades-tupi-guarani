@@ -62,8 +62,6 @@
       }
 
       var feature = features[0];
-      var tupiObj = JSON.parse(feature.properties.tupi);
-      var tupiLength = tupiObj.length;
 
       function getTupiWords() {
         let words = "";
@@ -74,28 +72,62 @@
       }
 
       let jsonData;    
-      fetch('data/translation.json')
-        .then(function(u){ 
-          return u.json();
-          }
-        )
+      Promise.all([
+        fetch('data/city-meanings.json'),
+        fetch('data/translation.json')
+      ])
+      .then(function (responses) {
+        // Get a JSON object from each of the responses
+        return Promise.all(responses.map(function (response) {
+          return response.json();
+        }));
+      })
         .then(function(json){
-          jsonData = json;
-          let jsonDataKeys = Object.keys(jsonData[0]);
-          let jsonDataKeysLength = jsonDataKeys.length;
-          let words = "";
+          let jsonCityMeanings = json[0];
+          let jsonTupiTranslations = json[1];
+          let citiesInPt = "";
+          let cityMeaning = "";
+          let tupiWords = "";
 
-          // add tupi word(s) and portuguese translation(s)
-          for (i = 0; i < tupiLength; i++) {
-            let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]["pt"]);
-            translationToPt = translationToPt.substring(1, translationToPt.length-1);
-            words += "<div class='popup popup--tupi-word'><div class='tupi'><p>" + tupiObj[i] + "</p></div>";
-            words += "<p class='pt'>= " + translationToPt + "</p></div>";
+          function displayCityMeanings(city, tupi) {
+            let wordInTupi = "";
+            for (i = 0; i < city.length; i++) {
+              citcitiesInPt = citiesInPt + "<div class='popup popup__item'>";
+              citiesInPt = citiesInPt + "<p class='popup popup__city-name'>= " + city[i] + "</p>";
+                for (j = 0; j < tupi[i].length; j++) {
+                  wordInTupi = tupi[i][j];
+                  citiesInPt = citiesInPt + "<div class='popup popup__words'><p class='popup popup__word-tupi'>" + wordInTupi + "</p><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
+                }
+              citcitiesInPt = citiesInPt + "</div>";
+            }
+            return citiesInPt;
           }
+
+          function cityMeanings(cities) {
+            for (i = 0; i < cities.length; i++) {
+              if (feature.properties.name_id == cities[i]) {
+                cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
+                tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
+              }
+            }
+            console.log(cityMeaning);
+            console.log(tupiWords[0]);
+            displayCityMeanings(cityMeaning, tupiWords);
+          }
+
+          function cityNamesIDListFunction(city) {
+            let citiesID = [];
+            for (i = 0; i < city.length; i++) {
+              citiesID.push(city[i].name_id)
+            }
+            cityMeanings(citiesID);
+          }
+
+          cityNamesIDListFunction(jsonCityMeanings);
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">= ' + feature.properties.meaning_pt + '</p></div>' + words)
+            .setHTML('<div class="popup popup__top"><div class="popup popup__city">' + feature.properties.name + '</div>' + citiesInPt + '</div>')
             .addTo(map);
           }
         )
