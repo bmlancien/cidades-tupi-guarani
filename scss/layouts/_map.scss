@@ -42,6 +42,11 @@
   &__item {
     padding-bottom: .5rem;
   }
+  &__city {
+    font-size: 1rem;
+    font-weight: 700;
+    color: $gray-1;
+  }
   &__city-name {
     font-size: .875rem;
     letter-spacing: .05rem;
@@ -64,6 +69,7 @@
     font-size: .875rem;
     font-weight: 300;
     color: $gray-1;
+    padding-left: .5rem;
     margin-bottom: .5rem;
   }
 }

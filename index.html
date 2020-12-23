@@ -127,7 +127,7 @@
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<div class="popup popup__top"><div class="popup popup__city-name">' + feature.properties.name + '</div><p class="popup popup__item">' + citiesInPt + '</p></div>')
+            .setHTML('<div class="popup popup__top"><div class="popup popup__city">' + feature.properties.name + '</div><div>' + citiesInPt + '</div></div>')
             .addTo(map);
           }
         )
