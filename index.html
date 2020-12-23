@@ -103,10 +103,13 @@
           function displayCityMeanings(city, tupi) {
             console.log(city.length);
             console.log(tupi.length);
-            //for (i = 0; i < city.length; i++) {
-              //citiesInPt += "<div class='tupi'><p>" + city[i] + "</p></div><div class='tupi'><p>" + tupi[i] + "</p></div>";
-              //console.log(citiesInPt);
-            //}
+            for (i = 0; i < city.length; i++) {
+              citiesInPt = citiesInPt + "<div class='tupi'><p>" + city[i] + "</p></div>";
+                for (j = 0; i < tupi.length[i][j]; j++) {
+                  citiesInPt = citiesInPt + "<div class='tupi'><p>" + tupi[i][j] + "</p></div>";
+                }
+              console.log(citiesInPt);
+            }
             return citiesInPt;
           }
 
