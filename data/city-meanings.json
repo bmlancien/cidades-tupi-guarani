@@ -49,6 +49,57 @@
     }
   },
   {
+    "name_id": "arapiraca_al",
+    "meaning_pt": 
+    {
+      "Farpas": ["mirá", "pira", "áca"],
+      "Ramo que arara visita": []
+    }
+  },
+  {
+    "name_id": "arapongas_pr",
+    "meaning_pt": 
+    {
+      "Pássaro que faz ruído": ["uirá", "pong"]
+    }
+  },
+  {
+    "name_id": "ararangua_sc",
+    "meaning_pt": 
+    {
+      "Vale das araras": ["arara", "guá"],
+      "Barulho dos papagaios": ["arara", "anguá"]
+    }
+  },
+  {
+    "name_id": "araraquara_sp",
+    "meaning_pt": 
+    {
+      "Toca das araras": ["arara", "kûara"]
+    }
+  },
+  {
+    "name_id": "araxa_ms",
+    "meaning_pt": 
+    {
+      "Lugar, terreno elevado": ["ará", "cha"]
+    }
+  },
+  {
+    "name_id": "ariranha_sp",
+    "meaning_pt": 
+    {
+      "Ariranha": ["ari'raña"]
+    }
+  },
+  {
+    "name_id": "aruja_sp",
+    "meaning_pt": 
+    {
+      "Abundância de arus": ["aru", "îá"]
+    }
+  },
+  {
     "name_id": "baturite_ce",
     "meaning_pt": 
     {
