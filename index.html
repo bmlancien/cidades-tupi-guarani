@@ -85,9 +85,6 @@
         .then(function(json){
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
-          let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
-          let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]); // list of tupi words
-          let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
           let citiesInPt = "";
           let words = [];
           let cityMeaning = "";
@@ -100,10 +97,9 @@
               citiesInPt = citiesInPt + "<p class='popup popup__city-name'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
-                  citiesInPt = citiesInPt + "<p class='popup popup__word-tupi'>" + wordInTupi + "</p><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p>";
+                  citiesInPt = citiesInPt + "<div class='popup popup__words'><p class='popup popup__word-tupi'>" + wordInTupi + "</p><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
                 }
               citcitiesInPt = citiesInPt + "</div>";
-              console.log(citiesInPt);
             }
             return citiesInPt;
           }
@@ -129,7 +125,6 @@
           }
 
           cityNamesIDListFunction(jsonCityMeanings);
-          console.log(citiesInPt);
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
