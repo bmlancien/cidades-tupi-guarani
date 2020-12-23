@@ -93,21 +93,16 @@
           let cityMeaning = "";
           let tupiWords = "";
 
-          function removeDoubleQuotes(value) {
-            if (typeof value === "string") {
-              console.log(value.substring(1, translationToPt.length-1));
-              return value.substring(1, translationToPt.length-1); // remove double quotes
-            }
-          }
-
           function displayCityMeanings(city, tupi) {
             let wordInTupi = "";
             for (i = 0; i < city.length; i++) {
-              citiesInPt = citiesInPt + "<div class='popup popup__city-name'><p>= " + city[i] + "</p></div>";
+              citcitiesInPt = citiesInPt + "<div class='popup popup__item'>";
+              citiesInPt = citiesInPt + "<p class='popup popup__city-name'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
-                  citiesInPt = citiesInPt + "<div class='popup popup__word-tupi'><p>" + wordInTupi + "</p><p class='popup popup__word-pt'>" + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
+                  citiesInPt = citiesInPt + "<p class='popup popup__word-tupi'>" + wordInTupi + "</p><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p>";
                 }
+              citcitiesInPt = citiesInPt + "</div>";
               console.log(citiesInPt);
             }
             return citiesInPt;

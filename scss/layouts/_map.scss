@@ -40,22 +40,24 @@
     padding: 1rem 1.5rem 0 1rem;
   }
   &__city-name {
-    display: inline-block;
-    font-size: 1rem;
+    font-size: .875rem;
     letter-spacing: .05rem;
     font-weight: 700;
-    color: $gray-1;
+    color: $primary-color-3;
   }
   &__word-tupi {
     display: inline-block;
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: .875rem;
+    font-weight: 300;
     color: $primary-color-3;
+    background-color: $secondary-color-1;
+    padding: .25rem;
+    border-radius: 30px;
   }
   &__word-pt {
     display: inline-block;
-    font-size: 1rem;
-    font-weight: 400;
-    color: $primary-color-3;
+    font-size: .875rem;
+    font-weight: 300;
+    color: $gray-1;
   }
 }
