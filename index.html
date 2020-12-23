@@ -121,12 +121,14 @@
 
           function cityMeanings(cities) {
             let cityMeaning = "";
+            let tupiWords = "";
             for (i = 0; i < cities.length; i++) {
               if (feature.properties.name_id == cities[i]) {
                 cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
+                tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
                 console.log(cityMeaning);
                 displayCityMeanings(cityMeaning);
-                displayTupiWords(Object.values(jsonCityMeanings[i].meaning_pt))
+                displayTupiWords(tupiWords);
               }
             }
           }
