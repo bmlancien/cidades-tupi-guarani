@@ -62,8 +62,6 @@
       }
 
       var feature = features[0];
-      var tupiObj = JSON.parse(feature.properties.tupi);
-      var tupiLength = tupiObj.length;
 
       function getTupiWords() {
         let words = "";
@@ -74,12 +72,18 @@
       }
 
       let jsonData;    
-      fetch('data/translation.json')
-        .then(function(u){ 
-          return u.json();
-          }
-        )
+      Promise.all([
+        fetch('data/translation.json'),
+        fetch('data/city-meanings.json')
+      ])
+      .then(function (responses) {
+        // Get a JSON object from each of the responses
+        return Promise.all(responses.map(function (response) {
+          return response.json();
+        }));
+      })
         .then(function(json){
+          console.log(json);
           jsonData = json;
           let jsonDataKeys = Object.keys(jsonData[0]);
           let jsonDataKeysLength = jsonDataKeys.length;
