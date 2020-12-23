@@ -83,14 +83,25 @@
         }));
       })
         .then(function(json){
+          let jsonCityMeanings = json[0];
+          let jsonTupiTranslations = json[1];
+          let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
+          let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]); // list of tupi words
+          let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
+          let words = "";
+
           function cityMeanings(cities) {
             for (i = 0; i < cities.length; i++) {
-              console.log(feature.properties.meaning_pt);
+              console.log(feature.properties.name_id);
               console.log(cities[i]);
-              console.log(typeof feature.properties.meaning_pt);
-              console.log(typeof cities[i]);
               if (feature.properties.name_id = cities[i]) {
-                console.log(Object.keyscities[i]);
+                console.log(feature.properties.name_id);
+                console.log(cities[i]);
+                console.log(Object.keys(jsonCityMeanings[0]));
+                console.log(Object.keys(jsonCityMeanings[0].meaning_pt));
+                console.log(Object.keys(jsonCityMeanings.meaning_pt));
+                console.log(Object.keys(jsonCityMeanings[i].meaning_pt));
+                console.log(Object.keys(jsonCityMeanings[0][i].meaning_pt));
               }
             }
           }
@@ -104,16 +115,12 @@
             cityMeanings(citiesID);
           }
 
-          let jsonCityMeanings = json[0];
-          let jsonTupiTranslations = json[1];
-          let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
-          let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]); // list of tupi words
           cityNamesIDListFunction(jsonCityMeanings);
           console.log(jsonCityMeaningsKeys);
           console.log(jsonTupiTranslationsKeys);
           console.log(cityNamesIDList);
-          let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
-          let words = "";
+          
+          
 
           // add tupi word(s) and portuguese translation(s)
           for (i = 0; i < tupiLength; i++) {
