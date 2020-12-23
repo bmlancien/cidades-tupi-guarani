@@ -86,7 +86,6 @@
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
           let citiesInPt = "";
-          let words = [];
           let cityMeaning = "";
           let tupiWords = "";
 
@@ -128,7 +127,7 @@
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><div>' + words + '</div>')
+            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">' + citiesInPt + '</p></div>')
             .addTo(map);
           }
         )
