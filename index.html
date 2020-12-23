@@ -94,12 +94,11 @@
             for (i = 0; i < cities.length; i++) {
               console.log(feature.properties.name_id);
               console.log(cities[i]);
-              if (feature.properties.name_id = cities[i]) {
+              if (feature.properties.name_id == cities[i]) {
                 console.log(feature.properties.name_id);
                 console.log(cities[i]);
                 console.log(Object.keys(jsonCityMeanings[0]));
                 console.log(Object.keys(jsonCityMeanings[0].meaning_pt));
-                console.log(Object.keys(jsonCityMeanings.meaning_pt));
                 console.log(Object.keys(jsonCityMeanings[i].meaning_pt));
                 console.log(Object.keys(jsonCityMeanings[0][i].meaning_pt));
               }
@@ -111,7 +110,6 @@
             for (i = 0; i < city.length; i++) {
               citiesID.push(city[i].name_id)
             }
-            console.log(citiesID);
             cityMeanings(citiesID);
           }
 
