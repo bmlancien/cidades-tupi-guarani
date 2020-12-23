@@ -107,9 +107,9 @@
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
                   console.log(wordInTupi);
-                  console.log(jsonTupiTranslations);
-                  console.log(jsonTupiTranslations.wordInTupi);
-                  console.log(jsonTupiTranslations[wordInTupi]);
+                  console.log(jsonTupiTranslations[0]);
+                  console.log(jsonTupiTranslations[0].wordInTupi);
+                  console.log(jsonTupiTranslations[0][wordInTupi]);
                   citiesInPt = citiesInPt + "<div class='tupi'><p>" + tupi[i][j] + "</p></div>";
                 }
               console.log(citiesInPt);
