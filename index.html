@@ -101,11 +101,10 @@
           }
 
           function displayCityMeanings(city, tupi) {
-            console.log(city.length);
-            console.log(tupi.length);
             for (i = 0; i < city.length; i++) {
-              citiesInPt = citiesInPt + "<div class='tupi'><p>" + city[i] + "</p></div>";
+              citiesInPt = citiesInPt + "<div class='tupi'><p>= " + city[i] + "</p></div>";
                 for (j = 0; j < tupi[i].length; j++) {
+                  console.log(jsonTupiTranslations.find(tupi[i][j]));
                   citiesInPt = citiesInPt + "<div class='tupi'><p>" + tupi[i][j] + "</p></div>";
                 }
               console.log(citiesInPt);
@@ -138,7 +137,7 @@
 
           var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">= ' + citiesInPt + '</p></div>' + words)
+            .setHTML('<div class="popup popup--top"><h3 class="popup popup--city">' + feature.properties.name + '</h3><p class="popup popup--pt">' + citiesInPt + '</p></div>' + words)
             .addTo(map);
           }
         )
