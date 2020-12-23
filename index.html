@@ -71,6 +71,10 @@
         return words;
       }
 
+      function cityNamesIDList(city) {
+        console.log(city);
+      }
+
       let jsonData;    
       Promise.all([
         fetch('data/city-meanings.json'),
@@ -86,10 +90,11 @@
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
           let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
-          let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]);
+          let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]); // list of tupi words
+          let cityNamesIDList = cityNamesIDList(jsonCityMeanings);
           console.log(jsonCityMeaningsKeys);
           console.log(jsonTupiTranslationsKeys);
-          let jsonDataKeysLength = jsonDataKeys.length;
+          let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
           let words = "";
 
           // add tupi word(s) and portuguese translation(s)
