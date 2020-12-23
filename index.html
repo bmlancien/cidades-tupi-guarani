@@ -96,9 +96,12 @@
           }
 
           function cityNamesIDListFunction(city) {
-            console.log(city);
-            console.log(typeof city);
-            cityMeanings(city.name_id);
+            let citiesID = [];
+            for (i = 0; i < city.length; i++) {
+              citiesID.push(city[i].name_id)
+            }
+            console.log(citiesID);
+            cityMeanings(citiesID);
           }
 
           let jsonCityMeanings = json[0];
