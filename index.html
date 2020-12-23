@@ -71,10 +71,6 @@
         return words;
       }
 
-      function cityNamesIDList(city) {
-        console.log(city);
-      }
-
       let jsonData;    
       Promise.all([
         fetch('data/city-meanings.json'),
@@ -87,6 +83,10 @@
         }));
       })
         .then(function(json){
+          function cityNamesIDList(city) {
+            console.log(city);
+          }
+          
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
           let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
