@@ -73,8 +73,8 @@
 
       let jsonData;    
       Promise.all([
-        fetch('data/translation.json'),
-        fetch('data/city-meanings.json')
+        fetch('data/city-meanings.json'),
+        fetch('data/translation.json')
       ])
       .then(function (responses) {
         // Get a JSON object from each of the responses
@@ -83,9 +83,12 @@
         }));
       })
         .then(function(json){
-          console.log(json);
-          jsonData = json;
-          let jsonDataKeys = Object.keys(jsonData[0]);
+          let jsonCityMeanings = json[0];
+          let jsonTupiTranslations = json[1];
+          let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
+          let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]);
+          console.log(jsonCityMeaningsKeys);
+          console.log(jsonTupiTranslationsKeys);
           let jsonDataKeysLength = jsonDataKeys.length;
           let words = "";
 
