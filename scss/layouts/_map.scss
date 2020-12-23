@@ -35,15 +35,19 @@
 }
 
 .mapboxgl-map .popup {
-  &--top {
+  &__top {
     opacity: 1;
     padding: 1rem 1.5rem 0 1rem;
+  }
+  &__item {
+    padding-bottom: .5rem;
   }
   &__city-name {
     font-size: .875rem;
     letter-spacing: .05rem;
     font-weight: 700;
     color: $primary-color-3;
+    margin-bottom: .5rem;
   }
   &__word-tupi {
     display: inline-block;
