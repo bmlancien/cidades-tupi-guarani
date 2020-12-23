@@ -99,15 +99,12 @@
           }
 
           function displayCityMeanings(city, tupi) {
-            if (typeof city === "string") {
-              citiesInPt = "<div class='tupi'><p>" + city + "</p></div>";
-              console.log(citiesInPt);
-            } else {
-              for (i = 0; i < city.length; i++) {
-                citiesInPt += "<div class='tupi'><p>" + city[i] + "</p></div><div class='tupi'><p>" + tupi[i] + "</p></div>";
-                console.log(citiesInPt);
-              }
-            }
+            console.log(city.lentgh);
+            console.log(tupiWords[0].length);
+            //for (i = 0; i < city.length; i++) {
+              //citiesInPt += "<div class='tupi'><p>" + city[i] + "</p></div><div class='tupi'><p>" + tupi[i] + "</p></div>";
+              //console.log(citiesInPt);
+            //}
             return citiesInPt;
           }
 
@@ -119,7 +116,7 @@
                 cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
                 tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
                 console.log(cityMeaning);
-                console.log(tupiWords);
+                console.log(tupiWords[0]);
                 //displayCityMeanings(cityMeaning, tupiWords);
               }
             }
