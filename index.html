@@ -83,24 +83,38 @@
         }));
       })
         .then(function(json){
+          function cityMeanings(cities) {
+            for (i = 0; i < cities.length; i++) {
+              console.log(feature.properties.meaning_pt);
+              console.log(cities[i]);
+              console.log(typeof feature.properties.meaning_pt);
+              console.log(typeof cities[i]);
+              if (feature.properties.name_id = cities[i]) {
+                console.log(Object.keyscities[i]);
+              }
+            }
+          }
+
           function cityNamesIDListFunction(city) {
-            console.log(city);
+            console.log(city.name_id);
+            cityMeanings(city.name_id);
           }
 
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
           let jsonCityMeaningsKeys = Object.keys(jsonCityMeanings[0]);
           let jsonTupiTranslationsKeys = Object.keys(jsonTupiTranslations[0]); // list of tupi words
-          let cityNamesIDList = cityNamesIDListFunction(jsonCityMeanings);
+          cityNamesIDListFunction(jsonCityMeanings);
           console.log(jsonCityMeaningsKeys);
           console.log(jsonTupiTranslationsKeys);
+          console.log(cityNamesIDList);
           let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
           let words = "";
 
           // add tupi word(s) and portuguese translation(s)
           for (i = 0; i < tupiLength; i++) {
             let translationToPt = JSON.stringify(jsonData[0][tupiObj[i]]);
-            translationToPt = translationToPt.substring(1, translationToPt.length-1);
+            translationToPt = translationToPt.substring(1, translationToPt.length-1); // remove double quotes
             words += "<div class='popup popup--tupi-word'><div class='tupi'><p>" + tupiObj[i] + "</p></div>";
             words += "<p class='pt'>= " + translationToPt + "</p></div>";
           }
