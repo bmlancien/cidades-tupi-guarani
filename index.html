@@ -90,6 +90,8 @@
           let jsonTupiTranslationsLength = jsonTupiTranslationsKeys.length;
           let citiesInPt = "";
           let words = [];
+          let cityMeaning = "";
+          let tupiWords = "";
 
           function removeDoubleQuotes(value) {
             if (typeof value === "string") {
@@ -111,7 +113,11 @@
           function cityMeanings(cities) {
             for (i = 0; i < cities.length; i++) {
               if (feature.properties.name_id == cities[i]) {
-                displayCityMeanings(Object.keys(jsonCityMeanings[i].meaning_pt), Object.values(jsonCityMeanings[i].meaning_pt));
+                cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
+                tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
+                console.log(cityMeaning);
+                console.log(tupiWords[0]);
+                displayCityMeanings(cityMeaning, tupiWords);
               }
             }
           }
