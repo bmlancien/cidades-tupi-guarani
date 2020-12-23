@@ -105,10 +105,9 @@
             for (i = 0; i < city.length; i++) {
               citiesInPt = citiesInPt + "<div class='tupi'><p>= " + city[i] + "</p></div>";
                 for (j = 0; j < tupi[i].length; j++) {
-                  wordInTupi = '"' + tupi[i][j] + '"';
+                  wordInTupi = tupi[i][j];
                   console.log(wordInTupi);
-                  console.log(jsonTupiTranslations.find(wordInTupi));
-                  console.log(jsonTupiTranslations.find(tupi[i][j]));
+                  console.log(jsonTupiTranslations.wordInTupi[i][j]);
                   citiesInPt = citiesInPt + "<div class='tupi'><p>" + tupi[i][j] + "</p></div>";
                 }
               console.log(citiesInPt);
