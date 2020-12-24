@@ -156,5 +156,55 @@
     {
       "Mosqua pequena": ["mbiru", "miru"]
     }
+  },
+  {
+    "name_id": "bocaiuva_mg",
+    "meaning_pt": 
+    {
+      "Palmeira bocaiúva": ["bocaiúva"]
+    }
+  },
+  {
+    "name_id": "boituva_sp",
+    "meaning_pt": 
+    {
+      "Local de muitas cobras": ["mboy", "mboy"]
+    }
+  },
+  {
+    "name_id": "bora_sp",
+    "meaning_pt": 
+    {
+      "Abelha": ["mborá"]
+    }
+  },
+  {
+    "name_id": "borborema_sp",
+    "meaning_pt": 
+    {
+      "Terra sem habitantes": ["yby", "mbora", "e'yma"]
+    }
+  },
+  {
+    "name_id": "botucatu_sp",
+    "meaning_pt": 
+    {
+      "Bons ares": ["ybytu", "katu"]
+    }
+  },
+  {
+    "name_id": "botucatu_sp",
+    "meaning_pt": 
+    {
+      "Bons ares": ["ybytu", "katu"],
+      "Serra boa": ["ybytyra", "katu"]
+    }
+  },
+  {
+    "name_id": "buerarema_ba",
+    "meaning_pt": 
+    {
+      "Bons ares": ["ybyrá", "rema"]
+    }
   }
 ]

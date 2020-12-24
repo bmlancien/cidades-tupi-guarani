@@ -258,11 +258,7 @@
       "properties": {
         "name": "Bocaiuva",
         "state": "MG",
-        "name_id": "bocaiuva_mg",
-        "meaning_pt": "Palmeira bocaiúva",
-        "tupi": [
-          "bocaiúva"
-        ]
+        "name_id": "bocaiuva_mg"
       },
       "geometry": {
         "coordinates": [-43.815, -17.107778],
@@ -274,12 +270,7 @@
       "properties": {
         "name": "Boituva",
         "state": "SP",
-        "name_id": "boituva_sp",
-        "meaning_pt": "Local de muitas cobras",
-        "tupi": [
-          "mboy",
-          "tyba"
-        ]
+        "name_id": "boituva_sp"
       },
       "geometry": {
         "coordinates": [-47.671944, -23.282778],
@@ -291,11 +282,7 @@
       "properties": {
         "name": "Borá",
         "state": "SP",
-        "name_id": "bora_sp",
-        "meaning_pt": "Abelha",
-        "tupi": [
-          "mborá"
-        ]
+        "name_id": "bora_sp"
       },
       "geometry": {
         "coordinates": [-50.533889, -22.27],
@@ -307,13 +294,7 @@
       "properties": {
         "name": "Borborema",
         "state": "SP",
-        "name_id": "borborema_sp",
-        "meaning_pt": "Terra sem habitantes",
-        "tupi": [
-          "yby",
-          "mbora",
-          "e'yma"
-        ]
+        "name_id": "borborema_sp"
       },
       "geometry": {
         "coordinates": [-49.073889, -21.62],
@@ -325,12 +306,7 @@
       "properties": {
         "name": "Botucatu",
         "state": "SP",
-        "name_id": "botucatu_sp",
-        "meaning_pt": "Bons ares",
-        "tupi": [
-          "ybytu",
-          "katu"
-        ]
+        "name_id": "botucatu_sp"
       },
       "geometry": {
         "coordinates": [-48.445, -22.885833],
@@ -342,12 +318,7 @@
       "properties": {
         "name": "Buerarema",
         "state": "BA",
-        "name_id": "buerarema_ba",
-        "meaning_pt": "Madeira fedida",
-        "tupi": [
-          "ybyrá",
-          "rema"
-        ]
+        "name_id": "buerarema_ba"
       },
       "geometry": {
         "coordinates": [-39.3, -14.958889],
