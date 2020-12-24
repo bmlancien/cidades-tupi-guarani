@@ -100,12 +100,61 @@
     }
   },
   {
+    "name_id": "atibaia_sp",
+    "meaning_pt": 
+    {
+      "Rio da feitoria": ["tybaia"],
+      "Rio alagado": ["ti", "pa", "i"],
+      "Morro dependurado": ["ti", "pai"],
+      "Água saudável": [],
+      "Água salobra, acre, ruim, poluída": []
+    }
+  },
+  {
+    "name_id": "avanhandava_sp",
+    "meaning_pt": 
+    {
+      "Lugar da corrida dos homens": ["abá", "nhan", "aba"]
+    }
+  },
+  {
+    "name_id": "avare_sp",
+    "meaning_pt": 
+    {
+      "Padre, missionário, homem solitário": ["abiré", "abá", "ré"]
+    }
+  },
+  {
     "name_id": "baturite_ce",
     "meaning_pt": 
     {
       "Sair boa água": ["bu", "ty", "ete"],
       "Verdadeira serra": ["batu", "ete"],
       "Serra": ["yby", "tira", "eté"]
+    }
+  },
+  {
+    "name_id": "bauru_sp",
+    "meaning_pt": 
+    {
+      "Queda de água": ["mbai-yuru"],
+      "Cesto de frutas": ["ybá", "uru"],
+      "Rio da lagoa": ["upaú", "y"]
+    }
+  },
+  {
+    "name_id": "bertioga_sp",
+    "meaning_pt": 
+    {
+      "Casa do peixa branco": ["paraty", "oka"],
+      "Casa do muriqui": ["buriqui", "oka"]
+    }
+  },
+  {
+    "name_id": "birigui_sp",
+    "meaning_pt": 
+    {
+      "Mosqua pequena": ["mbiru", "miru"]
     }
   }
 ]

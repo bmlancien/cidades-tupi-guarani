@@ -174,9 +174,7 @@
       "properties": {
         "name": "Atibaia",
         "state": "SP",
-        "name_id": "atibaia_sp",
-        "meaning_pt": "",
-        "tupi": []
+        "name_id": "atibaia_sp"
       },
       "geometry": {
         "coordinates": [-46.55, -23.116944],
@@ -188,13 +186,7 @@
       "properties": {
         "name": "Avanhandava",
         "state": "SP",
-        "name_id": "avanhandava_sp",
-        "meaning_pt": "Lugar da corrida dos homens",
-        "tupi": [
-          "abá",
-          "nhan",
-          "aba"
-        ]
+        "name_id": "avanhandava_sp"
       },
       "geometry": {
         "coordinates": [-49.95, -21.460833],
@@ -206,12 +198,7 @@
       "properties": {
         "name": "Avaré",
         "state": "SP",
-        "name_id": "avare_sp",
-        "meaning_pt": "Padre, missionário",
-        "tupi": [
-          "abá",
-          "ré"
-        ]
+        "name_id": "avare_sp"
       },
       "geometry": {
         "coordinates": [-48.925833, -23.098889],
@@ -223,13 +210,7 @@
       "properties": {
         "name": "Baturité",
         "state": "CE",
-        "name_id": "baturite_ce",
-        "meaning_pt": 
-        {
-          "Sair boa água": ["bu", "ty", "ete"],
-          "Verdadeira serra": ["batu", "ete"],
-          "Serra": ["yby", "tira", "eté"]
-        }
+        "name_id": "baturite_ce"
       },
       "geometry": {
         "coordinates": [-38.885, -4.328889],
@@ -241,12 +222,7 @@
       "properties": {
         "name": "Bauru",
         "state": "SP",
-        "name_id": "bauru_sp",
-        "meaning_pt": "Cesto de frutas",
-        "tupi": [
-          "ybá",
-          "uru"
-        ]
+        "name_id": "bauru_sp"
       },
       "geometry": {
         "coordinates": [-49.060833, -22.315],
@@ -258,12 +234,7 @@
       "properties": {
         "name": "Bertioga",
         "state": "SP",
-        "name_id": "bertioga_sp",
-        "meaning_pt": "Casa do peixe branco",
-        "tupi": [
-          "paraty",
-          "oka"
-        ]
+        "name_id": "bertioga_sp"
       },
       "geometry": {
         "coordinates": [-46.138889, -23.853889],
@@ -275,12 +246,7 @@
       "properties": {
         "name": "Birigui",
         "state": "SP",
-        "name_id": "birigui_sp",
-        "meaning_pt": "Mosqua pequena",
-        "tupi": [
-          "mbiru",
-          "miry"
-        ]
+        "name_id": "birigui_sp"
       },
       "geometry": {
         "coordinates": [-50.34, -21.288889],
