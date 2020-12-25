@@ -330,12 +330,7 @@
       "properties": {
         "name": "Buritama",
         "state": "SP",
-        "name_id": "buritama_sp",
-        "meaning_pt": "Terra dos buris (palmeira)",
-        "tupi": [
-          "buri",
-          "etama"
-        ]
+        "name_id": "buritama_sp"
       },
       "geometry": {
         "coordinates": [-50.146944, -21.065833],
@@ -347,9 +342,7 @@
       "properties": {
         "name": "Gravatá",
         "state": "PE",
-        "name_id": "gravata_pe",
-        "meaning_pt": "Caraguatá (Nome de uma planta do gênero Bromelia)",
-        "tupi": []
+        "name_id": "gravata_pe"
       },
       "geometry": {
         "coordinates": [-35.565, -8.200833],
@@ -361,11 +354,7 @@
       "properties": {
         "name": "Gravataí",
         "state": "RS",
-        "name_id": "gravatai_rs",
-        "meaning_pt": "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)",
-        "tupi": [
-          "y"
-        ]
+        "name_id": "gravatai_rs"
       },
       "geometry": {
         "coordinates": [-50.993889, -29.943333],
@@ -377,12 +366,7 @@
       "properties": {
         "name": "Guaçuí",
         "state": "ES",
-        "name_id": "guacui_es",
-        "meaning_pt": "Água de veado",
-        "tupi": [
-          "y",
-          "gwa'su"
-        ]
+        "name_id": "guacui_es"
       },
       "geometry": {
         "coordinates": [-41.678889, -20.775833],
@@ -394,13 +378,7 @@
       "properties": {
         "name": "Guaíra",
         "state": "SP",
-        "name_id": "guaira_sp",
-        "meaning_pt": "Águas correntes",
-        "tupi": [
-          "guá",
-          "y",
-          "rá"
-        ]
+        "name_id": "guaira_sp"
       },
       "geometry": {
         "coordinates": [-48.310833, -20.317778],
@@ -412,11 +390,7 @@
       "properties": {
         "name": "Guajará-Mirim",
         "state": "RO",
-        "name_id": "guajaramirim_ro",
-        "meaning_pt": "Cachoeira pequena",
-        "tupi": [
-          "miru"
-        ]
+        "name_id": "guajaramirim_ro"
       },
       "geometry": {
         "coordinates": [-65.339444, -10.782778],
@@ -428,12 +402,7 @@
       "properties": {
         "name": "Guapiara",
         "state": "SP",
-        "name_id": "guapiara_sp",
-        "meaning_pt": "Caminho para a enseada",
-        "tupi": [
-          "guá",
-          "piara"
-        ]
+        "name_id": "guapiara_sp"
       },
       "geometry": {
         "coordinates": [-48.532778, -24.185],
@@ -445,11 +414,7 @@
       "properties": {
         "name": "Guará",
         "state": "SP",
-        "name_id": "guara_sp",
-        "meaning_pt": "Guará (pássaro)",
-        "tupi": [
-          "awa'rá"
-        ]
+        "name_id": "guara_sp"
       },
       "geometry": {
         "coordinates": [-47.823889, -20.427778],
@@ -461,11 +426,7 @@
       "properties": {
         "name": "Guaraçaí",
         "state": "SP",
-        "name_id": "guaracai_sp",
-        "meaning_pt": "Guará (pássaro) pequeno",
-        "tupi": [
-          "çaí"
-        ]
+        "name_id": "guaracai_sp"
       },
       "geometry": {
         "coordinates": [-51.206944, -21.027778],

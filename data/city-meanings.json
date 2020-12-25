@@ -206,5 +206,68 @@
     {
       "Bons ares": ["ybyrá", "rema"]
     }
+  },
+  {
+    "name_id": "buritama_sp",
+    "meaning_pt": 
+    {
+      "Terra dos buris (palmeira)": ["buri", "etama"]
+    }
+  },
+  {
+    "name_id": "gravata_pe",
+    "meaning_pt": 
+    {
+      "Caraguatá, Gravatá (Nome de uma planta do gênero Bromelia)": ["karawatã"]
+    }
+  },
+  {
+    "name_id": "gravatai_rs",
+    "meaning_pt": 
+    {
+      "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)": ["karawatã", "y"]
+    }
+  },
+  {
+    "name_id": "guacui_es",
+    "meaning_pt": 
+    {
+      "Água de veado": ["gwa'su", "y"]
+    }
+  },
+  {
+    "name_id": "guaira_sp",
+    "meaning_pt": 
+    {
+      "Águas correntes": ["guá", "y", "rá"]
+    }
+  },
+  {
+    "name_id": "guajaramirim_ro",
+    "meaning_pt": 
+    {
+      "Cachoeira pequena": ["guajará", "miri"]
+    }
+  },
+  {
+    "name_id": "guapiara_sp",
+    "meaning_pt": 
+    {
+      "Caminho para a enseada": ["kûá", "piara"]
+    }
+  },
+  {
+    "name_id": "guara_sp",
+    "meaning_pt": 
+    {
+      "Guará (pássaro)/Lobo-guará": ["awa'rá", "gûará"]
+    }
+  },
+  {
+    "name_id": "guaracai_sp",
+    "meaning_pt": 
+    {
+      "Lobo-guará pequeno": ["gûará", "çaí"]
+    }
   }
 ]
