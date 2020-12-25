@@ -438,5 +438,48 @@
     {
       "Ajuntamento de indaiás": ["inaîá", "tyba"]
     }
+  },
+  {
+    "name_id": "inhapim_mg",
+    "meaning_pt": 
+    {
+      "Inhapim (pássaro)": ["inhapim"]
+    }
+  },
+  {
+    "name_id": "inimutaba_mg",
+    "meaning_pt": 
+    {
+      "Aldeia de tecelão": ["ini", "mutaba"]
+    }
+  },
+  {
+    "name_id": "ipuacu_sc",
+    "meaning_pt": 
+    {
+      "Grande barulho de água": ["y", "pu", "gûasu"],
+      "Grande alagadiço": ["ipo'ú", "gûasu"]
+    }
+  },
+  {
+    "name_id": "ipiranga_pr",
+    "meaning_pt": 
+    {
+      "Rio vermelho": ["y", "pyrang"]
+    }
+  },
+  {
+    "name_id": "itaberaba_ba",
+    "meaning_pt": 
+    {
+      "Pedra brilhante": ["itá", "beraba"]
+    }
+  },
+  {
+    "name_id": "itabura_mg",
+    "meaning_pt": 
+    {
+      "Pedra brilhante": ["itá", "byra"]
+    }
   }
 ]

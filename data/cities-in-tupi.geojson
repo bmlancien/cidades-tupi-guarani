@@ -708,6 +708,102 @@
         "coordinates": [-47.217778, -23.09],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inhapim",
+        "state": "MG",
+        "name_id": "inhapim_mg"
+      },
+      "geometry": {
+        "coordinates": [-42.12, -19.548889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inimutaba",
+        "state": "MG",
+        "name_id": "inimutaba_mg"
+      },
+      "geometry": {
+        "coordinates": [-44.360833, -18.728889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ipameri",
+        "state": "GO",
+        "name_id": "ipameri_go"
+      },
+      "geometry": {
+        "coordinates": [-48.16, -17.721944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ipatinga",
+        "state": "MG",
+        "name_id": "ipatinga_mg"
+      },
+      "geometry": {
+        "coordinates": [-42.536944, -19.467778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ipuaçu",
+        "state": "SC",
+        "name_id": "ipuacu_sc"
+      },
+      "geometry": {
+        "coordinates": [-52.455, -26.630833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ipiranga",
+        "state": "PR",
+        "name_id": "ipiranga_pr"
+      },
+      "geometry": {
+        "coordinates": [-50.583889, -25.023889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaberaba",
+        "state": "BA",
+        "name_id": "itaberaba_ba"
+      },
+      "geometry": {
+        "coordinates": [-40.306944, -12.527778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itabira",
+        "state": "MG",
+        "name_id": "itabura_mg"
+      },
+      "geometry": {
+        "coordinates": [-43.226944, -19.618889],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
