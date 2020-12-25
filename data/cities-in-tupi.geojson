@@ -438,12 +438,7 @@
       "properties": {
         "name": "Guarantã do Norte",
         "state": "MT",
-        "name_id": "guarantadonorte_mt",
-        "meaning_pt": "Madeira resistente",
-        "tupi": [
-          "ybyrá",
-          "ã’tã"
-        ]
+        "name_id": "guarantadonorte_mt"
       },
       "geometry": {
         "coordinates": [-54.91, -9.787778],
@@ -455,11 +450,7 @@
       "properties": {
         "name": "Guarapari",
         "state": "ES",
-        "name_id": "guarapari_es",
-        "meaning_pt": "Arma para a caça de guarás",
-        "tupi": [
-          "parim"
-        ]
+        "name_id": "guarapari_es"
       },
       "geometry": {
         "coordinates": [-40.510833, -20.657778],
@@ -471,13 +462,7 @@
       "properties": {
         "name": "Guarapuava",
         "state": "PR",
-        "name_id": "guarapuava_pr",
-        "meaning_pt": "Lugar do barulho dos lobos-guarás",
-        "tupi": [
-          "gûará",
-          "pu",
-          "aba"
-        ]
+        "name_id": "guarapuava_pr"
       },
       "geometry": {
         "coordinates": [-51.457778, -25.395],
@@ -489,12 +474,7 @@
       "properties": {
         "name": "Guararapes",
         "state": "SP",
-        "name_id": "guararapes_sp",
-        "meaning_pt": "Estrondo dos tambores",
-        "tupi": [
-          "uarará",
-          "pe"
-        ]
+        "name_id": "guararapes_sp"
       },
       "geometry": {
         "coordinates": [-50.642778, -21.260833],
@@ -506,12 +486,7 @@
       "properties": {
         "name": "Guaratinga",
         "state": "BA",
-        "name_id": "guaratinga_ba",
-        "meaning_pt": "Garça branca",
-        "tupi": [
-          "guará",
-          "tinga"
-        ]
+        "name_id": "guaratinga_ba"
       },
       "geometry": {
         "coordinates": [-39.782778, -16.583889],
@@ -523,12 +498,7 @@
       "properties": {
         "name": "Guariba",
         "state": "SP",
-        "name_id": "guariba_sp",
-        "meaning_pt": "Gente ruim",
-        "tupi": [
-          "ua'ra",
-          "aíua"
-        ]
+        "name_id": "guariba_sp"
       },
       "geometry": {
         "coordinates": [-48.227778, -21.36],
@@ -540,9 +510,7 @@
       "properties": {
         "name": "Guarujá",
         "state": "SP",
-        "name_id": "guaruja_sp",
-        "meaning_pt": "Guaruçá (caranguejo)",
-        "tupi": []
+        "name_id": "guaruja_sp"
       },
       "geometry": {
         "coordinates": [-46.255833, -23.992778],
@@ -554,9 +522,7 @@
       "properties": {
         "name": "Guarulhos",
         "state": "SP",
-        "name_id": "guaruja_sp",
-        "meaning_pt": "Guaramomis (Nativos que habitavam a região)",
-        "tupi": []
+        "name_id": "guaruja_sp"
       },
       "geometry": {
         "coordinates": [-46.532778, -23.462778],
@@ -568,13 +534,7 @@
       "properties": {
         "name": "Guaxupé",
         "state": "MG",
-        "name_id": "guaxupe_mg",
-        "meaning_pt": "Caminho das abelhas",
-        "tupi": [
-          "guá",
-          "exu",
-          "pe"
-        ]
+        "name_id": "guaxupe_mg"
       },
       "geometry": {
         "coordinates": [-46.712778, -21.305],
@@ -586,15 +546,166 @@
       "properties": {
         "name": "Guiratinga",
         "state": "MT",
-        "name_id": "guiratinga_mt",
-        "meaning_pt": "Garça branca",
-        "tupi": [
-          "guará",
-          "tinga"
-        ]
+        "name_id": "guiratinga_mt"
       },
       "geometry": {
         "coordinates": [-53.757778, -16.348889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiricema",
+        "state": "MG",
+        "name_id": "guiricema_mg"
+      },
+      "geometry": {
+        "coordinates": [-42.717778, -21.007778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurinhatã",
+        "state": "MG",
+        "name_id": "gurinhata_mg"
+      },
+      "geometry": {
+        "coordinates": [-49.785833, -19.212778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurupi",
+        "state": "TO",
+        "name_id": "gurupi_to"
+      },
+      "geometry": {
+        "coordinates": [-49.068889, -11.73],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iacanga",
+        "state": "SP",
+        "name_id": "iacanga_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.025, -21.89],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibaté",
+        "state": "SP",
+        "name_id": "ibate_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.996944, -21.955],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibiá",
+        "state": "MG",
+        "name_id": "ibia_mg"
+      },
+      "geometry": {
+        "coordinates": [-46.538889, -19.477778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibirarema",
+        "state": "SP",
+        "name_id": "ibirarema_sp"
+      },
+      "geometry": {
+        "coordinates": [-50.072778, -22.817778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibitinga",
+        "state": "SP",
+        "name_id": "ibitinga_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.828889, -21.757778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igaraçu do Tietê",
+        "state": "SP",
+        "name_id": "igaracu_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.557778, -22.508889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iguatemi",
+        "state": "MS",
+        "name_id": "iguatemi_ms"
+      },
+      "geometry": {
+        "coordinates": [-54.560833, -23.68],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imbé",
+        "state": "RS",
+        "name_id": "imbe_rs"
+      },
+      "geometry": {
+        "coordinates": [-50.127778, -29.975],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imbituba",
+        "state": "SC",
+        "name_id": "imbituba_sc"
+      },
+      "geometry": {
+        "coordinates": [-48.670278, -28.24],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indaiatuba",
+        "state": "SP",
+        "name_id": "indaiatuba_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.217778, -23.09],
         "type": "Point"
       }
     }

@@ -269,5 +269,174 @@
     {
       "Lobo-guará pequeno": ["gûará", "çaí"]
     }
+  },
+  {
+    "name_id": "guarantadonorte_mt",
+    "meaning_pt": 
+    {
+      "Guarantã (árvore)": ["ybyrá", "ã’tã"]
+    }
+  },
+  {
+    "name_id": "guarapari_es",
+    "meaning_pt": 
+    {
+      "Arma para a caça de guarás": ["guará", "parim"]
+    }
+  },
+  {
+    "name_id": "guarapari_es",
+    "meaning_pt": 
+    {
+      "Arma para a caça de guarás": ["guará", "parim"]
+    }
+  },
+  {
+    "name_id": "guarapuava_pr",
+    "meaning_pt": 
+    {
+      "Lugar do barulho dos lobos-guarás": ["gûará", "pu", "aba"]
+    }
+  },
+  {
+    "name_id": "guararapes_sp",
+    "meaning_pt": 
+    {
+      "Estrondo dos tambores": ["uarará", "pe"]
+    }
+  },
+  {
+    "name_id": "guaratinga_ba",
+    "meaning_pt": 
+    {
+      "Garça branca": ["guará", "tinga"]
+    }
+  },
+  {
+    "name_id": "guariba_sp",
+    "meaning_pt": 
+    {
+      "Gente ruim": ["ua'ra", "aíua"]
+    }
+  },
+  {
+    "name_id": "guaruja_sp",
+    "meaning_pt": 
+    {
+      "Guaruçá (caranguejo)": ["agûarausá"]
+    }
+  },
+  {
+    "name_id": "guarulhos_sp",
+    "meaning_pt": 
+    {
+      "Guaramomis/Maramomis (indígenas que habitavam a região)": ["gûaîanã"]
+    }
+  },
+  {
+    "name_id": "guaxupe_mg",
+    "meaning_pt": 
+    {
+      "Caminho das abelhas": ["guá", "exu", "pe"],
+      "Caminho de guaxe": ["waxi", "pe"]
+    }
+  },
+  {
+    "name_id": "guiratinga_mt",
+    "meaning_pt": 
+    {
+      "Garça branca": ["guará", "tinga"]
+    }
+  },
+  {
+    "name_id": "guiricema_mg",
+    "meaning_pt": 
+    {
+      "Saída dos bagres (peixe)": ["guiri", "sema"]
+    }
+  },
+  {
+    "name_id": "gurinhata_mg",
+    "meaning_pt": 
+    {
+      "A ave que canta muito": ["guirá", "ñhe-tã"]
+    }
+  },
+  {
+    "name_id": "gurupi_to",
+    "meaning_pt": 
+    {
+      "Rio das roças/das plantações": ["curu", "pe", "y"]
+    }
+  },
+  {
+    "name_id": "iacanga_sp",
+    "meaning_pt": 
+    {
+      "Olho d'água": ["y", "acanga"]
+    }
+  },
+  {
+    "name_id": "ibate_sp",
+    "meaning_pt": 
+    {
+      "O alto": ["ybate"]
+    }
+  },
+  {
+    "name_id": "ibia_mg",
+    "meaning_pt": 
+    {
+      "A chapada": ["yby", "a"]
+    }
+  },
+  {
+    "name_id": "ibirarema_sp",
+    "meaning_pt": 
+    {
+      "Madeira fetida": ["ybyrá", "rema"]
+    }
+  },
+  {
+    "name_id": "ibitinga_sp",
+    "meaning_pt": 
+    {
+      "Terra branca": ["yby", "tinga"]
+    }
+  },
+  {
+    "name_id": "igaracu_sp",
+    "meaning_pt": 
+    {
+      "Navio": ["ygara", "usu"]
+    }
+  },
+  {
+    "name_id": "iguatemi_ms",
+    "meaning_pt": 
+    {
+      "Rio das canoas emproadas": ["ygara", "tim", "y"]
+    }
+  },
+  {
+    "name_id": "imbe_rs",
+    "meaning_pt": 
+    {
+      "Imbé (cipó)": ["imbé"]
+    }
+  },
+  {
+    "name_id": "imbituba_sc",
+    "meaning_pt": 
+    {
+      "Muito imbé (cipó), o cipoal": ["imbé", "tyba"]
+    }
+  },
+  {
+    "name_id": "indaiatuba_sp",
+    "meaning_pt": 
+    {
+      "Ajuntamento de indaiás": ["inaîá", "tyba"]
+    }
   }
 ]
