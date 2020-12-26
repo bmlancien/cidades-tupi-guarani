@@ -1128,6 +1128,162 @@
         "coordinates": [-41.957778, -20.357778],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mauá",
+        "state": "SP",
+        "name_id": "maua_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.460833, -23.667778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogi Guaçu",
+        "state": "SP",
+        "name_id": "mogiguacu_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.941944, -22.371944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogi Mirim",
+        "state": "SP",
+        "name_id": "mogimirim_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.957778, -22.431944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhandeara",
+        "state": "SP",
+        "name_id": "nhandeara_sp"
+      },
+      "geometry": {
+        "coordinates": [-50.037778, -20.693889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuporanga",
+        "state": "SP",
+        "name_id": "nuporanga_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.748889, -20.73],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paracatu",
+        "state": "MG",
+        "name_id": "paracatu_mg"
+      },
+      "geometry": {
+        "coordinates": [-46.875, -17.221667],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paraguaçu",
+        "state": "MG",
+        "name_id": "paraguacu_mg"
+      },
+      "geometry": {
+        "coordinates": [-45.766389, -21.533056],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paraibuna",
+        "state": "SP",
+        "name_id": "paraibuna_sp"
+      },
+      "geometry": {
+        "coordinates": [-45.661944, -23.385833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paranapanema",
+        "state": "SP",
+        "name_id": "paranapanema_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.722778, -23.388889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paranaguá",
+        "state": "PR",
+        "name_id": "paranagua_pr"
+      },
+      "geometry": {
+        "coordinates": [-48.508889, -25.52],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pindamonhangaba",
+        "state": "SP",
+        "name_id": "pindamonhangaba_sp"
+      },
+      "geometry": {
+        "coordinates": [-45.461944, -22.923889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piracaia",
+        "state": "SP",
+        "name_id": "piracaia_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.357778, -23.053889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piracanjuba",
+        "state": "GO",
+        "name_id": "piracanjuba_go"
+      },
+      "geometry": {
+        "coordinates": [-49.017778, -17.302778],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"

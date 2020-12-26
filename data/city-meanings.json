@@ -665,5 +665,82 @@
       "Chuva pequena": ["manã", "mirim"],
       "Pequeno campo da chuva": ["amana", "nhum", "mirim"]
     }
+  },
+  {
+    "name_id": "maua_sp",
+    "meaning_pt": 
+    {
+      "Parte elevada de um local": ["mbaé", "uã"]
+    }
+  },
+  {
+    "name_id": "mogiguacu_sp",
+    "meaning_pt": 
+    {
+      "Grande rio das cobras": ["moîa", "y", "açu"]
+    }
+  },
+  {
+    "name_id": "mogimirim_sp",
+    "meaning_pt": 
+    {
+      "Pequeno rio das cobras": ["moîa", "y", "mirim"]
+    }
+  },
+  {
+    "name_id": "nhandeara_sp",
+    "meaning_pt": 
+    {
+      "Nosso Senhor": ["yandê", "îara"]
+    }
+  },
+  {
+    "name_id": "nuporanga_sp",
+    "meaning_pt": 
+    {
+      "Campo belo": ["nhum", "poranga"]
+    }
+  },
+  {
+    "name_id": "paracatu_mg",
+    "meaning_pt": 
+    {
+      "Rio bom": ["pará", "katu"]
+    }
+  },
+  {
+    "name_id": "paraguacu_mg",
+    "meaning_pt": 
+    {
+      "Rio grande": ["pará", "gûasu"]
+    }
+  },
+  {
+    "name_id": "paraibuna_sp",
+    "meaning_pt": 
+    {
+      "Rio de águas escuras": ["pará", "ayba", "una"]
+    }
+  },
+  {
+    "name_id": "paranapanema_sp",
+    "meaning_pt": 
+    {
+      "Enseada de mar": ["paraná", "kûá"]
+    }
+  },
+  {
+    "name_id": "piracaia_sp",
+    "meaning_pt": 
+    {
+      "Lugar onde se fazem anzóis": ["pirá", "kaîa"]
+    }
+  },
+  {
+    "name_id": "piracanjuba_go",
+    "meaning_pt": 
+    {
+      "Peixe de cabeça amarela": ["pirá", "acanga", "júba"]
+    }
   }
 ]
