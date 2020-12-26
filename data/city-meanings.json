@@ -481,5 +481,108 @@
     {
       "Pedra brilhante": ["itá", "byra"]
     }
+  },
+  {
+    "name_id": "itaborai_rj",
+    "meaning_pt": 
+    {
+      "Rio da pedra bonita": ["itá", "porã", "y"],
+      "Rio das pedras brilhantes": ["itá", "beraba", "y"]
+    }
+  },
+  {
+    "name_id": "itabuna_ba",
+    "meaning_pt": 
+    {
+      "Padre de pedra": ["itá", "abuna"]
+    }
+  },
+  {
+    "name_id": "itacuruba_pe",
+    "meaning_pt": 
+    {
+      "Grão de pedra": ["itá", "kuruba"]
+    }
+  },
+  {
+    "name_id": "itaguara_mg",
+    "meaning_pt": 
+    {
+      "Pedra do lobo": ["itá", "gûará"],
+      "Pedra comestível": ["itá", "guaba"],
+      "Poço de pedra": ["itá", "yguara"]
+    }
+  },
+  {
+    "name_id": "itajai_sc",
+    "meaning_pt": 
+    {
+      "Rio dos Taiás": ["tajahy"],
+      "Água do senhor das pedras": ["itá", "îara", "y"]
+    }
+  },
+  {
+    "name_id": "itajobi_sp",
+    "meaning_pt": 
+    {
+      "Pedra preciosa/verde": ["itá", "yobi"]
+    }
+  },
+  {
+    "name_id": "itajuba_mg",
+    "meaning_pt": 
+    {
+      "Rio das pedras que do alto cai": ["itagybá"],
+      "Pedra amarela": ["itá", "júba"]
+    }
+  },
+  {
+    "name_id": "itamarati_am",
+    "meaning_pt": 
+    {
+      "Rio das pedras pequenas": ["itá", "mirim", "ty"]
+    }
+  },
+  {
+    "name_id": "itaocara_rj",
+    "meaning_pt": 
+    {
+      "Ocara de pedras": ["itá", "okara"]
+    }
+  },
+  {
+    "name_id": "itapetininga_sp",
+    "meaning_pt": 
+    {
+      "Laje seca": ["itapeba", "tininga"]
+    }
+  },
+  {
+    "name_id": "itapeva_sp",
+    "meaning_pt": 
+    {
+      "Pedra achatada": ["itapeba"]
+    }
+  },
+  {
+    "name_id": "itapevi_sp",
+    "meaning_pt": 
+    {
+      "Rio das lajes": ["itapeba", "y"]
+    }
+  },
+  {
+    "name_id": "itapira_sp",
+    "meaning_pt": 
+    {
+      "Ponta de pedra": ["itá", "pira"]
+    }
+  },
+  {
+    "name_id": "itu_sp",
+    "meaning_pt": 
+    {
+      "Cachoeira": ["ity"]
+    }
   }
 ]

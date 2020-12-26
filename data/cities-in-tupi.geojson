@@ -804,6 +804,186 @@
         "coordinates": [-43.226944, -19.618889],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaboraí",
+        "state": "RJ",
+        "name_id": "itaborai_rj"
+      },
+      "geometry": {
+        "coordinates": [-42.855833, -22.7475],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itabuna",
+        "state": "BA",
+        "name_id": "itabuna_ba"
+      },
+      "geometry": {
+        "coordinates": [-39.28, -14.785833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itacuruba",
+        "state": "BA",
+        "name_id": "itacuruba_pe"
+      },
+      "geometry": {
+        "coordinates": [-38.703889, -8.833889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaguara",
+        "state": "MG",
+        "name_id": "itaguara_mg"
+      },
+      "geometry": {
+        "coordinates": [-44.487778, -20.391944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itajaí",
+        "state": "SC",
+        "name_id": "itajai_sc"
+      },
+      "geometry": {
+        "coordinates": [-48.661944, -26.907778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itajobi",
+        "state": "SP",
+        "name_id": "itajobi_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.053889, -21.317778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itajubá",
+        "state": "MG",
+        "name_id": "itajuba_mg"
+      },
+      "geometry": {
+        "coordinates": [-45.452778, -22.425833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itamarati",
+        "state": "AM",
+        "name_id": "itamarati_am"
+      },
+      "geometry": {
+        "coordinates": [-68.252778, -6.425],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaocara",
+        "state": "RJ",
+        "name_id": "itamarati_rj"
+      },
+      "geometry": {
+        "coordinates": [-42.081944, -21.678889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapetininga",
+        "state": "SP",
+        "name_id": "itapetininga_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.053056, -23.591667],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapeva",
+        "state": "SP",
+        "name_id": "itapeva_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.875833, -23.981944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapeva",
+        "state": "SP",
+        "name_id": "itapeva_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.875833, -23.981944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapevi",
+        "state": "SP",
+        "name_id": "itapevi_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.933889, -23.548889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapira",
+        "state": "SP",
+        "name_id": "itapira_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.821944, -22.435833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itu",
+        "state": "SP",
+        "name_id": "itu_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.298889, -23.263889],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"
