@@ -984,6 +984,150 @@
         "coordinates": [-47.298889, -23.263889],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ituiutaba",
+        "state": "MG",
+        "name_id": "ituiutaba_mg"
+      },
+      "geometry": {
+        "coordinates": [-49.465, -18.968889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ituverava",
+        "state": "SP",
+        "name_id": "ituverava_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.780833, -20.338889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacareí",
+        "state": "SP",
+        "name_id": "jacarei_sp"
+      },
+      "geometry": {
+        "coordinates": [-45.965833, -23.305],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacarepaguá",
+        "state": "RJ",
+        "name_id": "jacarepagua_rj"
+      },
+      "geometry": {
+        "coordinates": [-43.390564778144764, -22.967953365125368],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaciara",
+        "state": "MT",
+        "name_id": "jaciara_mt"
+      },
+      "geometry": {
+        "coordinates": [-54.967778, -15.965],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguaré",
+        "state": "ES",
+        "name_id": "jaguare_es"
+      },
+      "geometry": {
+        "coordinates": [-40.075833, -18.905833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguariaíva",
+        "state": "PR",
+        "name_id": "jaguariaiva_pr"
+      },
+      "geometry": {
+        "coordinates": [-49.705833, -24.250833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguariúna",
+        "state": "SP",
+        "name_id": "jaguariuna_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.985833, -22.705833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jundiaí",
+        "state": "SP",
+        "name_id": "jundiai_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.883889, -23.185833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mairiporã",
+        "state": "SP",
+        "name_id": "mairipora_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.586944, -23.318889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhuaçu",
+        "state": "MG",
+        "name_id": "manhuacu_mg"
+      },
+      "geometry": {
+        "coordinates": [-42.033889, -20.257778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhumirim",
+        "state": "MG",
+        "name_id": "manhumirim_mg"
+      },
+      "geometry": {
+        "coordinates": [-41.957778, -20.357778],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"

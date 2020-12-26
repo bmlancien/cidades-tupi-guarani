@@ -584,5 +584,86 @@
     {
       "Cachoeira": ["ity"]
     }
+  },
+  {
+    "name_id": "ituverava_sp",
+    "meaning_pt": 
+    {
+      "Salto brilhante": ["ytu", "beraba"]
+    }
+  },
+  {
+    "name_id": "jacarei_sp",
+    "meaning_pt": 
+    {
+      "Rio dos jacarés": ["îakaré", "y"]
+    }
+  },
+  {
+    "name_id": "jacarepagua_rj",
+    "meaning_pt": 
+    {
+      "Enseada do lugar dos jacarés": ["îakaré", "paba", "kûá"]
+    }
+  },
+  {
+    "name_id": "jaciara_mt",
+    "meaning_pt": 
+    {
+      "Altar da lua": ["îasy", "îara"]
+    }
+  },
+  {
+    "name_id": "jaguare_es",
+    "meaning_pt": 
+    {
+      "Capim": ["jaguaré"]
+    }
+  },
+  {
+    "name_id": "jaguariaiva_pr",
+    "meaning_pt": 
+    {
+      "Rio da onça brava": ["jaguar", "y", "ahiva"],
+      "Rio ruim das onças": ["îagûara", "y", "ahiva"]
+    }
+  },
+  {
+    "name_id": "jaguariaiva_pr",
+    "meaning_pt": 
+    {
+      "Rio preto das onças": ["îagûara", "y", "un"]
+    }
+  },
+  {
+    "name_id": "jau_sp",
+    "meaning_pt": 
+    {
+      "Peixe": ["ya", "un"]
+    }
+  },
+  {
+    "name_id": "mairipora_sp",
+    "meaning_pt": 
+    {
+      "Água bonita de Maíra": ["maíra", "y", "porã"]
+    }
+  },
+  {
+    "name_id": "manhuacu_mg",
+    "meaning_pt": 
+    {
+      "Peixe amarelo grande": ["mandi", "júba", "usu"],
+      "Rio grande": ["manhu", "açu"],
+      "Algodoeiros grandes": ["amynynîu", "açu"]
+    }
+  },
+  {
+    "name_id": "manhumirim_mg",
+    "meaning_pt": 
+    {
+      "Chuva pequena": ["manã", "mirim"],
+      "Pequeno campo da chuva": ["amana", "nhum", "mirim"]
+    }
   }
 ]
