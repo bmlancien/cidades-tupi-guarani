@@ -1,5 +1,26 @@
 [
   {
+    "name_id": "abaete_mg",
+    "meaning_pt": 
+    {
+      "Homem verdadeiro": ["abá", "eté"]
+    }
+  },
+  {
+    "name_id": "abaetetuba_pa",
+    "meaning_pt": 
+    {
+      "Ajuntamento de homens verdadeiros": ["abá", "eté", "tyba"]
+    }
+  },
+  {
+    "name_id": "abaiara_ce",
+    "meaning_pt": 
+    {
+      "O senhor dos homens": ["abá", "îara"]
+    }
+  },
+  {
     "name_id": "acajutiba_ba",
     "meaning_pt": 
     {
@@ -63,6 +84,13 @@
     }
   },
   {
+    "name_id": "arapoti_pr",
+    "meaning_pt": 
+    {
+      "Campos floridos": ["ara", "poti"]
+    }
+  },
+  {
     "name_id": "ararangua_sc",
     "meaning_pt": 
     {
@@ -104,9 +132,7 @@
     {
       "Rio da feitoria": ["tybaia"],
       "Rio alagado": ["ti", "pa", "i"],
-      "Morro dependurado": ["ti", "pai"],
-      "Água saudável": [],
-      "Água salobra, acre, ruim, poluída": []
+      "Morro dependurado": ["ti", "pai"]
     }
   },
   {
@@ -114,6 +140,13 @@
     "meaning_pt": 
     {
       "Lugar da corrida dos homens": ["abá", "nhan", "aba"]
+    }
+  },
+  {
+    "name_id": "avai_sp",
+    "meaning_pt": 
+    {
+      "Água de homem": ["abá", "y"]
     }
   },
   {
@@ -585,6 +618,13 @@
     }
   },
   {
+    "name_id": "itapipoca_ce",
+    "meaning_pt": 
+    {
+      "Pedra arrebentada": ["itá", "pi", "poca"]
+    }
+  },
+  {
     "name_id": "itapira_sp",
     "meaning_pt": 
     {
@@ -663,10 +703,25 @@
     }
   },
   {
+    "name_id": "jijoca_ce",
+    "meaning_pt": 
+    {
+      "Morada das rãs. Toca das tartarugas": ["ji", "oka", "yurukuá", "kûara"]
+    }
+  },
+  {
     "name_id": "jundiai_sp",
     "meaning_pt": 
     {
       "Rio dos jundiás (peixes)": ["jundiá", "y"]
+    }
+  },
+  {
+    "name_id": "macapa_ap",
+    "meaning_pt": 
+    {
+      "Lugar de muitas bacabas": ["macapaba"],
+      "Lugar de macabas": ["macaba", "aba"]
     }
   },
   {

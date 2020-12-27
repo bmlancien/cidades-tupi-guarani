@@ -3,6 +3,42 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Abaeté",
+        "state": "MG",
+        "name_id": "abaete_mg"
+      },
+      "geometry": {
+        "coordinates": [-45.445833, -19.16],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abaetetuba",
+        "state": "PA",
+        "name_id": "abaetetuba_pa"
+      },
+      "geometry": {
+        "coordinates": [-48.882778, -1.717778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abaiara",
+        "state": "CE",
+        "name_id": "abaiara_ce"
+      },
+      "geometry": {
+        "coordinates": [-39.045833, -7.358889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Acajutiba",
         "state": "BA",
         "name_id": "acajutiba_ba"
@@ -112,6 +148,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Arapoti",
+        "state": "PR",
+        "name_id": "arapoti_pr"
+      },
+      "geometry": {
+        "coordinates": [-49.826944, -24.157778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Araranguá",
         "state": "SC",
         "name_id": "ararangua_sc"
@@ -190,6 +238,18 @@
       },
       "geometry": {
         "coordinates": [-49.95, -21.460833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avaí",
+        "state": "SP",
+        "name_id": "avai_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.332778, -22.146944],
         "type": "Point"
       }
     },
@@ -964,6 +1024,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Itapipoca",
+        "state": "CE",
+        "name_id": "itapipoca_ce"
+      },
+      "geometry": {
+        "coordinates": [-39.578889, -3.493889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Itapira",
         "state": "SP",
         "name_id": "itapira_sp"
@@ -1084,12 +1156,48 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jaú",
+        "state": "SP",
+        "name_id": "jau_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.557778, -22.295833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jijoca de Jericoacoara",
+        "state": "CE",
+        "name_id": "jijoca_ce"
+      },
+      "geometry": {
+        "coordinates": [-40.512778, -2.793889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jundiaí",
         "state": "SP",
         "name_id": "jundiai_sp"
       },
       "geometry": {
         "coordinates": [-46.883889, -23.185833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macapá",
+        "state": "AP",
+        "name_id": "macapa_ap"
+      },
+      "geometry": {
+        "coordinates": [-51.066417, 0.038567],
         "type": "Point"
       }
     },
