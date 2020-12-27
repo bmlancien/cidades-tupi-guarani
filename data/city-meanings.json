@@ -52,8 +52,7 @@
     "name_id": "arapiraca_al",
     "meaning_pt": 
     {
-      "Farpas": ["mirá", "pira", "áca"],
-      "Ramo que arara visita": []
+      "Farpas": ["mirá", "pira", "áca"]
     }
   },
   {
@@ -454,6 +453,20 @@
     }
   },
   {
+    "name_id": "ipatinga_mg",
+    "meaning_pt": 
+    {
+      "Pouso de água limpa": ["upaba", "tinga"]
+    }
+  },
+  {
+    "name_id": "ipameri_go",
+    "meaning_pt": 
+    {
+      "Entre rios": ["y", "pan meri"]
+    }
+  },
+  {
     "name_id": "ipuacu_sc",
     "meaning_pt": 
     {
@@ -586,6 +599,13 @@
     }
   },
   {
+    "name_id": "ituiutaba_mg",
+    "meaning_pt": 
+    {
+      "Aldeia do lamaçal do rio": ["y", "tyîuka ", "taba"]
+    }
+  },
+  {
     "name_id": "ituverava_sp",
     "meaning_pt": 
     {
@@ -629,7 +649,7 @@
     }
   },
   {
-    "name_id": "jaguariaiva_pr",
+    "name_id": "jaguariuna_sp",
     "meaning_pt": 
     {
       "Rio preto das onças": ["îagûara", "y", "un"]
@@ -640,6 +660,13 @@
     "meaning_pt": 
     {
       "Peixe": ["ya", "un"]
+    }
+  },
+  {
+    "name_id": "jundiai_sp",
+    "meaning_pt": 
+    {
+      "Rio dos jundiás (peixes)": ["jundiá", "y"]
     }
   },
   {
@@ -723,10 +750,25 @@
     }
   },
   {
+    "name_id": "paranagua_pr",
+    "meaning_pt": 
+    {
+      "Enseada de mar": ["paraná", "kûá"],
+      "Baía ou enseada de mar": ["paraná", "guá"]
+    }
+  },
+  {
     "name_id": "paranapanema_sp",
     "meaning_pt": 
     {
       "Enseada de mar": ["paraná", "kûá"]
+    }
+  },
+  {
+    "name_id": "pindamonhangaba_sp",
+    "meaning_pt": 
+    {
+      "Lugar onde se fazem anzóis": ["pindá", "monhang", "aba"]
     }
   },
   {
