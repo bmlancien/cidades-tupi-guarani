@@ -28,7 +28,9 @@
 
 .mapboxgl-popup .mapboxgl-popup-content {
   padding: 0;
-  width: 20rem;
+  @media only screen and (min-width: 640px) {
+    width: 20rem;
+  }
 }
 
 .mapboxgl-map .mapboxgl-popup {
@@ -57,8 +59,14 @@
     margin-bottom: .5rem;
     padding-top: .75rem;
   }
+  &__words {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
   &__word-tupi {
     display: inline-block;
+    align-self: flex-start;
     font-size: .875rem;
     font-weight: 300;
     color: $primary-color-1;
