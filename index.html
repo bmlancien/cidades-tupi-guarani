@@ -91,20 +91,20 @@
 
           function displayCityMeanings(city, tupi) {
             let wordInTupi = "";
-            let cityNameTranslation = document.getElementsByClassName("popup__city-name");
-            if (city.length === 1) {
-              console.log("test");
-              cityNameTranslation.style.margin = ".5rem 0 1rem";
-              cityNameTranslation.style.padding = "0";
-            }
+            let cityNameTranslation = document.getElementsById("cityTranslation");
             for (i = 0; i < city.length; i++) {
               citcitiesInPt = citiesInPt + "<div class='popup popup__item'>";
-              citiesInPt = citiesInPt + "<p class='popup popup__city-name'>= " + city[i] + "</p>";
+              citiesInPt = citiesInPt + "<p class='popup popup__city-name' id='cityTranslation'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
                   citiesInPt = citiesInPt + "<div class='popup popup__words'><p class='popup popup__word-tupi'>" + wordInTupi + "</p><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
                 }
               citcitiesInPt = citiesInPt + "</div>";
+            }
+            if (city.length === 1) {
+              console.log("test");
+              cityNameTranslation.style.margin = ".5rem 0 1rem";
+              cityNameTranslation.style.padding = "0";
             }
             return citiesInPt;
           }
