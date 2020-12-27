@@ -1284,6 +1284,210 @@
         "coordinates": [-49.017778, -17.302778],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piracicaba",
+        "state": "SP",
+        "name_id": "piracicaba_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.648889, -22.725],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirapora",
+        "state": "MG",
+        "name_id": "pirapora_mg"
+      },
+      "geometry": {
+        "coordinates": [-44.941944, -17.345],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piraquara",
+        "state": "PR",
+        "name_id": "piraquara_pr"
+      },
+      "geometry": {
+        "coordinates": [-49.062778, -25.441944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirassununga",
+        "state": "SP",
+        "name_id": "pirassununga_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.425833, -21.995833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabará",
+        "state": "MG",
+        "name_id": "sabara_mg"
+      },
+      "geometry": {
+        "coordinates": [-43.806944, -19.885833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapiranga",
+        "state": "RS",
+        "name_id": "sapiranga_rs"
+      },
+      "geometry": {
+        "coordinates": [-51.006944, -29.637778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapucaia do Sul",
+        "state": "RS",
+        "name_id": "sapucaia_rs"
+      },
+      "geometry": {
+        "coordinates": [-51.143889, -29.838889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorocaba",
+        "state": "SP",
+        "name_id": "sorocaba_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.457778, -23.501944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabapuã",
+        "state": "SP",
+        "name_id": "tabapua_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.031944, -20.963889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabatinga",
+        "state": "AM",
+        "name_id": "tabatinga_am"
+      },
+      "geometry": {
+        "coordinates": [-69.938056, -4.2525],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taiaçu",
+        "state": "SP",
+        "name_id": "taiacu_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.512778, -21.143889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taquaritinga",
+        "state": "SP",
+        "name_id": "taquaritinga_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.505, -21.405833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taubaté",
+        "state": "SP",
+        "name_id": "taubate_sp"
+      },
+      "geometry": {
+        "coordinates": [-45.558611, -23.025833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uberaba",
+        "state": "MG",
+        "name_id": "uberaba_mg"
+      },
+      "geometry": {
+        "coordinates": [-47.931944, -19.747778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unaí",
+        "state": "MG",
+        "name_id": "unai_mg"
+      },
+      "geometry": {
+        "coordinates": [-46.904167, -16.363889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Votorantim",
+        "state": "SP",
+        "name_id": "votorantim_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.437778, -23.546944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Votuporanga",
+        "state": "SP",
+        "name_id": "votuporanga_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.972778, -20.422778],
+        "type": "Point"
+      }
     }
   ],
   "type": "FeatureCollection"

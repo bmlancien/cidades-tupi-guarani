@@ -742,5 +742,127 @@
     {
       "Peixe de cabeça amarela": ["pirá", "acanga", "júba"]
     }
+  },
+  {
+    "name_id": "piracicaba_sp",
+    "meaning_pt": 
+    {
+      "Lugar onde o peixe para": ["pirá", "syk", "aba"]
+    }
+  },
+  {
+    "name_id": "pirapora_mg",
+    "meaning_pt": 
+    {
+      "Salto do peixe": ["pirá", "pora"]
+    }
+  },
+  {
+    "name_id": "piraquara_pr",
+    "meaning_pt": 
+    {
+      "Toca dos peixes": ["pirá", "kûara"]
+    }
+  },
+  {
+    "name_id": "pirassununga_sp",
+    "meaning_pt": 
+    {
+      "Peixes barulhentos": ["pirá", "sunung"]
+    }
+  },
+  {
+    "name_id": "sabara_mg",
+    "meaning_pt": 
+    {
+      "Grandes olhos brilhantes": ["tesá", "beraba", "usu"]
+    }
+  },
+  {
+    "name_id": "sapiranga_rs",
+    "meaning_pt": 
+    {
+      "Inflamação das pálpebras": ["eçá", "piranga"]
+    }
+  },
+  {
+    "name_id": "sapucaia_rs",
+    "meaning_pt": 
+    {
+      "Fruto que faz saltar o olho (fruto da árvore sapucaia)": ["ya", "eçá", "pukáia"]
+    }
+  },
+  {
+    "name_id": "sorocaba_sp",
+    "meaning_pt": 
+    {
+      "Fruto que faz saltar o olho (fruto da árvore sapucaia)": ["sorok", "aba"]
+    }
+  },
+  {
+    "name_id": "tabapua_sp",
+    "meaning_pt": 
+    {
+      "Aldeia redonda": ["taba", "puá"]
+    }
+  },
+  {
+    "name_id": "tabatinga_am",
+    "meaning_pt": 
+    {
+      "Barro branco": ["taba", "tinga"],
+      "Aldeia branca": ["taba", "tinga"]
+    }
+  },
+  {
+    "name_id": "taiacu_sp",
+    "meaning_pt": 
+    {
+      "Porco-do-mato": ["tãi", "açu"]
+    }
+  },
+  {
+    "name_id": "taquaritinga_sp",
+    "meaning_pt": 
+    {
+      "Taquara pequena e branca": ["takwa'ri", "tinga"],
+      "Rio claro das taquaras": ["takwar", "y", "tinga"]
+    }
+  },
+  {
+    "name_id": "taubate_sp",
+    "meaning_pt": 
+    {
+      "Aldeia alta": ["taba", "ybate"]
+    }
+  },
+  {
+    "name_id": "uberaba_mg",
+    "meaning_pt": 
+    {
+      "Água cristalina": ["y", "beraba"]
+    }
+  },
+  {
+    "name_id": "unai_mg",
+    "meaning_pt": 
+    {
+      "Rio preto": ["una", "y"]
+    }
+  },
+  {
+    "name_id": "votorantim_sp",
+    "meaning_pt": 
+    {
+      "Morro pontudo": ["votura", "tĩ"]
+    }
+  },
+  {
+    "name_id": "votuporanga_sp",
+    "meaning_pt": 
+    {
+      "Bons ventos": ["botu", "poranga"],
+      "Morro bonito": ["votura", "poranga"]
+    }
   }
 ]
