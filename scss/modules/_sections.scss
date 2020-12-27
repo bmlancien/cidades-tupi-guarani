@@ -20,6 +20,21 @@ main.privacy {
     }
   }
 
+  .source {
+    width: 100%;
+    padding: 2rem 0;
+    @media only screen and (min-width: 1024px) {
+      width: 50rem;
+    }
+    p {
+      font-weight: 700;
+      margin-bottom: 0;
+    }
+    a {
+      display: block;
+      padding-top: 1rem;
+    }
+  }
   .legal-links {
     width: 100%;
     padding: 2rem 0;
