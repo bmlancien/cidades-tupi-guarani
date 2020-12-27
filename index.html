@@ -91,6 +91,12 @@
 
           function displayCityMeanings(city, tupi) {
             let wordInTupi = "";
+            let cityNameTranslation = document.getElementsByClassName("popup__city-name");
+            if (city.length === 1) {
+              console.log("test");
+              cityNameTranslation.style.margin = ".5rem 0 1rem";
+              cityNameTranslation.style.padding = "0";
+            }
             for (i = 0; i < city.length; i++) {
               citcitiesInPt = citiesInPt + "<div class='popup popup__item'>";
               citiesInPt = citiesInPt + "<p class='popup popup__city-name'>= " + city[i] + "</p>";
