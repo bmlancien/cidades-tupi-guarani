@@ -268,6 +268,54 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bacurituba",
+        "state": "MA",
+        "name_id": "bacurituba_ma"
+      },
+      "geometry": {
+        "coordinates": [-44.737778, -2.705833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baependi",
+        "state": "MG",
+        "name_id": "baependi_mg"
+      },
+      "geometry": {
+        "coordinates": [-44.89, -21.958889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banabuiú",
+        "state": "CE",
+        "name_id": "banabuiu_ce"
+      },
+      "geometry": {
+        "coordinates": [-38.920833, -5.31],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barueri",
+        "state": "SP",
+        "name_id": "barueri_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.909444, -23.510556],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Baturité",
         "state": "CE",
         "name_id": "baturite_ce"
@@ -298,6 +346,30 @@
       },
       "geometry": {
         "coordinates": [-46.138889, -23.853889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beruri",
+        "state": "AM",
+        "name_id": "beruri_am"
+      },
+      "geometry": {
+        "coordinates": [-61.373056, -3.898333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biguaçu",
+        "state": "SC",
+        "name_id": "biguacu_sc"
+      },
+      "geometry": {
+        "coordinates": [-48.655833, -27.493889],
         "type": "Point"
       }
     },
@@ -394,6 +466,114 @@
       },
       "geometry": {
         "coordinates": [-50.146944, -21.065833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caapiranga",
+        "state": "AM",
+        "name_id": "caapiranga_am"
+      },
+      "geometry": {
+        "coordinates": [-61.208889, -3.3275],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caapora",
+        "state": "JP",
+        "name_id": "caapora_jp"
+      },
+      "geometry": {
+        "coordinates": [-34.907778, -7.515833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caatiba",
+        "state": "BA",
+        "name_id": "caatiba_ba"
+      },
+      "geometry": {
+        "coordinates": [-40.407778, -14.976944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caçapava",
+        "state": "SP",
+        "name_id": "cacapava_sp"
+      },
+      "geometry": {
+        "coordinates": [-45.706944, -23.100833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caçu",
+        "state": "GO",
+        "name_id": "cacu_go"
+      },
+      "geometry": {
+        "coordinates": [-51.130833, -18.556944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caém",
+        "state": "BA",
+        "name_id": "caem_ba"
+      },
+      "geometry": {
+        "coordinates": [-40.435, -11.090833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cajapió",
+        "state": "MA",
+        "name_id": "cajapio_ma"
+      },
+      "geometry": {
+        "coordinates": [-44.675, -2.880833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camaçari",
+        "state": "BA",
+        "name_id": "camacari_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.323889, -12.697778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camaquã",
+        "state": "RS",
+        "name_id": "camaqua_rs"
+      },
+      "geometry": {
+        "coordinates": [-51.811944, -30.850833],
         "type": "Point"
       }
     },

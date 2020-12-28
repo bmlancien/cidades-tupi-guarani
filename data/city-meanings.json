@@ -157,6 +157,35 @@
     }
   },
   {
+    "name_id": "bacurituba_ma",
+    "meaning_pt": 
+    {
+      "Lugar onde há muitos bacuris": ["bacuri", "tyba"]
+    }
+  },
+  {
+    "name_id": "baependi_mg",
+    "meaning_pt": 
+    {
+      "Rio do monstro marinho": ["mba'eapina", "y"]
+    }
+  },
+  {
+    "name_id": "banabuiu_ce",
+    "meaning_pt": 
+    {
+      "Brejo das borboletas": ["bana", "puyú"],
+      "Rio que tem muitas voltas": ["bana", "bui", "y"]
+    }
+  },
+  {
+    "name_id": "barueri_sp",
+    "meaning_pt": 
+    {
+      "Coisa que treme": ["mbaé", "ryryî"]
+    }
+  },
+  {
     "name_id": "baturite_ce",
     "meaning_pt": 
     {
@@ -180,6 +209,20 @@
     {
       "Casa do peixa branco": ["paraty", "oka"],
       "Casa do muriqui": ["buriqui", "oka"]
+    }
+  },
+  {
+    "name_id": "beruri_am",
+    "meaning_pt": 
+    {
+      "Rio do mosquito": ["mbiru", "y"]
+    }
+  },
+  {
+    "name_id": "biguacu_sc",
+    "meaning_pt": 
+    {
+      "Biguá grande": ["biguá", "açu"]
     }
   },
   {
@@ -244,6 +287,70 @@
     "meaning_pt": 
     {
       "Terra dos buris (palmeira)": ["buri", "etama"]
+    }
+  },
+  {
+    "name_id": "caapiranga_am",
+    "meaning_pt": 
+    {
+      "Folha vermelha": ["ka'a", "pyrang"]
+    }
+  },
+  {
+    "name_id": "caapora_jp",
+    "meaning_pt": 
+    {
+      "Mata bonita": ["ka'a", "porã"],
+      "Mata redonda": ["ka'a", "puá"]
+    }
+  },
+  {
+    "name_id": "caatiba_ba",
+    "meaning_pt": 
+    {
+      "Ajuntamento de mata": ["ka'a", "tyba"]
+    }
+  },
+  {
+    "name_id": "cacapava_sp",
+    "meaning_pt": 
+    {
+      "Passagem na mata": ["ka'a", "asapaba"]
+    }
+  },
+  {
+    "name_id": "cacu_go",
+    "meaning_pt": 
+    {
+      "Mato grande": ["ka'a", "açu"]
+    }
+  },
+  {
+    "name_id": "caem_ba",
+    "meaning_pt": 
+    {
+      "Planta doce": ["ka'a", "é"]
+    }
+  },
+  {
+    "name_id": "cajapio_ma",
+    "meaning_pt": 
+    {
+      "Fruto maduro, dourado": ["cajapió"]
+    }
+  },
+  {
+    "name_id": "camacari_ba",
+    "meaning_pt": 
+    {
+      "Cachaporra-do-gentio (árvore)": ["kamasary"]
+    }
+  },
+  {
+    "name_id": "camaqua_rs",
+    "meaning_pt": 
+    {
+      "Rio correntoso": ["i", "cabaquã"]
     }
   },
   {
