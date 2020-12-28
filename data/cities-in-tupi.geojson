@@ -580,6 +580,186 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Capivari",
+        "state": "SP",
+        "name_id": "capivari_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.507778, -22.995],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capixaba",
+        "state": "AC",
+        "name_id": "capixaba_ac"
+      },
+      "geometry": {
+        "coordinates": [-67.675833, -10.572778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuiabá",
+        "state": "MT",
+        "name_id": "cuiaba_mt"
+      },
+      "geometry": {
+        "coordinates": [-56.096944, -15.595833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curitiba",
+        "state": "PR",
+        "name_id": "curitiba_pr"
+      },
+      "geometry": {
+        "coordinates": [-49.271944, -25.429722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Echaporã",
+        "state": "SP",
+        "name_id": "echapora_sp"
+      },
+      "geometry": {
+        "coordinates": [-50.200833, -22.428889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eirunepé",
+        "state": "AM",
+        "name_id": "eirunepe_am"
+      },
+      "geometry": {
+        "coordinates": [-69.873889, -6.66],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embu das Artes",
+        "state": "SP",
+        "name_id": "embu_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.851944, -23.648889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embu-Guaçu",
+        "state": "SP",
+        "name_id": "embuguacu_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.810833, -23.831944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erebango",
+        "state": "RS",
+        "name_id": "erebango_rs"
+      },
+      "geometry": {
+        "coordinates": [-52.301944, -27.855],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erechim",
+        "state": "RS",
+        "name_id": "erechim_rs"
+      },
+      "geometry": {
+        "coordinates": [-52.273889, -27.633889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ereré",
+        "state": "CE",
+        "name_id": "erere_ce"
+      },
+      "geometry": {
+        "coordinates": [-38.348889, -6.031944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exu",
+        "state": "PE",
+        "name_id": "exu_pe"
+      },
+      "geometry": {
+        "coordinates": [-39.723889, -7.511944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garanhuns",
+        "state": "PE",
+        "name_id": "garanhuns_pe"
+      },
+      "geometry": {
+        "coordinates": [-36.492778, -8.890278],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garuva",
+        "state": "SC",
+        "name_id": "garuva_sc"
+      },
+      "geometry": {
+        "coordinates": [-48.855, -26.026944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goioxim",
+        "state": "PR",
+        "name_id": "goioxim_pr"
+      },
+      "geometry": {
+        "coordinates": [-51.992778, -25.195],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gravatá",
         "state": "PE",
         "name_id": "gravata_pe"
@@ -604,12 +784,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gravatal",
+        "state": "RS",
+        "name_id": "gravatal_sc"
+      },
+      "geometry": {
+        "coordinates": [-49.035, -28.330833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Guaçuí",
         "state": "ES",
         "name_id": "guacui_es"
       },
       "geometry": {
         "coordinates": [-41.678889, -20.775833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaimbê",
+        "state": "SP",
+        "name_id": "guaimbe_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.896944, -21.91],
         "type": "Point"
       }
     },
@@ -832,6 +1036,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Humaitá",
+        "state": "AM",
+        "name_id": "humaita_am"
+      },
+      "geometry": {
+        "coordinates": [-63.020833, -7.506111],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Iacanga",
         "state": "SP",
         "name_id": "iacanga_sp"
@@ -868,6 +1084,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ibiporã",
+        "state": "PR",
+        "name_id": "ibipora_pr"
+      },
+      "geometry": {
+        "coordinates": [-51.047778, -23.268889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ibirarema",
         "state": "SP",
         "name_id": "ibirarema_sp"
@@ -892,6 +1120,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ibiúna",
+        "state": "SP",
+        "name_id": "ibiuna_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.222778, -23.655833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Igaraçu do Tietê",
         "state": "SP",
         "name_id": "igaracu_sp"
@@ -910,6 +1150,18 @@
       },
       "geometry": {
         "coordinates": [-54.560833, -23.68],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imbaú",
+        "state": "PR",
+        "name_id": "imbau_pr"
+      },
+      "geometry": {
+        "coordinates": [-50.760833, -24.445],
         "type": "Point"
       }
     },
@@ -1000,6 +1252,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Iporã",
+        "state": "PR",
+        "name_id": "ipora_pr"
+      },
+      "geometry": {
+        "coordinates": [-53.703889, -24.002778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ipuaçu",
         "state": "SC",
         "name_id": "ipuacu_sc"
@@ -1018,6 +1282,18 @@
       },
       "geometry": {
         "coordinates": [-50.583889, -25.023889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iracema",
+        "state": "CE",
+        "name_id": "iracema_ce"
+      },
+      "geometry": {
+        "coordinates": [-38.305833, -5.811944],
         "type": "Point"
       }
     },
@@ -1066,6 +1342,18 @@
       },
       "geometry": {
         "coordinates": [-39.28, -14.785833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itacaré",
+        "state": "BA",
+        "name_id": "itacare_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.996944, -14.277778],
         "type": "Point"
       }
     },
@@ -1138,6 +1426,30 @@
       },
       "geometry": {
         "coordinates": [-68.252778, -6.425],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itanhaém",
+        "state": "SP",
+        "name_id": "itanhaem_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.788889, -24.182778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itanhandu",
+        "state": "MG",
+        "name_id": "itanhandu_mg"
+      },
+      "geometry": {
+        "coordinates": [-44.935, -22.295833],
         "type": "Point"
       }
     },
@@ -1462,6 +1774,18 @@
       },
       "geometry": {
         "coordinates": [-50.037778, -20.693889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nova Iguaçu",
+        "state": "RJ",
+        "name_id": "novaiguacu_rj"
+      },
+      "geometry": {
+        "coordinates": [-43.447728, -22.760322],
         "type": "Point"
       }
     },
