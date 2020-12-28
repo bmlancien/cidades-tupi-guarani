@@ -1540,6 +1540,54 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Itatiaia",
+        "state": "RJ",
+        "name_id": "itatiaia_rj"
+      },
+      "geometry": {
+        "coordinates": [-44.559167, -22.491389],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itatiba",
+        "state": "SP",
+        "name_id": "itatiba_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.838611, -23.006667],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaúna",
+        "state": "MG",
+        "name_id": "itauna_mg"
+      },
+      "geometry": {
+        "coordinates": [-44.575833, -20.075],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itororó",
+        "state": "BA",
+        "name_id": "itororo_ba"
+      },
+      "geometry": {
+        "coordinates": [-40.07, -15.116944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Itu",
         "state": "SP",
         "name_id": "itu_sp"
@@ -1612,6 +1660,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jacuí",
+        "state": "MG",
+        "name_id": "jacui_mg"
+      },
+      "geometry": {
+        "coordinates": [-46.740833, -21.016944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jaguaré",
         "state": "ES",
         "name_id": "jaguare_es"
@@ -1642,6 +1702,18 @@
       },
       "geometry": {
         "coordinates": [-46.985833, -22.705833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jataí",
+        "state": "GO",
+        "name_id": "jatai_go"
+      },
+      "geometry": {
+        "coordinates": [-51.713889, -17.880833],
         "type": "Point"
       }
     },
@@ -1696,12 +1768,48 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Maceió",
+        "state": "AL",
+        "name_id": "maceio_al"
+      },
+      "geometry": {
+        "coordinates": [-35.735, 9.665833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mairiporã",
         "state": "SP",
         "name_id": "mairipora_sp"
       },
       "geometry": {
         "coordinates": [-46.586944, -23.318889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manaus",
+        "state": "AM",
+        "name_id": "manaus_am"
+      },
+      "geometry": {
+        "coordinates": [-60.005556, -3.073611],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangaratiba",
+        "state": "RJ",
+        "name_id": "mangaratiba_rj"
+      },
+      "geometry": {
+        "coordinates": [-44.040833, -22.96],
         "type": "Point"
       }
     },
@@ -1726,6 +1834,30 @@
       },
       "geometry": {
         "coordinates": [-41.957778, -20.357778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maraba",
+        "state": "PA",
+        "name_id": "maraba_pa"
+      },
+      "geometry": {
+        "coordinates": [-49.117778, -5.368889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maragogi",
+        "state": "AL",
+        "name_id": "maragogi_al"
+      },
+      "geometry": {
+        "coordinates": [-35.2225, -9.012222],
         "type": "Point"
       }
     },

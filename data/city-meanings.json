@@ -934,6 +934,34 @@
     }
   },
   {
+    "name_id": "itatiaia_rj",
+    "meaning_pt": 
+    {
+      "Pedra pontuda": ["itá", "atîaîa"]
+    }
+  },
+  {
+    "name_id": "itatiba_sp",
+    "meaning_pt": 
+    {
+      "Ajuntamento de pedras": ["itá", "tyba"]
+    }
+  },
+  {
+    "name_id": "itauna_mg",
+    "meaning_pt": 
+    {
+      "Pedra preta": ["itá", "una"]
+    }
+  },
+  {
+    "name_id": "itororo_ba",
+    "meaning_pt": 
+    {
+      "Jorro d'água": ["y", "tororoma"]
+    }
+  },
+  {
     "name_id": "itu_sp",
     "meaning_pt": 
     {
@@ -976,6 +1004,13 @@
     }
   },
   {
+    "name_id": "jacui_mg",
+    "meaning_pt": 
+    {
+      "Rio dos jacus": ["îaku", "y"]
+    }
+  },
+  {
     "name_id": "jaguare_es",
     "meaning_pt": 
     {
@@ -988,6 +1023,13 @@
     {
       "Rio da onça brava": ["jaguar", "y", "ahiva"],
       "Rio ruim das onças": ["îagûara", "y", "ahiva"]
+    }
+  },
+  {
+    "name_id": "jatai_go",
+    "meaning_pt": 
+    {
+      "Abelha": ["îate'i"]
     }
   },
   {
@@ -1027,10 +1069,31 @@
     }
   },
   {
+    "name_id": "maceio_al",
+    "meaning_pt": 
+    {
+      "O que tapa o alagadiço": ["maçayó"]
+    }
+  },
+  {
     "name_id": "mairipora_sp",
     "meaning_pt": 
     {
       "Água bonita de Maíra": ["maíra", "y", "porang"]
+    }
+  },
+  {
+    "name_id": "manaus_am",
+    "meaning_pt": 
+    {
+      "Mãe dos Deuses": ["manaós"]
+    }
+  },
+  {
+    "name_id": "mangaratiba_rj",
+    "meaning_pt": 
+    {
+      "Ajuntamento de mangarás": ["mangará", "tyba"]
     }
   },
   {
@@ -1048,6 +1111,20 @@
     {
       "Chuva pequena": ["manã", "mirim"],
       "Pequeno campo da chuva": ["amana", "nhum", "mirim"]
+    }
+  },
+  {
+    "name_id": "maraba_pa",
+    "meaning_pt": 
+    {
+      "Filho do estrangeiro com a índia": ["mayr", "abá"]
+    }
+  },
+  {
+    "name_id": "maragogi_al",
+    "meaning_pt": 
+    {
+      "Rio dos gatos-do-mato": ["maragûaó", "y"]
     }
   },
   {
