@@ -28,6 +28,14 @@
     }
   },
   {
+    "name_id": "acarau_ce",
+    "meaning_pt": 
+    {
+      "Rio das garças": ["acará", "hu"],
+      "Rio do cará": ["acará", "y"]
+    }
+  },
+  {
     "name_id": "acopiara_ce",
     "meaning_pt": 
     {
@@ -103,6 +111,13 @@
     "meaning_pt": 
     {
       "Toca das araras": ["arara", "kûara"]
+    }
+  },
+  {
+    "name_id": "aratuba_ce",
+    "meaning_pt": 
+    {
+      "Ajuntamento de pássaros": ["guirá", "tyba"]
     }
   },
   {
@@ -920,6 +935,13 @@
     }
   },
   {
+    "name_id": "itarema_ce",
+    "meaning_pt": 
+    {
+      "Pedra de cheiro agradável": ["itá", "rema"]
+    }
+  },
+  {
     "name_id": "itatiaia_rj",
     "meaning_pt": 
     {
@@ -1107,6 +1129,13 @@
     }
   },
   {
+    "name_id": "maracanau_ce",
+    "meaning_pt": 
+    {
+      "Rio das maracanãs": ["marakanã", "y"]
+    }
+  },
+  {
     "name_id": "maragogi_al",
     "meaning_pt": 
     {
@@ -1182,6 +1211,13 @@
     "meaning_pt": 
     {
       "Rio bom": ["pará", "katu"]
+    }
+  },
+  {
+    "name_id": "paracuru_ce",
+    "meaning_pt": 
+    {
+      "Mar, rio de cascalho": ["pará", "curu"]
     }
   },
   {
