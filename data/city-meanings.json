@@ -57,6 +57,13 @@
     }
   },
   {
+    "name_id": "aracati_ce",
+    "meaning_pt": 
+    {
+      "Muitos araçás": ["ara", "katu"]
+    }
+  },
+  {
     "name_id": "aracatuba_sp",
     "meaning_pt": 
     {
@@ -348,6 +355,13 @@
     }
   },
   {
+    "name_id": "cajuru_sp",
+    "meaning_pt": 
+    {
+      "Boca do mato": ["ka'îuru"]
+    }
+  },
+  {
     "name_id": "camacari_ba",
     "meaning_pt": 
     {
@@ -373,6 +387,34 @@
     "meaning_pt": 
     {
       "Roça de milho": ["capixaba"]
+    }
+  },
+  {
+    "name_id": "caraguatatuba_sp",
+    "meaning_pt": 
+    {
+      "Ajuntamento de mata dura": ["ka'a", "ã’tã", "tyba"]
+    }
+  },
+  {
+    "name_id": "caririacu_ce",
+    "meaning_pt": 
+    {
+      "Caladão": ["cariri", "açu"]
+    }
+  },
+  {
+    "name_id": "catanduva_sp",
+    "meaning_pt": 
+    {
+      "Lugar de muitos caraguatás": ["caraguatá", "tyba"]
+    }
+  },
+  {
+    "name_id": "caucaia_ce",
+    "meaning_pt": 
+    {
+      "Queimado": ["caucaia"]
     }
   },
   {
@@ -580,6 +622,13 @@
     }
   },
   {
+    "name_id": "guaratingueta_sp",
+    "meaning_pt": 
+    {
+      "Muitas garças": ["guará", "tinga", "etá"]
+    }
+  },
+  {
     "name_id": "guariba_sp",
     "meaning_pt": 
     {
@@ -708,6 +757,13 @@
     "meaning_pt": 
     {
       "Beber [água] da bica": ["imba-u"]
+    }
+  },
+  {
+    "name_id": "iguatu_ce",
+    "meaning_pt": 
+    {
+      "Rio bom, água boa": ["y", "katu"]
     }
   },
   {
@@ -1207,6 +1263,13 @@
     }
   },
   {
+    "name_id": "pacatupa_ce",
+    "meaning_pt": 
+    {
+      "Ajuntamento de pacas": ["paca", "tyba"]
+    }
+  },
+  {
     "name_id": "paracatu_mg",
     "meaning_pt": 
     {
@@ -1410,6 +1473,14 @@
     "meaning_pt": 
     {
       "Aldeia alta": ["taba", "ybate"]
+    }
+  },
+  {
+    "name_id": "uba_mg",
+    "meaning_pt": 
+    {
+      "Canoa de uma só peça escavada em tronco de árvore": ["ubá"],
+      "Gramínea": ["ubá"]
     }
   },
   {
