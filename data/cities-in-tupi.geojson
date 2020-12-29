@@ -125,8 +125,7 @@
       "properties": {
         "name": "Arapiraca",
         "state": "AL",
-        "name_id": "arapiraca_al",
-        "meaning_pt": " Farpas"
+        "name_id": "arapiraca_al"
       },
       "geometry": {
         "coordinates": [-36.660833, -9.751944],
@@ -1314,7 +1313,7 @@
       "properties": {
         "name": "Itabira",
         "state": "MG",
-        "name_id": "itabura_mg"
+        "name_id": "itabira_mg"
       },
       "geometry": {
         "coordinates": [-43.226944, -19.618889],
