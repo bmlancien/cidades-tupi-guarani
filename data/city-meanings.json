@@ -264,13 +264,6 @@
     "name_id": "botucatu_sp",
     "meaning_pt": 
     {
-      "Bons ares": ["ybytu", "katu"]
-    }
-  },
-  {
-    "name_id": "botucatu_sp",
-    "meaning_pt": 
-    {
       "Bons ares": ["ybytu", "katu"],
       "Serra boa": ["ybytyra", "katu"]
     }
@@ -541,13 +534,6 @@
     "meaning_pt": 
     {
       "Guarantã (árvore)": ["ybyrá", "ã’tã"]
-    }
-  },
-  {
-    "name_id": "guarapari_es",
-    "meaning_pt": 
-    {
-      "Arma para a caça de guarás": ["guará", "parim"]
     }
   },
   {
@@ -1362,7 +1348,7 @@
     }
   },
   {
-    "name_id": "Tapejara",
+    "name_id": "tapejara_pr",
     "meaning_pt": 
     {
       "Senhor dos caminhos": ["tape", "îara"]
