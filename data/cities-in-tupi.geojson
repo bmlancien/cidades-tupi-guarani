@@ -1900,12 +1900,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mongaguá",
+        "state": "SP",
+        "name_id": "mongagua_sp"
+      },
+      "geometry": {
+        "coordinates": [-24.086944, -46.628889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Nhandeara",
         "state": "SP",
         "name_id": "nhandeara_sp"
       },
       "geometry": {
         "coordinates": [-50.037778, -20.693889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niterói",
+        "state": "RJ",
+        "name_id": "niteroi_rj"
+      },
+      "geometry": {
+        "coordinates": [-43.103889, -22.882778],
         "type": "Point"
       }
     },
@@ -1930,6 +1954,18 @@
       },
       "geometry": {
         "coordinates": [-47.748889, -20.73],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oiapoque",
+        "state": "AP",
+        "name_id": "oiapoque_ap"
+      },
+      "geometry": {
+        "coordinates": [-51.818056, -3.824722],
         "type": "Point"
       }
     },
@@ -1972,6 +2008,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Paranaguá",
+        "state": "PR",
+        "name_id": "paranagua_pr"
+      },
+      "geometry": {
+        "coordinates": [-48.508889, -25.52],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Paranapanema",
         "state": "SP",
         "name_id": "paranapanema_sp"
@@ -1984,12 +2032,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Paranaguá",
-        "state": "PR",
-        "name_id": "paranagua_pr"
+        "name": "Paraty",
+        "state": "RJ",
+        "name_id": "paraty_rj"
       },
       "geometry": {
-        "coordinates": [-48.508889, -25.52],
+        "coordinates": [-44.713889, -23.2225],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peruíbe",
+        "state": "SP",
+        "name_id": "peruibe_sp"
+      },
+      "geometry": {
+        "coordinates": [-46.997778, -24.32],
         "type": "Point"
       }
     },
@@ -2038,6 +2098,18 @@
       },
       "geometry": {
         "coordinates": [-47.648889, -22.725],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piraju",
+        "state": "SP",
+        "name_id": "piraju_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.383889, -23.193889],
         "type": "Point"
       }
     },
@@ -2164,6 +2236,42 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tamandaré",
+        "state": "PE",
+        "name_id": "tamandare_pe"
+      },
+      "geometry": {
+        "coordinates": [-35.105, -8.76],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambaú",
+        "state": "SP",
+        "name_id": "tambau_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.273889, -21.705],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapejara",
+        "state": "PR",
+        "name_id": "tapejara_pr"
+      },
+      "geometry": {
+        "coordinates": [-52.872778, -23.732778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Taquaritinga",
         "state": "SP",
         "name_id": "taquaritinga_sp"
@@ -2176,12 +2284,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tatuí",
+        "state": "SP",
+        "name_id": "tatui_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.856944, -23.355833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Taubaté",
         "state": "SP",
         "name_id": "taubate_sp"
       },
       "geometry": {
         "coordinates": [-45.558611, -23.025833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ubatuba",
+        "state": "SP",
+        "name_id": "ubatuba_sp"
+      },
+      "geometry": {
+        "coordinates": [-45.070833, -23.433889],
         "type": "Point"
       }
     },
@@ -2212,6 +2344,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Urupema",
+        "state": "SC",
+        "name_id": "urupema_sc"
+      },
+      "geometry": {
+        "coordinates": [-49.875278, -27.953611],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Votorantim",
         "state": "SP",
         "name_id": "votorantim_sp"
@@ -2230,6 +2374,18 @@
       },
       "geometry": {
         "coordinates": [-49.972778, -20.422778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xanxerê",
+        "state": "SC",
+        "name_id": "xanxere_sc"
+      },
+      "geometry": {
+        "coordinates": [-52.403889, -26.876944],
         "type": "Point"
       }
     }

@@ -207,7 +207,7 @@
     "name_id": "bertioga_sp",
     "meaning_pt": 
     {
-      "Casa do peixa branco": ["paraty", "oka"],
+      "Casa do peixa branco": ["parati", "oka"],
       "Casa do muriqui": ["buriqui", "oka"]
     }
   },
@@ -1149,10 +1149,25 @@
     }
   },
   {
+    "name_id": "mongagua_sp",
+    "meaning_pt": 
+    {
+      "Água pegajosa": ["mongaguá"]
+    }
+  },
+  {
     "name_id": "nhandeara_sp",
     "meaning_pt": 
     {
       "Nosso Senhor": ["yandê", "îara"]
+    }
+  },
+  {
+    "name_id": "niteroi_rj",
+    "meaning_pt": 
+    {
+      "Água que se esconde": ["terõi", "y"],
+      "Rio verdadeiro frio": ["y", "eté", "ro'y"]
     }
   },
   {
@@ -1167,6 +1182,13 @@
     "meaning_pt": 
     {
       "Campo belo": ["nhum", "poranga"]
+    }
+  },
+  {
+    "name_id": "oiapoque_ap",
+    "meaning_pt": 
+    {
+      "Casa dos Waiãpi": ["oiap", "oka"]
     }
   },
   {
@@ -1206,6 +1228,20 @@
     }
   },
   {
+    "name_id": "paraty_rj",
+    "meaning_pt": 
+    {
+      "Rio dos paratis": ["parati", "y"]
+    }
+  },
+  {
+    "name_id": "peruibe_sp",
+    "meaning_pt": 
+    {
+      "No rio dos tubarões": ["iperu", "y", "pe"]
+    }
+  },
+  {
     "name_id": "pindamonhangaba_sp",
     "meaning_pt": 
     {
@@ -1231,6 +1267,13 @@
     "meaning_pt": 
     {
       "Lugar onde o peixe para": ["pirá", "syk", "aba"]
+    }
+  },
+  {
+    "name_id": "piraju_sp",
+    "meaning_pt": 
+    {
+      "Peixe amarelo": ["pirá", "îub"]
     }
   },
   {
@@ -1305,6 +1348,27 @@
     }
   },
   {
+    "name_id": "tamandare_pe",
+    "meaning_pt": 
+    {
+      "Tamanduá diferente": ["tamanduá", "é"]
+    }
+  },
+  {
+    "name_id": "tambau_sp",
+    "meaning_pt": 
+    {
+      "Rio das conchas": ["tambá", "y"]
+    }
+  },
+  {
+    "name_id": "Tapejara",
+    "meaning_pt": 
+    {
+      "Senhor dos caminhos": ["tape", "îara"]
+    }
+  },
+  {
     "name_id": "taquaritinga_sp",
     "meaning_pt": 
     {
@@ -1313,10 +1377,24 @@
     }
   },
   {
+    "name_id": "tatui_sp",
+    "meaning_pt": 
+    {
+      "Rio do tatu": ["tatu", "y"]
+    }
+  },
+  {
     "name_id": "taubate_sp",
     "meaning_pt": 
     {
       "Aldeia alta": ["taba", "ybate"]
+    }
+  },
+  {
+    "name_id": "ubatuba_sp",
+    "meaning_pt": 
+    {
+      "Ajuntamento de canas-do-rio": ["y", "ubá", "tyba"]
     }
   },
   {
@@ -1334,6 +1412,13 @@
     }
   },
   {
+    "name_id": "urupema_sc",
+    "meaning_pt": 
+    {
+      "Cesto esquinado, peneira": ["uru", "pema"]
+    }
+  },
+  {
     "name_id": "votorantim_sp",
     "meaning_pt": 
     {
@@ -1346,6 +1431,13 @@
     {
       "Bons ventos": ["botu", "poranga"],
       "Morro bonito": ["votura", "poranga"]
+    }
+  },
+  {
+    "name_id": "xanxere_sc",
+    "meaning_pt": 
+    {
+      "Campina da cascavel": ["xãxã", "rê"]
     }
   }
 ]
