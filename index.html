@@ -108,7 +108,7 @@
           function displayCityMeanings(city, tupi) {
             let wordInTupi = "";
             for (i = 0; i < city.length; i++) {
-              citcitiesInPt = citiesInPt + "<div class='popup popup__item'>";
+              citcitiesInPt = "<div class='popup popup__item'>";
               citiesInPt = citiesInPt + "<p class='popup popup__city-name' id='cityTranslation'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
@@ -116,6 +116,7 @@
                 }
               citcitiesInPt = citiesInPt + "</div>";
             }
+            console.log(citiesInPt);
             return citiesInPt;
           }
 
