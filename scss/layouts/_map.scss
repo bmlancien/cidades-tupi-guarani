@@ -33,6 +33,10 @@
   }
 }
 
+.mapboxgl-map .popup__top {
+  padding-bottom: 0;
+}
+
 .mapboxgl-map .mapboxgl-popup {
   opacity: .85;
 }
@@ -49,7 +53,7 @@
     font-size: 1.25rem;
     font-weight: 400;
     color: $gray-1;
-    padding-bottom: .5rem;
+    padding-bottom: .75rem;
     letter-spacing: .01rem;
   }
   &__city-name {
