@@ -101,14 +101,14 @@
         .then(function(json){
           let jsonCityMeanings = json[0];
           let jsonTupiTranslations = json[1];
-          let citiesInPt = "";
+          let citiesInPt = "<div class='popup popup__item'>";
           let cityMeaning = "";
           let tupiWords = "";
 
           function displayCityMeanings(city, tupi) {
             let wordInTupi = "";
             for (i = 0; i < city.length; i++) {
-              citcitiesInPt = "<div class='popup popup__item'>";
+              console.log(citiesInPt);
               citiesInPt = citiesInPt + "<p class='popup popup__city-name' id='cityTranslation'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
