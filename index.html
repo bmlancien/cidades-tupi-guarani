@@ -59,6 +59,9 @@
         zoom: 4
     });
 
+    var nav = new mapboxgl.NavigationControl();
+    map.addControl(nav, 'top-right');
+
     map.on('click', function(e) {
       var features = map.queryRenderedFeatures(e.point, {
         layers: ['cities-in-tupi']
