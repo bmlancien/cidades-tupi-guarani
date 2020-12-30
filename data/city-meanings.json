@@ -453,6 +453,13 @@
     }
   },
   {
+    "name_id": "coruripe_al",
+    "meaning_pt": 
+    {
+      "No rio dos sapos": ["kururu", "y", "pe"]
+    }
+  },
+  {
     "name_id": "cuiaba_mt",
     "meaning_pt": 
     {
@@ -556,6 +563,13 @@
     "meaning_pt": 
     {
       "Água pequena": ["ngoi", "xim"]
+    }
+  },
+  {
+    "name_id": "grajau_ma",
+    "meaning_pt": 
+    {
+      "Rio dos carajás": ["karaîá", "y"]
     }
   },
   {
@@ -951,6 +965,13 @@
     }
   },
   {
+    "name_id": "itacoatiara_am",
+    "meaning_pt": 
+    {
+      "Pedra escrita, pintada": ["itá", "coatiara"]
+    }
+  },
+  {
     "name_id": "itacuruba_pe",
     "meaning_pt": 
     {
@@ -1023,6 +1044,13 @@
     "meaning_pt": 
     {
       "Ocara de pedras": ["itá", "okara"]
+    }
+  },
+  {
+    "name_id": "itapecuru_ma",
+    "meaning_pt": 
+    {
+      "Água caminha entre as pedras": ["itá", "pe", "kuru", "mirim"]
     }
   },
   {
@@ -1221,6 +1249,13 @@
     "meaning_pt": 
     {
       "Água bonita de Maíra": ["maíra", "y", "porang"]
+    }
+  },
+  {
+    "name_id": "manacapuru_am",
+    "meaning_pt": 
+    {
+      "Flor matizada": ["manacá", "puru"]
     }
   },
   {
