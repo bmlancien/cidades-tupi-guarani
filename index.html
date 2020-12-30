@@ -52,11 +52,17 @@
   
   <script>
     mapboxgl.accessToken = 'pk.eyJ1IjoiYmxhbmNpZW4iLCJhIjoiY2tpcTh2cWFvMXVjczJ4cWpqMm91dXIzciJ9.xmJAXqYPyfIZPKzRQCk_HA';
+    var bounds = [
+      [-78.602868, -35.325576],
+      [-30.246666, 7.178931]
+    ];
+
     var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/blancien/ckiw2x2wf4f7j1ap9pwasy92v',
         center: [-54.1,-15],
-        zoom: 4
+        zoom: 4,
+        maxBounds: bounds
     });
 
     var nav = new mapboxgl.NavigationControl();
