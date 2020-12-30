@@ -142,6 +142,13 @@
     }
   },
   {
+    "name_id": "ariquemes_ro",
+    "meaning_pt": 
+    {
+      "Arikeme": ["arikeme"]
+    }
+  },
+  {
     "name_id": "aruja_sp",
     "meaning_pt": 
     {
@@ -324,6 +331,13 @@
     {
       "Mata bonita": ["ka'a", "porang"],
       "Mata redonda": ["ka'a", "puá"]
+    }
+  },
+  {
+    "name_id": "caarapo_ms",
+    "meaning_pt": 
+    {
+      "Raiz de erva mate": ["ka'a", "rapó"]
     }
   },
   {
@@ -650,6 +664,13 @@
     }
   },
   {
+    "name_id": "guarai_to",
+    "meaning_pt": 
+    {
+      "Rio dos guarás": ["guará", "y"]
+    }
+  },
+  {
     "name_id": "guarantadonorte_mt",
     "meaning_pt": 
     {
@@ -929,6 +950,13 @@
     }
   },
   {
+    "name_id": "itabaiana_se",
+    "meaning_pt": 
+    {
+      "Naquela aldeia mora alguém": ["itá", "taba", "oane"]
+    }
+  },
+  {
     "name_id": "itaberaba_ba",
     "meaning_pt": 
     {
@@ -1089,10 +1117,17 @@
     }
   },
   {
-    "name_id": "itarema_ce",
+    "name_id": "itapira_sp",
     "meaning_pt": 
     {
-      "Pedra de cheiro agradável": ["itá", "rema"]
+      "Ponta de pedra": ["itá", "pira"]
+    }
+  },
+  {
+    "name_id": "itaporanga_se",
+    "meaning_pt": 
+    {
+      "Pedra bonita": ["itá", "poranga"]
     }
   },
   {
@@ -1135,6 +1170,13 @@
     "meaning_pt": 
     {
       "Aldeia do lamaçal do rio": ["y", "tyîuka", "taba"]
+    }
+  },
+  {
+    "name_id": "itumbiara_go",
+    "meaning_pt": 
+    {
+      "Caminho da cachoeira": ["ytu", "piara"]
     }
   },
   {
@@ -1183,8 +1225,8 @@
     "name_id": "jaguariaiva_pr",
     "meaning_pt": 
     {
-      "Rio da onça brava": ["jaguar", "y", "ahiva"],
-      "Rio ruim das onças": ["îagûara", "y", "ahiva"]
+      "Rio da onça brava": ["jaguar", "y", "aíba"],
+      "Rio ruim das onças": ["îagûara", "y", "aíba"]
     }
   },
   {
@@ -1209,10 +1251,24 @@
     }
   },
   {
+    "name_id": "jequie_ba",
+    "meaning_pt": 
+    {
+      "Cesto afunilado": ["jequi"]
+    }
+  },
+  {
     "name_id": "jijoca_ce",
     "meaning_pt": 
     {
       "Morada das rãs, toca das tartarugas": ["ji", "oka", "yurukuá", "kûara"]
+    }
+  },
+  {
+    "name_id": "jiparana_ro",
+    "meaning_pt": 
+    {
+      "Rio dos machados": ["jy", "paraná"]
     }
   },
   {
@@ -1301,6 +1357,13 @@
     "meaning_pt": 
     {
       "Filho do estrangeiro com a índia": ["mayr", "abá"]
+    }
+  },
+  {
+    "name_id": "maracaju_ms",
+    "meaning_pt": 
+    {
+      "Água de maracá": ["mbara'ká", "y"]
     }
   },
   {
@@ -1447,6 +1510,13 @@
     }
   },
   {
+    "name_id": "paranaiba_ms",
+    "meaning_pt": 
+    {
+      "Rio ruim": ["paraná", "aíba"]
+    }
+  },
+  {
     "name_id": "paranapanema_sp",
     "meaning_pt": 
     {
@@ -1503,6 +1573,13 @@
     }
   },
   {
+    "name_id": "piracuruca_pi",
+    "meaning_pt": 
+    {
+      "Peixe roncador": ["pirá", "kuruk"]
+    }
+  },
+  {
     "name_id": "piraju_sp",
     "meaning_pt": 
     {
@@ -1528,6 +1605,13 @@
     "meaning_pt": 
     {
       "Peixes barulhentos": ["pirá", "sunung"]
+    }
+  },
+  {
+    "name_id": "pontapora_ms",
+    "meaning_pt": 
+    {
+      "(Ponta) bonita": ["porang"]
     }
   },
   {
@@ -1571,6 +1655,14 @@
     {
       "Barro branco": ["taba", "tinga"],
       "Aldeia branca": ["taba", "tinga"]
+    }
+  },
+  {
+    "name_id": "taguatinga_to",
+    "meaning_pt": 
+    {
+      "Ave branca": ["ta'wa", "tinga"],
+      "Barro branco": ["ta'wa", "tinga"]
     }
   },
   {
@@ -1621,6 +1713,13 @@
     "meaning_pt": 
     {
       "Aldeia alta": ["taba", "ybate"]
+    }
+  },
+  {
+    "name_id": "tocantins_to",
+    "meaning_pt": 
+    {
+      "(Paraíso dos) bicos de tucanos": ["tukana", "tim"]
     }
   },
   {
