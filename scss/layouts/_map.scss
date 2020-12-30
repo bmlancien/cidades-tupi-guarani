@@ -70,6 +70,10 @@
     flex-wrap: nowrap;
     letter-spacing: .02rem;
   }
+  &__left {
+    display: inline-block;
+    min-width: 10rem;
+  }
   &__word-tupi {
     display: inline-block;
     align-self: flex-start;

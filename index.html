@@ -111,7 +111,7 @@
               citiesInPt = citiesInPt + "<div class='popup popup__item'><p class='popup popup__city-name' id='cityTranslation'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
                   wordInTupi = tupi[i][j];
-                  citiesInPt = citiesInPt + "<div class='popup popup__words'><p class='popup popup__word-tupi'>" + wordInTupi + "</p><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
+                  citiesInPt = citiesInPt + "<div class='popup popup__words'><div class='popup popup__left'><p class='popup popup__word-tupi'>" + wordInTupi + "</p></div><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
                 }
               citiesInPt = citiesInPt + "</div>";
             }
