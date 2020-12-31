@@ -279,7 +279,7 @@
     "name_id": "boituva_sp",
     "meaning_pt": 
     {
-      "Local de muitas cobras": ["mboy", "mboy"]
+      "Local de muitas cobras": ["mboy", "tyba"]
     }
   },
   {
@@ -400,7 +400,7 @@
     "name_id": "camaragibe_pe",
     "meaning_pt": 
     {
-      "Rio dos camarás": ["camará", "cabyaquã", "pe"]
+      "Rio dos camarás": ["camará", "y", "pe"]
     }
   },
   {
@@ -632,7 +632,7 @@
     "name_id": "guajaramirim_ro",
     "meaning_pt": 
     {
-      "Cachoeira pequena": ["guajará", "miri"]
+      "Cachoeira pequena": ["guajará", "mirim"]
     }
   },
   {
@@ -1117,10 +1117,17 @@
     }
   },
   {
-    "name_id": "itapira_sp",
+    "name_id": "itarema_ce",
     "meaning_pt": 
     {
-      "Ponta de pedra": ["itá", "pira"]
+      "Cheiro agradável": ["itá", "rema"]
+    }
+  },
+  {
+    "name_id": "itaporanga_se",
+    "meaning_pt": 
+    {
+      "Pedra bonita": ["itá", "poranga"]
     }
   },
   {
