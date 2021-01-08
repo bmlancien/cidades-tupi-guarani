@@ -3,9 +3,33 @@
 
 
 @font-face {
-    font-family: 'fira sans';
-    src: url('../assets/fonts/firasans-italic-webfont.woff2') format('woff2'),
-         url('../assets/fonts/firasans-italic-webfont.woff') format('woff');
+    font-family: 'Lato';
+    src: url('../assets/fontslato-black-webfont.woff2') format('woff2'),
+         url('../assets/fontslato-black-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fontslato-bold-webfont.woff2') format('woff2'),
+         url('../assets/fontslato-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fontslato-italic-webfont.woff2') format('woff2'),
+         url('../assets/fontslato-italic-webfont.woff') format('woff');
     font-weight: 400;
     font-style: italic;
 
@@ -15,9 +39,9 @@
 
 
 @font-face {
-    font-family: 'fira sans';
-    src: url('../assets/fonts/firasans-light-webfont.woff2') format('woff2'),
-         url('../assets/fonts/firasans-light-webfont.woff') format('woff');
+    font-family: 'Lato';
+    src: url('../assets/fontslato-light-webfont.woff2') format('woff2'),
+         url('../assets/fontslato-light-webfont.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 
@@ -27,34 +51,10 @@
 
 
 @font-face {
-    font-family: 'fira sans';
-    src: url('../assets/fonts/firasans-medium-webfont.woff2') format('woff2'),
-         url('../assets/fonts/firasans-medium-webfont.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'fira sans';
-    src: url('../assets/fonts/firasans-regular-webfont.woff2') format('woff2'),
-         url('../assets/fonts/firasans-regular-webfont.woff') format('woff');
+    font-family: 'Lato';
+    src: url('../assets/fontslato-regular-webfont.woff2') format('woff2'),
+         url('../assets/fontslato-regular-webfont.woff') format('woff');
     font-weight: 400;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'fira sans';
-    src: url('../assets/fonts/firasans-bold-webfont.woff2') format('woff2'),
-         url('../assets/fonts/firasans-bold-webfont.woff') format('woff');
-    font-weight: 700;
     font-style: normal;
 
 }
