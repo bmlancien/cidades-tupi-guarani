@@ -1,6 +1,9 @@
 [
   {
-    "a": "alto, elevado, monte",
+    "a": [
+      ["alto, elevado, monte"],
+      ["high, elevated, hill"]
+    ],
     "aba": "o lugar, o sitio",
     "abá": "o homem, o criador",
     "abiré": "solitário",
