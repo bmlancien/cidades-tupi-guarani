@@ -1,9 +1,11 @@
 [
   {
     "name_id": "abaete_mg",
-    "meaning_pt": 
+    "meaning": 
     {
-      "Homem verdadeiro": ["abá", "eté"]
+      "pt": ["Homem verdadeiro"],
+      "en": ["Real man"],
+      "tu": ["abá", "eté"]
     }
   },
   {
@@ -31,8 +33,9 @@
     "name_id": "acarau_ce",
     "meaning_pt": 
     {
-      "Rio das garças": ["acará", "hu"],
-      "Rio do cará": ["acará", "y"]
+      "pt": ["Rio das garças", "Rio do cará"],
+      "en": ["Herons river", "?"], 
+      "tu": [["acará", "hu"], ["acará", "y"]]
     }
   },
   {
