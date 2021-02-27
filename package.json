@@ -1,0 +1,29 @@
+{
+  "name": "tupi_guarani",
+  "version": "1.0.0",
+  "description": "Map displaying brazilian city names that are based on the tupi languages",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmlancien/cidades-tupi-guarani.git"
+  },
+  "keywords": [
+    "map",
+    "brazil",
+    "tupi",
+    "cities"
+  ],
+  "author": "Bryan Lancien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmlancien/cidades-tupi-guarani/issues"
+  },
+  "homepage": "https://github.com/bmlancien/cidades-tupi-guarani#readme"
+}

@@ -1,0 +1,15 @@
+body, html {
+  font-family: Roboto, Arial, sans-serif;
+  color: $primary-color-1;
+}
+
+a,
+a:link,
+a:hover,
+a:active,
+a:focus,
+a:visited {
+  text-decoration: none;
+  font-weight: 700;
+  color: $primary-color-3;
+}

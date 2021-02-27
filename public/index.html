@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/project.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#075b4c">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>Cidades brasileiras com nomes de origem tupi-guarani</title>
+  </head>
+  <body>
+    <main class="wrapper">
+      <div class="app-info">
+        <img src="assets/logo_cidades_tupi_white.svg" alt="Logo Cidades Tupi">
+      </div>
+      <div id='map'></div>
+      <div class="app-nav app-nav--map">
+        <ul>
+          <li class="hide-large">
+            <div class="app-nav__item">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-map" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M15.817.113A.5.5 0 0 1 16 .5v14a.5.5 0 0 1-.402.49l-5 1a.502.502 0 0 1-.196 0L5.5 15.01l-4.902.98A.5.5 0 0 1 0 15.5v-14a.5.5 0 0 1 .402-.49l5-1a.5.5 0 0 1 .196 0L10.5.99l4.902-.98a.5.5 0 0 1 .415.103zM10 1.91l-4-.8v12.98l4 .8V1.91zm1 12.98l4-.8V1.11l-4 .8v12.98zm-6-.8V1.11l-4 .8v12.98l4-.8z"/>
+              </svg>
+              <span>Mapa</span>
+            </div>
+          </li>
+          <li>
+            <a href="pages/infos">
+              <div class="app-nav__item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                  <path d="M8.93 6.588l-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588z"/>
+                  <circle cx="8" cy="4.5" r="1"/>
+                </svg>
+                <span>Informações</span>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </main>
+  
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiYmxhbmNpZW4iLCJhIjoiY2tpcTh2cWFvMXVjczJ4cWpqMm91dXIzciJ9.xmJAXqYPyfIZPKzRQCk_HA';
+
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/blancien/ckiw2x2wf4f7j1ap9pwasy92v',
+        center: [-54.1,-15],
+        zoom: 3
+    });
+
+    var nav = new mapboxgl.NavigationControl();
+    map.addControl(nav, 'top-right');
+
+    map.on('click', function(e) {
+      var features = map.queryRenderedFeatures(e.point, {
+        layers: ['cities-in-tupi']
+      });
+
+      if (!features.length) {
+        return;
+      }
+
+      var feature = features[0];
+
+      function getTupiWords() {
+        let words = "";
+        for (i = 0; i < tupiLength; i++) {
+          words += "<p>" + tupiObj[i] + "</p>";
+        }
+        return words;
+      }
+
+      let jsonData;    
+      Promise.all([
+        fetch('data/city-meanings.json'),
+        fetch('data/translation.json')
+      ])
+      .then(function (responses) {
+        // Get a JSON object from each of the responses
+        return Promise.all(responses.map(function (response) {
+          return response.json();
+        }));
+      })
+        .then(function(json){
+          let jsonCityMeanings = json[0];
+          let jsonTupiTranslations = json[1];
+          let citiesInPt = "";
+          let cityMeaning = "";
+          let tupiWords = "";
+
+          function displayCityMeanings(city, tupi) {
+            let wordInTupi = "";
+            for (i = 0; i < city.length; i++) {
+              citiesInPt = citiesInPt + "<div class='popup popup__item'><p class='popup popup__city-name' id='cityTranslation'>= " + city[i] + "</p>";
+                for (j = 0; j < tupi[i].length; j++) {
+                  wordInTupi = tupi[i][j];
+                  citiesInPt = citiesInPt + "<div class='popup popup__words'><div class='popup popup__left'><p class='popup popup__word-tupi'>" + wordInTupi + "</p></div><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][wordInTupi] + "</p></div>";
+                }
+              citiesInPt = citiesInPt + "</div>";
+            }
+            return citiesInPt;
+          }
+
+          function cityMeanings(cities) {
+            for (i = 0; i < cities.length; i++) {
+              if (feature.properties.name_id == cities[i]) {
+                cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
+                tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
+              }
+            }
+            displayCityMeanings(cityMeaning, tupiWords);
+          }
+
+          function cityNamesIDListFunction(city) {
+            let citiesID = [];
+            for (i = 0; i < city.length; i++) {
+              citiesID.push(city[i].name_id)
+            }
+            cityMeanings(citiesID);
+          }
+
+          cityNamesIDListFunction(jsonCityMeanings);
+
+          var popup = new mapboxgl.Popup({ offset: [0, -15] })
+            .setLngLat(feature.geometry.coordinates)
+            .setHTML('<div class="popup popup__top"><div class="popup popup__city">' + feature.properties.name + '</div>' + citiesInPt + '</div>')
+            .addTo(map);
+          }
+        )
+    });
+
+    map.on('load', function () {
+        map.resize();
+    });
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  </body>
+</html>
