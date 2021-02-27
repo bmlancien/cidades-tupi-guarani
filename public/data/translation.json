@@ -1,286 +1,4064 @@
 [
   {
-    "a": [["alto, elevado, monte"], ["high, elevated, hill"]],
-    "aba": [["o lugar, o sitio"], ["the place"]],
-    "abá": [["o homem, o criador"], [""]],
-    "abiré": [["solitário"], [""]],
-    "abuna": [["padre"], [""]],
-    "áca": [["solta, frouxa"], [""]],
-    "acanga": [["a cabeça, a nascente"], [""]],
-    "acará": [["a garça, o cará"], [""]],
-    "acema": [["escorrer, sair em grande quantidade"], [""]],
-    "aco": [["a roça, o roçado, a cultura"], [""]],
-    "açu": [["grande"], [""]],
-    "agûarausá": [["o guaruçá (caranguejo)"], [""]],
-    "aíba": [["bravo, ruim"], [""]],
-    "aíua": [["feio"], [""]],
-    "akaîu": [["o cajueiro"], [""]],
-    "amana": [["a chuva"], [""]],
-    "amynynîu": [["o algodoeiro"], [""]],
-    "anguá": [["o barulho, o rumor"], [""]],
-    "apó": [["a raiz"], [""]],
-    "apyaba": [["os índios, separação de rios"], [""]],
-    "ara": [["o lugar, o agente, o ar"], [""]],
-    "araçá": [["o araçá"], [""]],
-    "ará": [["a arara, o dia"], [""]],
-    "arara": [["a arara"], [""]],
-    "arikeme": [["arikeme (tribo extinta de indígenas)"], [""]],
-    "ari'raña": [["a onça d'água, a arinhanha"], [""]],
-    "aru": [["o aru, o sapo"], [""]],
-    "asapaba": [["a passagem"], [""]],
-    "aso'îaba": [["manto indígena de pena"], [""]],
-    "ã’tã": [["resistente, duro"], [""]],
-    "atîaîa": [["pontudo"], [""]],
-    "awa'rá": [["vermelho"], [""]],
-    "ayba": [["ruim"], [""]],
-    "bacuri": [["o bacuri"], [""]],
-    "bana": [["a borboleta, que torce"], [""]],
-    "batu": [["o monte, a serra"], [""]],
-    "beraba": [["brilhante"], [""]],
-    "biguá": [["o biguá"], [""]],
-    "bocaiúva": [["a palmeira"], [""]],
-    "botu": [["o vento, o ar, a nuvem"], [""]],
-    "bu": [["sair, rebentar"], [""]],
-    "bui": [["muito, com excesso"], [""]],
-    "buri": [["a palmeira"], [""]],
-    "buriqui": [["o muriqui"], [""]],
-    "byra": [["brilhante"], [""]],
-    "cabaquã": [["correntoso, forte"], [""]],
-    "çaí": [["pequeno"], [""]],
-    "cajapió": [["fruto maduro, dourado"], [""]],
-    "camará": [["o camará (arbusto)"], [""]],
-    "canguá": [["tipo de peixe"], [""]],
-    "capixaba": [["roça de milho"], [""]],
-    "caraguatá": [["a gravatá (planta)"], [""]],
-    "caucaia": [["queimado"], [""]],
-    "cuia": [["a vasilha"], [""]],
-    "cha": [["alto, elevado"], [""]],
-    "coatiara": [["pintado, gravado, escrito, esculpido"], [""]],
-    "curé": [["o pinhão"], [""]],
-    "curu": [["o cascalho"], [""]],
-    "cuy": [["a farinha"], [""]],
-    "é": [["a planta doce, diferente"], [""]],
-    "eçá": [["o olho, a vista"], [""]],
-    "eíra": [["o mel"], [""]],
-    "enxu": [["a abelha, a vespa"], [""]],
-    "ererê": [["canoa-marreca (ave)"], [""]],
-    "etama": [["a terra natal, a pátria"], [""]],
-    "etá": [["muitos"], [""]],
-    "ete": [["bom, (superlativa)"], [""]],
-    "eté": [["a serra, verdadeiro"], [""]],
-    "exu": [["a abelha"], [""]],
-    "e'yma": [["sem"], [""]],
-    "gara": [["a canoa"], [""]],
-    "guá": [["vale, baixada"], [""]],
-    "guaba": [["comestível"], [""]],
-    "gûaîanã": [["índios guaianás"], [""]],
-    "guaimbê": [["cipó de amarrar"], [""]],
-    "guajará": [["árvore da Amazônia"], [""]],
-    "guara": [["o indivíduo"], [""]],
-    "guará": [["a garça"], [""]],
-    "gûará": [["o lobo-guará"], [""]],
-    "gûasu": [["grande"], [""]],
-    "gwa'su": [["o veado"], [""]],
-    "guiana": [["terra de muitas águas"], [""]],
-    "guirá": [["o pássaro"], [""]],
-    "guiri": [["o bagre"], [""]],
-    "hu": [["negro, a água"], [""]],
-    "i": [["em"], [""]],
-    "îá": [["a repleção, a fartura, a abundância"], [""]],
-    "îagûara": [["a onça"], [""]],
-    "îakaré": [["o jacaré"], [""]],
-    "îaku": [["o jacu"], [""]],
-    "îara": [["o senhor, a senhora"], [""]],
-    "îasy": [["a lua"], [""]],
-    "îate'i": [["a abelha"], [""]],
-    "ikuia": [["a flecha-arpão"], [""]],
-    "imba-u": [["beber [água] da bica"], [""]],
-    "imbé": [["o cipó, guaimbé (planta)"], [""]],
-    "inaîá": [["indaiá (palmeira)"], [""]],
-    "inhapim": [["amanhece"], [""]],
-    "ini": [["rede de fios, rede de dormir"], [""]],
-    "iperu": [["o tubarão"], [""]],
-    "ipo'ú": [["o alagadiço"], [""]],
-    "ira": [["o mel"], [""]],
-    "itá": [["a pedra"], [""]],
-    "itagybá": [["a cascata"], [""]],
-    "itapeba": [["a pedra chata, rasa"], [""]],
-    "îub": [["amarelo"], [""]],
-    "îuka": [["podre"], [""]],
-    "jaguar": [["a onça, o tigre"], [""]],
-    "jaguaré": [["tipo de capim"], [""]],
-    "jequi": [["cesto afunilado, armadilha para peixes"], [""]],
-    "ji": [["a rã"], [""]],
-    "júba": [["amarelo"], [""]],
-    "jundiá": [["o bagre"], [""]],
-    "jy": [["o machado"], [""]],
-    "ka'a": [["a folha, a mata, a erva"], [""]],
-    "kapibara": [["Capivara (população Capoivari)"], [""]],
-    "karawatã": [["mato que fura"], [""]],
-    "karaîá": [["os carajás (grupo indígena)"], [""]],
-    "ka'îuru": [["boca do mato"], [""]],
-    "ku'ri": [["o pinheiro"], [""]],
-    "kuruba": [["o grão"], [""]],
-    "kaîa": [["assado"], [""]],
-    "kamasary": [["a lágrima do peito"], [""]],
-    "karapina": [["variedade de pica-pau"], [""]],
-    "katu": [["bom"], [""]],
-    "kiri'ri": [["calado, taciturno"], [""]],
-    "kûá": [["a enseada"], [""]],
-    "kûara": [["a toca, o buraco"], [""]],
-    "kuru": [["a influência"], [""]],
-    "kuruk": [["roncador"], [""]],
-    "kururu": [["o sapo"], [""]],
-    "kyyaverá": [["rio da lontra brilhante"], [""]],
-    "ma": [["agora"], [""]],
-    "macaba": [["árvore frutífera sertaneja"], [""]],
-    "macapaba": [["lugar de muitas bacabas (palmeira)"], [""]],
-    "maçayó": [["o que tapa o alagadiço"], [""]],
-    "maíra": [["entidade mitológica associada aos franceses"], [""]],
-    "makaîuba": [["macaúba (palmeira)"], [""]],
-    "mamangá": [["o mamangá"], [""]],
-    "manã": [["a chuva"], [""]],
-    "manacá": [["nome de uma planta"], [""]],
-    "manaós": [["mãe dos deuses"], [""]],
-    "mandi": [["o peixe"], [""]],
-    "mangará": [["mangará (planta da família das aráceas)"], [""]],
-    "manhu": [["o rio"], [""]],
-    "maragûaó": [["o gato-do-mato"], [""]],
-    "marakanã": [["a maracanã"], [""]],
-    "mayr": [["o estrangeiro"], [""]],
-    "mbâgn": [["grande"], [""]],
-    "mbaé": [["a coisa"], [""]],
-    "mbaitá": [["papagaio pequeno"], [""]],
-    "mbai-yuru": [["rio de grande inclinação"], [""]],
-    "mba'eapina": [["monstro marinho"], [""]],
-    "mbara'ká": [["a maracá"], [""]],
-    "mbiru": [["a mosca, o mosquito"], [""]],
-    "mboîa": [["a cobra"], [""]],
-    "mbora": [["o povo"], [""]],
-    "mborá": [["a abelha"], [""]],
-    "mboy": [["a cobra"], [""]],
-    "mirá": [[" madeira"], [""]],
-    "mirim": [["pequeno"], [""]],
-    "mongaguá": [["água pegajosa"], [""]],
-    "monhang": [["fazer"], [""]],
-    "mutá": [["o degrau, a elevação"], [""]],
-    "mu'tá": [["pau atravessado"], [""]],
-    "mutaba": [["ação de fazer, confecção"], [""]],
-    "ngoi": [["a água"], [""]],
-    "nha-em": [["o pranto"], [""]],
-    "nhan": [["correr"], [""]],
-    "nhandu": [["a ema"], [""]],
-    "nhe'eng": [["falar, cantar"], [""]],
-    "ñhe-tã": [["de canto forte"], [""]],
-    "nhi": [["preto"], [""]],
-    "nhum": [["o campo"], [""]],
-    "oane": [["alguém"], [""]],
-    "obi": [["verde, esmeralda, precioso"], [""]],
-    "oka": [["a morada, a casa"], [""]],
-    "okara": [["a ocara (praça no interior de uma aldeia indígena)"], [""]],
-    "oiap": [["oiampi, povo Waiãpi"], [""]],
-    "pa": [["a lagoa"], [""]],
-    "paba": [["o lugar"], [""]],
-    "paca": [["a paca (roedor)"], [""]],
-    "pai": [["dependurado"], [""]],
-    "panema": [["ruim"], [""]],
-    "pan meri": [["vão, espaço, entre"], [""]],
-    "pará": [["o mar, o rio grande"], [""]],
-    "parauá": [["o papagaio"], [""]],
-    "paraná": [["o mar, o rio grande"], [""]],
-    "parati": [["a tainha, variedade de mandioca"], [""]],
-    "parim": [["arma de caça"], [""]],
-    "pe": [["em (local)"], [""]],
-    "pé": [["o caminho, a estrada"], [""]],
-    "peb": [["achatado"], [""]],
-    "pema": [["esquinado, anguloso"], [""]],
-    "pi": [["limpar, tratar, a pele, o couro"], [""]],
-    "pirá": [["o peixe"], [""]],
-    "piara": [["caminho para"], [""]],
-    "pindá": [["o anzol"], [""]],
-    "pira": [["a casca, a ponta, o penhasco"], [""]],
-    "piranga": [["vermelho"], [""]],
-    "poca": [["arrebentar, estourar"], [""]],
-    "pong": [["soar, fazer ruído"], [""]],
-    "pora": [["o salto"], [""]],
-    "porã": [["o habitante"], [""]],
-    "porang": [["bonito"], [""]],
-    "poranga": [["bonito"], [""]],
-    "poti": [["florido"], [""]],
-    "pu": [["o barulho"], [""]],
-    "puá": [["redondo"], [""]],
-    "pukáia": [["saltado"], [""]],
-    "puru": [["matizado"], [""]],
-    "puyú": [["o brejo"], [""]],
-    "pyrang": [["vermelho"], [""]],
-    "rá": [["o que impede"], [""]],
-    "rapó": [["a raiz"], [""]],
-    "ré": [["diferente, outro"], [""]],
-    "rê": [["o campo"], [""]],
-    "rema": [["fedido, cheiro agradável"], [""]],
-    "ro'y": [["frio"], [""]],
-    "ryryî": [["tremer"], [""]],
-    "sema": [["a saída"], [""]],
-    "sorok": [["rasgar"], [""]],
-    "syk": [["parar"], [""]],
-    "sunung": [["fazer barulho"], [""]],
-    "taba": [["a aldeia"], [""]],
-    "tãi": [["o dente"], [""]],
-    "tajahy": [["rio dos taiás"], [""]],
-    "takwar": [["a taquara (gramínea)"], [""]],
-    "takwa'ri": [["a taquara (gramínea) pequena"], [""]],
-    "tamanduá": [["o tamanduá"], [""]],
-    "tambá": [["a concha"], [""]],
-    "tape": [["o caminho"], [""]],
-    "tatu": [["o tatu"], [""]],
-    "ta'wa": [["a ave, o barro"], [""]],
-    "terõi": [["que se esconde"], [""]],
-    "tesá": [["o olho"], [""]],
-    "ti": [["o rio, o montão"], [""]],
-    "tĩ": [["pontudo"], [""]],
-    "tim": [["a proa, o bico"], [""]],
-    "tinga": [["branco, claro, o barro branco"], [""]],
-    "tininga": [["seco"], [""]],
-    "tira": [["alto"], [""]],
-    "tororoma": [["o jorro"], [""]],
-    "tuba": [["o pinho"], [""]],
-    "tukana": [["o tucano"], [""]],
-    "tukura": [["o gafanhoto"], [""]],
-    "ty": [["a água, o rio"], [""]],
-    "tyba": [["o ajuntamento, muito"], [""]],
-    "tybaia": [["rio da feitoria"], [""]],
-    "tyîuka": [["o lamaçal"], [""]],
-    "uã": [["alto, elevado"], [""]],
-    "ua'ra": [["o indivíduo"], [""]],
-    "ûará": [["o guará"], [""]],
-    "uarará": [["tambor indígena"], [""]],
-    "uba": [["a árvore"], [""]],
-    "ubá": [["a canoa, gramínea"], [""]],
-    "uirá": [["o pássaro"], [""]],
-    "umari": [["umari (planta)"], [""]],
-    "un": [["preto, escuro"], [""]],
-    "una": [["preto, escuro"], [""]],
-    "upaú": [["o lago, a lagoa, a água represada"], [""]],
-    "upaba": [["a logoa"], [""]],
-    "uru": [["o cesto"], [""]],
-    "usu": [["grande"], [""]],
-    "votura": [["o morro"], [""]],
-    "xãxã": [["a cascavel"], [""]],
-    "waxi": [["o guaxe"], [""]],
-    "xim": [["pequeno"], [""]],
-    "y": [["o rio"], [""]],
-    "ya": [["o indivíduo, o fruto"], [""]],
-    "yandê": [["nosso"], [""]],
-    "ybá": [["a fruta"], [""]],
-    "ybate": [["o alto, o elevado, o cume"], [""]],
-    "yby": [["a terra"], [""]],
-    "ybyrá": [["a árvore, a madeira"], [""]],
-    "ybytu": [["o ar, o vento"], [""]],
-    "ybytyra": [["a serra, a montanha"], [""]],
-    "ygara": [["a canoa"], [""]],
-    "yguara": [["o poço"], [""]],
-    "yma": [["antiguidade"], [""]],
-    "ytu": [["a cachoeira"], [""]],
-    "yurukuá": [["a tartaruga"
+    "name_id": "abaete_mg",
+    "meaning": {
+      "pt": [
+        "Homem verdadeiro"
+      ],
+      "en": [
+        "Real man"
+      ],
+      "tu": [
+        "abá",
+        "eté"
+      ]
+    }
+  },
+  {
+    "name_id": "abaetetuba_pa",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de homens verdadeiros"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        "abá",
+        "eté",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "abaiara_ce",
+    "meaning": {
+      "pt": [
+        "O senhor dos homens"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "abá",
+        "îara"
+      ]
+    }
+  },
+  {
+    "name_id": "acajutiba_ba",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de cajueiros"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "akaîu",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "acarau_ce",
+    "meaning": {
+      "pt": [
+        "Rio das garças",
+        "Rio do cará"
+      ],
+      "en": [
+        "Herons river",
+        "?"
+      ],
+      "tu": [
+        [
+          "acará",
+          "hu"
+        ],
+        [
+          "acará",
+          "y"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "acopiara_ce",
+    "meaning": {
+      "pt": [
+        "Aquele que cultiva a terra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "aco",
+        "pi",
+        "ara"
+      ]
+    }
+  },
+  {
+    "name_id": "apiai_sp",
+    "meaning": {
+      "pt": [
+        "Rio dos índios"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "apyaba",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "aracaju_se",
+    "meaning": {
+      "pt": [
+        "Cajueiro das araras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ará",
+        "akaîu"
+      ]
+    }
+  },
+  {
+    "name_id": "aracati_ce",
+    "meaning": {
+      "pt": [
+        "Ar bom, tempo bom"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ara",
+        "katu"
+      ]
+    }
+  },
+  {
+    "name_id": "aracatuba_sp",
+    "meaning": {
+      "pt": [
+        "Muitos araçás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "araçá",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "aracoiaba_pe",
+    "meaning": {
+      "pt": [
+        "Manto de penas de guarás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "aso'îaba",
+        "ûará"
+      ]
+    }
+  },
+  {
+    "name_id": "araguari_mg",
+    "meaning": {
+      "pt": [
+        "Rio da baixada dos ararás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ará",
+        "guá",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "arapiraca_al",
+    "meaning": {
+      "pt": [
+        "Farpas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mirá",
+        "pira",
+        "áca"
+      ]
+    }
+  },
+  {
+    "name_id": "arapongas_pr",
+    "meaning": {
+      "pt": [
+        "Pássaro que faz ruído"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "uirá",
+        "pong"
+      ]
+    }
+  },
+  {
+    "name_id": "arapoti_pr",
+    "meaning": {
+      "pt": [
+        "Campos floridos"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ara",
+        "poti"
+      ]
+    }
+  },
+  {
+    "name_id": "ararangua_sc",
+    "meaning": {
+      "pt": [
+        "Vale das araras",
+        "Barulho dos papagaios"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "arara",
+          "guá"
+        ],
+        [
+          "arara",
+          "anguá"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "araraquara_sp",
+    "meaning": {
+      "pt": [
+        "Toca das araras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "arara",
+        "kûara"
+      ]
+    }
+  },
+  {
+    "name_id": "aratuba_ce",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de pássaros"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guirá",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "araxa_ms",
+    "meaning": {
+      "pt": [
+        "Lugar, terreno elevado"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ará",
+        "cha"
+      ]
+    }
+  },
+  {
+    "name_id": "ariranha_sp",
+    "meaning": {
+      "pt": [
+        "Ariranha"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ari'raña"
+      ]
+    }
+  },
+  {
+    "name_id": "ariquemes_ro",
+    "meaning": {
+      "pt": [
+        "Arikeme"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "arikeme"
+      ]
+    }
+  },
+  {
+    "name_id": "aruja_sp",
+    "meaning": {
+      "pt": [
+        "Abundância de arus"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "aru",
+        "îá"
+      ]
+    }
+  },
+  {
+    "name_id": "assu_rn",
+    "meaning": {
+      "pt": [
+        "Aldeia grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "taba",
+        "açu"
+      ]
+    }
+  },
+  {
+    "name_id": "atibaia_sp",
+    "meaning": {
+      "pt": [
+        "Rio da feitoria",
+        "Rio alagado",
+        "Morro dependurado"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "tybaia"
+        ],
+        [
+          "ti",
+          "pa",
+          "i"
+        ],
+        [
+          "ti",
+          "pai"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "avanhandava_sp",
+    "meaning": {
+      "pt": [
+        "Lugar da corrida dos homens"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "abá",
+        "nhan",
+        "aba"
+      ]
+    }
+  },
+  {
+    "name_id": "avai_sp",
+    "meaning": {
+      "pt": [
+        "Água de homem"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "abá",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "avare_sp",
+    "meaning": {
+      "pt": [
+        "Padre, missionário, homem solitário"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "abiré",
+        "abá",
+        "ré"
+      ]
+    }
+  },
+  {
+    "name_id": "bacurituba_ma",
+    "meaning": {
+      "pt": [
+        "Lugar onde há muitos bacuris"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "bacuri",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "baependi_mg",
+    "meaning": {
+      "pt": [
+        "Rio do monstro marinho"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mba'eapina",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "banabuiu_ce",
+    "meaning": {
+      "pt": [
+        "Brejo das borboletas",
+        "Rio que tem muitas voltas"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "bana",
+          "puyú"
+        ],
+        [
+          "bana",
+          "bui",
+          "y"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "barueri_sp",
+    "meaning": {
+      "pt": [
+        "Coisa que treme"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mbaé",
+        "ryryî"
+      ]
+    }
+  },
+  {
+    "name_id": "baturite_ce",
+    "meaning": {
+      "pt": [
+        "Sair boa água",
+        "Verdadeira serra",
+        "Serra"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "bu",
+          "ty",
+          "ete"
+        ],
+        [
+          "batu",
+          "ete"
+        ],
+        [
+          "yby",
+          "tira",
+          "eté"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "bauru_sp",
+    "meaning": {
+      "pt": [
+        "Queda de água",
+        "Cesto de frutas",
+        "Rio da lagoa"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "mbai-yuru"
+        ],
+        [
+          "ybá",
+          "uru"
+        ],
+        [
+          "upaú",
+          "y"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "bertioga_sp",
+    "meaning": {
+      "pt": [
+        "Casa do peixa branco",
+        "Casa do muriqui"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "parati",
+          "oka"
+        ],
+        [
+          "buriqui",
+          "oka"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "beruri_am",
+    "meaning": {
+      "pt": [
+        "Rio do mosquito"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mbiru",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "biguacu_sc",
+    "meaning": {
+      "pt": [
+        "Biguá grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "biguá",
+        "açu"
+      ]
+    }
+  },
+  {
+    "name_id": "birigui_sp",
+    "meaning": {
+      "pt": [
+        "Mosqua pequena"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mbiru",
+        "mirim"
+      ]
+    }
+  },
+  {
+    "name_id": "bocaiuva_mg",
+    "meaning": {
+      "pt": [
+        "Palmeira bocaiúva"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "bocaiúva"
+      ]
+    }
+  },
+  {
+    "name_id": "boituva_sp",
+    "meaning": {
+      "pt": [
+        "Local de muitas cobras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mboy",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "bora_sp",
+    "meaning": {
+      "pt": [
+        "Abelha"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mborá"
+      ]
+    }
+  },
+  {
+    "name_id": "borborema_sp",
+    "meaning": {
+      "pt": [
+        "Terra sem habitantes"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "yby",
+        "mbora",
+        "e'yma"
+      ]
+    }
+  },
+  {
+    "name_id": "botucatu_sp",
+    "meaning": {
+      "pt": [
+        "Bons ares",
+        "Serra boa"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "ybytu",
+          "katu"
+        ],
+        [
+          "ybytyra",
+          "katu"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "buerarema_ba",
+    "meaning": {
+      "pt": [
+        "Bons ares"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ybyrá",
+        "rema"
+      ]
+    }
+  },
+  {
+    "name_id": "buritama_sp",
+    "meaning": {
+      "pt": [
+        "Terra dos buris (palmeira)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "buri",
+        "etama"
+      ]
+    }
+  },
+  {
+    "name_id": "caapiranga_am",
+    "meaning": {
+      "pt": [
+        "Folha vermelha"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "pyrang"
+      ]
+    }
+  },
+  {
+    "name_id": "caapora_jp",
+    "meaning": {
+      "pt": [
+        "Mata bonita",
+        "Mata redonda"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "ka'a",
+          "porang"
+        ],
+        [
+          "ka'a",
+          "puá"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "caarapo_ms",
+    "meaning": {
+      "pt": [
+        "Raiz de erva mate"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "rapó"
+      ]
+    }
+  },
+  {
+    "name_id": "caatiba_ba",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de mata"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "cacapava_sp",
+    "meaning": {
+      "pt": [
+        "Passagem na mata"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "asapaba"
+      ]
+    }
+  },
+  {
+    "name_id": "cacu_go",
+    "meaning": {
+      "pt": [
+        "Mato grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "açu"
+      ]
+    }
+  },
+  {
+    "name_id": "caem_ba",
+    "meaning": {
+      "pt": [
+        "Planta doce"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "é"
+      ]
+    }
+  },
+  {
+    "name_id": "cajapio_ma",
+    "meaning": {
+      "pt": [
+        "Fruto maduro, dourado"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "cajapió"
+      ]
+    }
+  },
+  {
+    "name_id": "cajuru_sp",
+    "meaning": {
+      "pt": [
+        "Boca do mato"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'îuru"
+      ]
+    }
+  },
+  {
+    "name_id": "camacari_ba",
+    "meaning": {
+      "pt": [
+        "Cachaporra-do-gentio (árvore)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "kamasary"
+      ]
+    }
+  },
+  {
+    "name_id": "camaqua_rs",
+    "meaning": {
+      "pt": [
+        "Rio correntoso"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "i",
+        "cabaquã"
+      ]
+    }
+  },
+  {
+    "name_id": "camaragibe_pe",
+    "meaning": {
+      "pt": [
+        "Rio dos camarás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "camará",
+        "y",
+        "pe"
+      ]
+    }
+  },
+  {
+    "name_id": "cameta_pa",
+    "meaning": {
+      "pt": [
+        "Degrau da floresta"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "mutá"
+      ]
+    }
+  },
+  {
+    "name_id": "canguaterama_rn",
+    "meaning": {
+      "pt": [
+        "Terra de canguás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "etama",
+        "canguá"
+      ]
+    }
+  },
+  {
+    "name_id": "capivari_sp",
+    "meaning": {
+      "pt": [
+        "Rio das Capivaras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "kapibara",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "capixaba_ac",
+    "meaning": {
+      "pt": [
+        "Roça de milho"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "capixaba"
+      ]
+    }
+  },
+  {
+    "name_id": "caraguatatuba_sp",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de mata dura"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ka'a",
+        "ã’tã",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "caririacu_ce",
+    "meaning": {
+      "pt": [
+        "Caladão"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "kiri'ri",
+        "açu"
+      ]
+    }
+  },
+  {
+    "name_id": "carpina_pe",
+    "meaning": {
+      "pt": [
+        "Pica-pau"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "karapina"
+      ]
+    }
+  },
+  {
+    "name_id": "catanduva_sp",
+    "meaning": {
+      "pt": [
+        "Lugar de muitos caraguatás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "caraguatá",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "caucaia_ce",
+    "meaning": {
+      "pt": [
+        "Queimado"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "caucaia"
+      ]
+    }
+  },
+  {
+    "name_id": "coruripe_al",
+    "meaning": {
+      "pt": [
+        "No rio dos sapos"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "kururu",
+        "y",
+        "pe"
+      ]
+    }
+  },
+  {
+    "name_id": "cuiaba_mt",
+    "meaning": {
+      "pt": [
+        "Lugar da ikuia",
+        "Rio da lontra brilhante",
+        "Rio criador de vasilha",
+        "Fabricante ou fazedor de cuias",
+        "Farinheiro"
+      ],
+      "en": [
+        "?",
+        "?",
+        "?",
+        "?",
+        "?"
+      ],
+      "tu": [
+        [
+          "ikuia",
+          "aba"
+        ],
+        [
+          "kyyaverá"
+        ],
+        [
+          "cuia",
+          "abá"
+        ],
+        [
+          "cuia",
+          "abá"
+        ],
+        [
+          "cuy",
+          "abá"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "curitiba_pr",
+    "meaning": {
+      "pt": [
+        "Pinho",
+        "Muitos pinhões"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "ku'ri",
+          "tuba"
+        ],
+        [
+          "curé",
+          "tyba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "echapora_sp",
+    "meaning": {
+      "pt": [
+        "Bela vista, vista bonita"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "eçá",
+        "porang"
+      ]
+    }
+  },
+  {
+    "name_id": "eirunepe_am",
+    "meaning": {
+      "pt": [
+        "Caminho do mel preto"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "eíra",
+        "un",
+        "pé"
+      ]
+    }
+  },
+  {
+    "name_id": "embu_sp",
+    "meaning": {
+      "pt": [
+        "Rio das cobras",
+        "Cobras"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "mboîa",
+          "y"
+        ],
+        [
+          "mboîa"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "embuguacu_sp",
+    "meaning": {
+      "pt": [
+        "Cobra grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mboîa",
+        "gûasu"
+      ]
+    }
+  },
+  {
+    "name_id": "erebango_rs",
+    "meaning": {
+      "pt": [
+        "Campo grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "rê",
+        "mbâgn"
+      ]
+    }
+  },
+  {
+    "name_id": "erechim_rs",
+    "meaning": {
+      "pt": [
+        "Campo pequeno"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "rê",
+        "xim"
+      ]
+    }
+  },
+  {
+    "name_id": "erere_ce",
+    "meaning": {
+      "pt": [
+        "Canoa-marreca"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ererê"
+      ]
+    }
+  },
+  {
+    "name_id": "exu_pe",
+    "meaning": {
+      "pt": [
+        "Abelha, vespa"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "enxu"
+      ]
+    }
+  },
+  {
+    "name_id": "garanhuns_pe",
+    "meaning": {
+      "pt": [
+        "Pássaro preto",
+        "Campo dos lobos-guarás",
+        "Indivíduo preto"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "guirá",
+          "nhi"
+        ],
+        [
+          "gûará",
+          "nhum"
+        ],
+        [
+          "guará",
+          "nhi"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "garuva_sc",
+    "meaning": {
+      "pt": [
+        "Árvore da canoa"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "gara",
+        "uba"
+      ]
+    }
+  },
+  {
+    "name_id": "goiana_pe",
+    "meaning": {
+      "pt": [
+        "Terra de muitas águas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guiana"
+      ]
+    }
+  },
+  {
+    "name_id": "goioxim_pr",
+    "meaning": {
+      "pt": [
+        "Água pequena"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ngoi",
+        "xim"
+      ]
+    }
+  },
+  {
+    "name_id": "grajau_ma",
+    "meaning": {
+      "pt": [
+        "Rio dos carajás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "karaîá",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "gravata_pe",
+    "meaning": {
+      "pt": [
+        "Caraguatá, Gravatá (Nome de uma planta do gênero Bromelia)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "karawatã"
+      ]
+    }
+  },
+  {
+    "name_id": "gravatai_rs",
+    "meaning": {
+      "pt": [
+        "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "karawatã",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "gravatal_sc",
+    "meaning": {
+      "pt": [
+        "Gravatá (Nome de uma planta do gênero Bromelia)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "karawatã"
+      ]
+    }
+  },
+  {
+    "name_id": "guacui_es",
+    "meaning": {
+      "pt": [
+        "Água de veado"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "gwa'su",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "guaimbe_sp",
+    "meaning": {
+      "pt": [
+        "Cipó de amarrar"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guaimbê"
+      ]
+    }
+  },
+  {
+    "name_id": "guaira_sp",
+    "meaning": {
+      "pt": [
+        "Águas correntes"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guá",
+        "y",
+        "rá"
+      ]
+    }
+  },
+  {
+    "name_id": "guajaramirim_ro",
+    "meaning": {
+      "pt": [
+        "Cachoeira pequena"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guajará",
+        "mirim"
+      ]
+    }
+  },
+  {
+    "name_id": "guapiara_sp",
+    "meaning": {
+      "pt": [
+        "Caminho para a enseada"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "kûá",
+        "piara"
+      ]
+    }
+  },
+  {
+    "name_id": "guara_sp",
+    "meaning": {
+      "pt": [
+        "Guará (pássaro)/Lobo-guará"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "awa'rá",
+        "gûará"
+      ]
+    }
+  },
+  {
+    "name_id": "guarabira_pb",
+    "meaning": {
+      "pt": [
+        "Pássaro verde/azul"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guirá",
+        "obi"
+      ]
+    }
+  },
+  {
+    "name_id": "guaracai_sp",
+    "meaning": {
+      "pt": [
+        "Lobo-guará pequeno"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "gûará",
+        "çaí"
+      ]
+    }
+  },
+  {
+    "name_id": "guarai_to",
+    "meaning": {
+      "pt": [
+        "Rio dos guarás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guará",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "guarantadonorte_mt",
+    "meaning": {
+      "pt": [
+        "Guarantã (árvore)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ybyrá",
+        "ã’tã"
+      ]
+    }
+  },
+  {
+    "name_id": "guarapari_es",
+    "meaning": {
+      "pt": [
+        "Arma para a caça de guarás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guará",
+        "parim"
+      ]
+    }
+  },
+  {
+    "name_id": "guarapuava_pr",
+    "meaning": {
+      "pt": [
+        "Lugar do barulho dos lobos-guarás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "gûará",
+        "pu",
+        "aba"
+      ]
+    }
+  },
+  {
+    "name_id": "guararapes_sp",
+    "meaning": {
+      "pt": [
+        "Estrondo dos tambores"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "uarará",
+        "pe"
+      ]
+    }
+  },
+  {
+    "name_id": "guaratinga_ba",
+    "meaning": {
+      "pt": [
+        "Garça branca"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guará",
+        "tinga"
+      ]
+    }
+  },
+  {
+    "name_id": "guaratingueta_sp",
+    "meaning": {
+      "pt": [
+        "Muitas garças"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guará",
+        "tinga",
+        "etá"
+      ]
+    }
+  },
+  {
+    "name_id": "guariba_sp",
+    "meaning": {
+      "pt": [
+        "Gente ruim"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ua'ra",
+        "aíua"
+      ]
+    }
+  },
+  {
+    "name_id": "guaruja_sp",
+    "meaning": {
+      "pt": [
+        "Guaruçá (caranguejo)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "agûarausá"
+      ]
+    }
+  },
+  {
+    "name_id": "guarulhos_sp",
+    "meaning": {
+      "pt": [
+        "Guaramomis/Maramomis (indígenas que habitavam a região)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "gûaîanã"
+      ]
+    }
+  },
+  {
+    "name_id": "guaxupe_mg",
+    "meaning": {
+      "pt": [
+        "Caminho das abelhas",
+        "Caminho de guaxe"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "guá",
+          "exu",
+          "pe"
+        ],
+        [
+          "waxi",
+          "pe"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "guiratinga_mt",
+    "meaning": {
+      "pt": [
+        "Garça branca"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guará",
+        "tinga"
+      ]
+    }
+  },
+  {
+    "name_id": "guiricema_mg",
+    "meaning": {
+      "pt": [
+        "Saída dos bagres"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guiri",
+        "sema"
+      ]
+    }
+  },
+  {
+    "name_id": "gurinhata_mg",
+    "meaning": {
+      "pt": [
+        "A ave que canta muito"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "guirá",
+        "ñhe-tã"
+      ]
+    }
+  },
+  {
+    "name_id": "gurupi_to",
+    "meaning": {
+      "pt": [
+        "Rio das roças/plantações"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "curu",
+        "pe",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "humaita_am",
+    "meaning": {
+      "pt": [
+        "A pedra agora é negra",
+        "Pedra antiga",
+        "Papagaio pequeno",
+        "Pau atravessado"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "hu",
+          "ma",
+          "itá"
+        ],
+        [
+          "yma",
+          "itá"
+        ],
+        [
+          "mbaitá"
+        ],
+        [
+          "mu'tá"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "iacanga_sp",
+    "meaning": {
+      "pt": [
+        "Olho d'água"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "acanga"
+      ]
+    }
+  },
+  {
+    "name_id": "ibate_sp",
+    "meaning": {
+      "pt": [
+        "O alto"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ybate"
+      ]
+    }
+  },
+  {
+    "name_id": "ibia_mg",
+    "meaning": {
+      "pt": [
+        "A chapada"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "yby",
+        "a"
+      ]
+    }
+  },
+  {
+    "name_id": "ibipora_pr",
+    "meaning": {
+      "pt": [
+        "Terra bonita",
+        "Habitante da terra"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "yby",
+          "porang"
+        ],
+        [
+          "yby",
+          "porã"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "ibirarema_sp",
+    "meaning": {
+      "pt": [
+        "Madeira fetida"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ybyrá",
+        "rema"
+      ]
+    }
+  },
+  {
+    "name_id": "ibitinga_sp",
+    "meaning": {
+      "pt": [
+        "Terra branca"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "yby",
+        "tinga"
+      ]
+    }
+  },
+  {
+    "name_id": "ibiuna_sp",
+    "meaning": {
+      "pt": [
+        "Terra preta"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "yby",
+        "un"
+      ]
+    }
+  },
+  {
+    "name_id": "igaracu_sp",
+    "meaning": {
+      "pt": [
+        "Navio"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ygara",
+        "usu"
+      ]
+    }
+  },
+  {
+    "name_id": "igarassu_pe",
+    "meaning": {
+      "pt": [
+        "Navio"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ygara",
+        "usu"
+      ]
+    }
+  },
+  {
+    "name_id": "iguatemi_ms",
+    "meaning": {
+      "pt": [
+        "Beber [água] da bica"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "imba-u"
+      ]
+    }
+  },
+  {
+    "name_id": "iguatu_ce",
+    "meaning": {
+      "pt": [
+        "Rio bom, água boa"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "katu"
+      ]
+    }
+  },
+  {
+    "name_id": "imbau_pr",
+    "meaning": {
+      "pt": [
+        "Rio das canoas emproadas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ygara",
+        "tim",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "imbe_rs",
+    "meaning": {
+      "pt": [
+        "Imbé (cipó)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "imbé"
+      ]
+    }
+  },
+  {
+    "name_id": "imbituba_sc",
+    "meaning": {
+      "pt": [
+        "Cipoal"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "imbé",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "indaiatuba_sp",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de indaiás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "inaîá",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "inhapim_mg",
+    "meaning": {
+      "pt": [
+        "Inhapim (pássaro)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "inhapim"
+      ]
+    }
+  },
+  {
+    "name_id": "inimutaba_mg",
+    "meaning": {
+      "pt": [
+        "Aldeia de tecelão"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ini",
+        "mutaba"
+      ]
+    }
+  },
+  {
+    "name_id": "ipatinga_mg",
+    "meaning": {
+      "pt": [
+        "Pouso de água limpa"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "upaba",
+        "tinga"
+      ]
+    }
+  },
+  {
+    "name_id": "ipameri_go",
+    "meaning": {
+      "pt": [
+        "Entre rios"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "pan meri"
+      ]
+    }
+  },
+  {
+    "name_id": "ipojuca_pe",
+    "meaning": {
+      "pt": [
+        "Rio das águas podres"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "apó",
+        "îuka"
+      ]
+    }
+  },
+  {
+    "name_id": "ipora_pr",
+    "meaning": {
+      "pt": [
+        "Rio bonito"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "porang"
+      ]
+    }
+  },
+  {
+    "name_id": "ipuacu_sc",
+    "meaning": {
+      "pt": [
+        "Grande barulho de água",
+        "Grande alagadiço"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "y",
+          "pu",
+          "gûasu"
+        ],
+        [
+          "ipo'ú",
+          "gûasu"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "ipiranga_pr",
+    "meaning": {
+      "pt": [
+        "Rio vermelho"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "pyrang"
+      ]
+    }
+  },
+  {
+    "name_id": "iracema_ce",
+    "meaning": {
+      "pt": [
+        "Saída de mel, saída de abelhas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ira",
+        "acema"
+      ]
+    }
+  },
+  {
+    "name_id": "itabaiana_se",
+    "meaning": {
+      "pt": [
+        "Naquela aldeia mora alguém"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "taba",
+        "oane"
+      ]
+    }
+  },
+  {
+    "name_id": "itaberaba_ba",
+    "meaning": {
+      "pt": [
+        "Pedra brilhante"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "beraba"
+      ]
+    }
+  },
+  {
+    "name_id": "itabira_mg",
+    "meaning": {
+      "pt": [
+        "Pedra brilhante"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "byra"
+      ]
+    }
+  },
+  {
+    "name_id": "itaborai_rj",
+    "meaning": {
+      "pt": [
+        "Rio da pedra bonita",
+        "Rio das pedras brilhantes"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "itá",
+          "porang",
+          "y"
+        ],
+        [
+          "itá",
+          "beraba",
+          "y"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "itabuna_ba",
+    "meaning": {
+      "pt": [
+        "Padre de pedra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "abuna"
+      ]
+    }
+  },
+  {
+    "name_id": "itacare_ba",
+    "meaning": {
+      "pt": [
+        "Jacaré de pedra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "îakaré"
+      ]
+    }
+  },
+  {
+    "name_id": "itacoatiara_am",
+    "meaning": {
+      "pt": [
+        "Pedra escrita, pintada"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "coatiara"
+      ]
+    }
+  },
+  {
+    "name_id": "itacuruba_pe",
+    "meaning": {
+      "pt": [
+        "Grão de pedra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "kuruba"
+      ]
+    }
+  },
+  {
+    "name_id": "itaguara_mg",
+    "meaning": {
+      "pt": [
+        "Pedra do lobo",
+        "Pedra comestível",
+        "Poço de pedra"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "itá",
+          "gûará"
+        ],
+        [
+          "itá",
+          "guaba"
+        ],
+        [
+          "itá",
+          "yguara"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "itaituba_pa",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de pedrinhas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "xim",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "itajai_sc",
+    "meaning": {
+      "pt": [
+        "Rio dos Taiás",
+        "Água do senhor das pedras"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "tajahy"
+        ],
+        [
+          "itá",
+          "îara",
+          "y"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "itajobi_sp",
+    "meaning": {
+      "pt": [
+        "Pedra preciosa/verde"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "obi"
+      ]
+    }
+  },
+  {
+    "name_id": "itajuba_mg",
+    "meaning": {
+      "pt": [
+        "Rio das pedras que do alto cai",
+        "Pedra amarela"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "itagybá"
+        ],
+        [
+          "itá",
+          "júba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "itamarati_am",
+    "meaning": {
+      "pt": [
+        "Rio das pedras pequenas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "mirim",
+        "ty"
+      ]
+    }
+  },
+  {
+    "name_id": "itanhaem_sp",
+    "meaning": {
+      "pt": [
+        "Pranto de pedra",
+        "Pedra que canta, fala"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "itá",
+          "nha-em"
+        ],
+        [
+          "itá",
+          "nhe'eng"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "itanhandu_mg",
+    "meaning": {
+      "pt": [
+        "Ema de pedra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "nhandu"
+      ]
+    }
+  },
+  {
+    "name_id": "itaocara_rj",
+    "meaning": {
+      "pt": [
+        "Ocara de pedras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "okara"
+      ]
+    }
+  },
+  {
+    "name_id": "itapecuru_ma",
+    "meaning": {
+      "pt": [
+        "Água caminha entre as pedras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "pe",
+        "kuru",
+        "mirim"
+      ]
+    }
+  },
+  {
+    "name_id": "itapetininga_sp",
+    "meaning": {
+      "pt": [
+        "Laje seca"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itapeba",
+        "tininga"
+      ]
+    }
+  },
+  {
+    "name_id": "itapeva_sp",
+    "meaning": {
+      "pt": [
+        "Pedra achatada"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itapeba"
+      ]
+    }
+  },
+  {
+    "name_id": "itapevi_sp",
+    "meaning": {
+      "pt": [
+        "Rio das lajes"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itapeba",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "itapipoca_ce",
+    "meaning": {
+      "pt": [
+        "Pedra arrebentada"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "pi",
+        "poca"
+      ]
+    }
+  },
+  {
+    "name_id": "itapira_sp",
+    "meaning": {
+      "pt": [
+        "Ponta de pedra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "pira"
+      ]
+    }
+  },
+  {
+    "name_id": "itarema_ce",
+    "meaning": {
+      "pt": [
+        "Cheiro agradável"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "rema"
+      ]
+    }
+  },
+  {
+    "name_id": "itaporanga_se",
+    "meaning": {
+      "pt": [
+        "Pedra bonita"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "poranga"
+      ]
+    }
+  },
+  {
+    "name_id": "itaporanga_se",
+    "meaning": {
+      "pt": [
+        "Pedra bonita"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "poranga"
+      ]
+    }
+  },
+  {
+    "name_id": "itatiaia_rj",
+    "meaning": {
+      "pt": [
+        "Pedra pontuda"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "atîaîa"
+      ]
+    }
+  },
+  {
+    "name_id": "itatiba_sp",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de pedras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "itauna_mg",
+    "meaning": {
+      "pt": [
+        "Pedra preta"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "itá",
+        "una"
+      ]
+    }
+  },
+  {
+    "name_id": "itororo_ba",
+    "meaning": {
+      "pt": [
+        "Jorro d'água"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "tororoma"
+      ]
+    }
+  },
+  {
+    "name_id": "itu_sp",
+    "meaning": {
+      "pt": [
+        "Cachoeira"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ytu"
+      ]
+    }
+  },
+  {
+    "name_id": "ituiutaba_mg",
+    "meaning": {
+      "pt": [
+        "Aldeia do lamaçal do rio"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "tyîuka",
+        "taba"
+      ]
+    }
+  },
+  {
+    "name_id": "itumbiara_go",
+    "meaning": {
+      "pt": [
+        "Caminho da cachoeira"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ytu",
+        "piara"
+      ]
+    }
+  },
+  {
+    "name_id": "ituverava_sp",
+    "meaning": {
+      "pt": [
+        "Salto brilhante"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ytu",
+        "beraba"
+      ]
+    }
+  },
+  {
+    "name_id": "jacarei_sp",
+    "meaning": {
+      "pt": [
+        "Rio dos jacarés"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "îakaré",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "jacarepagua_rj",
+    "meaning": {
+      "pt": [
+        "Enseada do lugar dos jacarés"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "îakaré",
+        "paba",
+        "kûá"
+      ]
+    }
+  },
+  {
+    "name_id": "jaciara_mt",
+    "meaning": {
+      "pt": [
+        "Altar da lua"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "îasy",
+        "îara"
+      ]
+    }
+  },
+  {
+    "name_id": "jacui_mg",
+    "meaning": {
+      "pt": [
+        "Rio dos jacus"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "îaku",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "jaguare_es",
+    "meaning": {
+      "pt": [
+        "Capim"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "jaguaré"
+      ]
+    }
+  },
+  {
+    "name_id": "jaguariaiva_pr",
+    "meaning": {
+      "pt": [
+        "Rio da onça brava",
+        "Rio ruim das onças"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "jaguar",
+          "y",
+          "aíba"
+        ],
+        [
+          "îagûara",
+          "y",
+          "aíba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "jatai_go",
+    "meaning": {
+      "pt": [
+        "Abelha"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "îate'i"
+      ]
+    }
+  },
+  {
+    "name_id": "jaguariuna_sp",
+    "meaning": {
+      "pt": [
+        "Rio preto das onças"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "îagûara",
+        "y",
+        "un"
+      ]
+    }
+  },
+  {
+    "name_id": "jau_sp",
+    "meaning": {
+      "pt": [
+        "Peixe"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ya",
+        "un"
+      ]
+    }
+  },
+  {
+    "name_id": "jequie_ba",
+    "meaning": {
+      "pt": [
+        "Cesto afunilado"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "jequi"
+      ]
+    }
+  },
+  {
+    "name_id": "jijoca_ce",
+    "meaning": {
+      "pt": [
+        "Morada das rãs, toca das tartarugas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ji",
+        "oka",
+        "yurukuá",
+        "kûara"
+      ]
+    }
+  },
+  {
+    "name_id": "jiparana_ro",
+    "meaning": {
+      "pt": [
+        "Rio dos machados"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "jy",
+        "paraná"
+      ]
+    }
+  },
+  {
+    "name_id": "jundiai_sp",
+    "meaning": {
+      "pt": [
+        "Rio dos jundiás (peixes)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "jundiá",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "macaiba_rn",
+    "meaning": {
+      "pt": [
+        "Macaúba (palmeira)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "makaîuba"
+      ]
+    }
+  },
+  {
+    "name_id": "macapa_ap",
+    "meaning": {
+      "pt": [
+        "Lugar de muitas bacabas",
+        "Lugar de macabas"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "macapaba"
+        ],
+        [
+          "macaba",
+          "aba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "maceio_al",
+    "meaning": {
+      "pt": [
+        "O que tapa o alagadiço"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "maçayó"
+      ]
+    }
+  },
+  {
+    "name_id": "mairipora_sp",
+    "meaning": {
+      "pt": [
+        "Água bonita de Maíra"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "maíra",
+        "y",
+        "porang"
+      ]
+    }
+  },
+  {
+    "name_id": "manacapuru_am",
+    "meaning": {
+      "pt": [
+        "Flor matizada"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "manacá",
+        "puru"
+      ]
+    }
+  },
+  {
+    "name_id": "mamanguape_pb",
+    "meaning": {
+      "pt": [
+        "Na enseada dos mamangás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mamangá",
+        "kûá",
+        "pe"
+      ]
+    }
+  },
+  {
+    "name_id": "manaus_am",
+    "meaning": {
+      "pt": [
+        "Mãe dos Deuses"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "manaós"
+      ]
+    }
+  },
+  {
+    "name_id": "mangaratiba_rj",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de mangarás"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mangará",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "manhuacu_mg",
+    "meaning": {
+      "pt": [
+        "Peixe amarelo grande",
+        "Rio grande",
+        "Algodoeiros grandes"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "mandi",
+          "júba",
+          "usu"
+        ],
+        [
+          "manhu",
+          "açu"
+        ],
+        [
+          "amynynîu",
+          "açu"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "manhumirim_mg",
+    "meaning": {
+      "pt": [
+        "Chuva pequena",
+        "Pequeno campo da chuva"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "manã",
+          "mirim"
+        ],
+        [
+          "amana",
+          "nhum",
+          "mirim"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "maraba_pa",
+    "meaning": {
+      "pt": [
+        "Filho do estrangeiro com a índia"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mayr",
+        "abá"
+      ]
+    }
+  },
+  {
+    "name_id": "maracaju_ms",
+    "meaning": {
+      "pt": [
+        "Água de maracá"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mbara'ká",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "maracanau_ce",
+    "meaning": {
+      "pt": [
+        "Rio das maracanãs"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "marakanã",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "maragogi_al",
+    "meaning": {
+      "pt": [
+        "Rio dos gatos-do-mato"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "maragûaó",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "marituba_pa",
+    "meaning": {
+      "pt": [
+        "Lugar abundante de Maris"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "umari",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "maua_sp",
+    "meaning": {
+      "pt": [
+        "Parte elevada de um local"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mbaé",
+        "uã"
+      ]
+    }
+  },
+  {
+    "name_id": "mogiguacu_sp",
+    "meaning": {
+      "pt": [
+        "Grande rio das cobras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mboîa",
+        "y",
+        "açu"
+      ]
+    }
+  },
+  {
+    "name_id": "mogimirim_sp",
+    "meaning": {
+      "pt": [
+        "Pequeno rio das cobras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mboîa",
+        "y",
+        "mirim"
+      ]
+    }
+  },
+  {
+    "name_id": "moju_pa",
+    "meaning": {
+      "pt": [
+        "Rio das cobras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mboîa",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "mongagua_sp",
+    "meaning": {
+      "pt": [
+        "Água pegajosa"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "mongaguá"
+      ]
+    }
+  },
+  {
+    "name_id": "nhandeara_sp",
+    "meaning": {
+      "pt": [
+        "Nosso Senhor"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "yandê",
+        "îara"
+      ]
+    }
+  },
+  {
+    "name_id": "niteroi_rj",
+    "meaning": {
+      "pt": [
+        "Água que se esconde",
+        "Rio verdadeiro frio"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "terõi",
+          "y"
+        ],
+        [
+          "y",
+          "eté",
+          "ro'y"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "novaiguacu_rj",
+    "meaning": {
+      "pt": [
+        "Rio grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "gûasu"
+      ]
+    }
+  },
+  {
+    "name_id": "nuporanga_sp",
+    "meaning": {
+      "pt": [
+        "Campo belo"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "nhum",
+        "poranga"
+      ]
+    }
+  },
+  {
+    "name_id": "oiapoque_ap",
+    "meaning": {
+      "pt": [
+        "Casa dos Waiãpi"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "oiap",
+        "oka"
+      ]
+    }
+  },
+  {
+    "name_id": "pacatupa_ce",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de pacas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "paca",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "parauapebas_pa",
+    "meaning": {
+      "pt": [
+        "Afluente raso do rio grande",
+        "Papagaio baixo"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "pará",
+          "y",
+          "peb"
+        ],
+        [
+          "parauá",
+          "peb"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "paracatu_mg",
+    "meaning": {
+      "pt": [
+        "Rio bom"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pará",
+        "katu"
+      ]
+    }
+  },
+  {
+    "name_id": "paracuru_ce",
+    "meaning": {
+      "pt": [
+        "Mar, rio de cascalho"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pará",
+        "curu"
+      ]
+    }
+  },
+  {
+    "name_id": "paraguacu_mg",
+    "meaning": {
+      "pt": [
+        "Rio grande"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pará",
+        "gûasu"
+      ]
+    }
+  },
+  {
+    "name_id": "paraibuna_sp",
+    "meaning": {
+      "pt": [
+        "Rio de águas escuras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pará",
+        "ayba",
+        "una"
+      ]
+    }
+  },
+  {
+    "name_id": "paranagua_pr",
+    "meaning": {
+      "pt": [
+        "Enseada de mar",
+        "Baía ou enseada de mar"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "paraná",
+          "kûá"
+        ],
+        [
+          "paraná",
+          "guá"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "paranaiba_ms",
+    "meaning": {
+      "pt": [
+        "Rio ruim"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "paraná",
+        "aíba"
+      ]
+    }
+  },
+  {
+    "name_id": "paranapanema_sp",
+    "meaning": {
+      "pt": [
+        "Enseada de mar"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "paraná",
+        "kûá"
+      ]
+    }
+  },
+  {
+    "name_id": "paraty_rj",
+    "meaning": {
+      "pt": [
+        "Rio dos paratis"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "parati",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "parnamirim_rn",
+    "meaning": {
+      "pt": [
+        "Rio pequeno"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "paraná",
+        "mirim"
+      ]
+    }
+  },
+  {
+    "name_id": "peruibe_sp",
+    "meaning": {
+      "pt": [
+        "No rio dos tubarões"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "iperu",
+        "y",
+        "pe"
+      ]
+    }
+  },
+  {
+    "name_id": "pindamonhangaba_sp",
+    "meaning": {
+      "pt": [
+        "Lugar onde se fazem anzóis"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pindá",
+        "monhang",
+        "aba"
+      ]
+    }
+  },
+  {
+    "name_id": "piracaia_sp",
+    "meaning": {
+      "pt": [
+        "Lugar onde se fazem anzóis"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "kaîa"
+      ]
+    }
+  },
+  {
+    "name_id": "piracanjuba_go",
+    "meaning": {
+      "pt": [
+        "Peixe de cabeça amarela"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "acanga",
+        "júba"
+      ]
+    }
+  },
+  {
+    "name_id": "piracicaba_sp",
+    "meaning": {
+      "pt": [
+        "Lugar onde o peixe para"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "syk",
+        "aba"
+      ]
+    }
+  },
+  {
+    "name_id": "piracuruca_pi",
+    "meaning": {
+      "pt": [
+        "Peixe roncador"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "kuruk"
+      ]
+    }
+  },
+  {
+    "name_id": "piraju_sp",
+    "meaning": {
+      "pt": [
+        "Peixe amarelo"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "îub"
+      ]
+    }
+  },
+  {
+    "name_id": "pirapora_mg",
+    "meaning": {
+      "pt": [
+        "Salto do peixe"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "pora"
+      ]
+    }
+  },
+  {
+    "name_id": "piraquara_pr",
+    "meaning": {
+      "pt": [
+        "Toca dos peixes"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "kûara"
+      ]
+    }
+  },
+  {
+    "name_id": "pirassununga_sp",
+    "meaning": {
+      "pt": [
+        "Peixes barulhentos"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "pirá",
+        "sunung"
+      ]
+    }
+  },
+  {
+    "name_id": "pontapora_ms",
+    "meaning": {
+      "pt": [
+        "(Ponta) bonita"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "porang"
+      ]
+    }
+  },
+  {
+    "name_id": "sabara_mg",
+    "meaning": {
+      "pt": [
+        "Grandes olhos brilhantes"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tesá",
+        "beraba",
+        "usu"
+      ]
+    }
+  },
+  {
+    "name_id": "sapiranga_rs",
+    "meaning": {
+      "pt": [
+        "Inflamação das pálpebras"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "eçá",
+        "piranga"
+      ]
+    }
+  },
+  {
+    "name_id": "sapucaia_rs",
+    "meaning": {
+      "pt": [
+        "Fruto que faz saltar o olho (fruto da árvore sapucaia)"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "ya",
+        "eçá",
+        "pukáia"
+      ]
+    }
+  },
+  {
+    "name_id": "sorocaba_sp",
+    "meaning": {
+      "pt": [
+        "Lugar da rasgadura"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "sorok",
+        "aba"
+      ]
+    }
+  },
+  {
+    "name_id": "tabapua_sp",
+    "meaning": {
+      "pt": [
+        "Aldeia redonda"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "taba",
+        "puá"
+      ]
+    }
+  },
+  {
+    "name_id": "tabatinga_am",
+    "meaning": {
+      "pt": [
+        "Barro branco",
+        "Aldeia branca"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "taba",
+          "tinga"
+        ],
+        [
+          "taba",
+          "tinga"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "taguatinga_to",
+    "meaning": {
+      "pt": [
+        "Ave branca",
+        "Barro branco"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        [
+          "ta'wa",
+          "tinga"
+        ],
+        [
+          "ta'wa",
+          "tinga"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "taiacu_sp",
+    "meaning": {
+      "pt": [
+        "Porco-do-mato"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tãi",
+        "açu"
+      ]
+    }
+  },
+  {
+    "name_id": "tamandare_pe",
+    "meaning": {
+      "pt": [
+        "Tamanduá diferente"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tamanduá",
+        "é"
+      ]
+    }
+  },
+  {
+    "name_id": "tambau_sp",
+    "meaning": {
+      "pt": [
+        "Rio das conchas"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tambá",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "tapejara_pr",
+    "meaning": {
+      "pt": [
+        "Senhor dos caminhos"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tape",
+        "îara"
+      ]
+    }
+  },
+  {
+    "name_id": "taquaritinga_sp",
+    "meaning": {
+      "pt": [
+        "Taquara pequena e branca",
+        "Rio claro das taquaras"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "takwa'ri",
+          "tinga"
+        ],
+        [
+          "takwar",
+          "y",
+          "tinga"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "tatui_sp",
+    "meaning": {
+      "pt": [
+        "Rio do tatu"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tatu",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "taubate_sp",
+    "meaning": {
+      "pt": [
+        "Aldeia alta"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "taba",
+        "ybate"
+      ]
+    }
+  },
+  {
+    "name_id": "tocantins_to",
+    "meaning": {
+      "pt": [
+        "(Paraíso dos) bicos de tucanos"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tukana",
+        "tim"
+      ]
+    }
+  },
+  {
+    "name_id": "tucurui_pa",
+    "meaning": {
+      "pt": [
+        "Gafanhotos verdes"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "tukura",
+        "obi"
+      ]
+    }
+  },
+  {
+    "name_id": "uba_mg",
+    "meaning": {
+      "pt": [
+        "Canoa de uma só peça escavada em tronco de árvore",
+        "Gramínea"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "ubá"
+        ],
+        [
+          "ubá"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "ubatuba_sp",
+    "meaning": {
+      "pt": [
+        "Ajuntamento de canas-do-rio"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "ubá",
+        "tyba"
+      ]
+    }
+  },
+  {
+    "name_id": "uberaba_mg",
+    "meaning": {
+      "pt": [
+        "Água cristalina"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "y",
+        "beraba"
+      ]
+    }
+  },
+  {
+    "name_id": "unai_mg",
+    "meaning": {
+      "pt": [
+        "Rio preto"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "una",
+        "y"
+      ]
+    }
+  },
+  {
+    "name_id": "urupema_sc",
+    "meaning": {
+      "pt": [
+        "Cesto esquinado, peneira"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "uru",
+        "pema"
+      ]
+    }
+  },
+  {
+    "name_id": "votorantim_sp",
+    "meaning": {
+      "pt": [
+        "Morro pontudo"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "votura",
+        "tĩ"
+      ]
+    }
+  },
+  {
+    "name_id": "votuporanga_sp",
+    "meaning": {
+      "pt": [
+        "Bons ventos",
+        "Morro bonito"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "botu",
+          "poranga"
+        ],
+        [
+          "votura",
+          "poranga"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "xanxere_sc",
+    "meaning": {
+      "pt": [
+        "Campina da cascavel"
+      ],
+      "en": [
+        ""
+      ],
+      "tu": [
+        "xãxã",
+        "rê"
+      ]
+    }
   }
 ]
