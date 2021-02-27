@@ -116,8 +116,8 @@
           function cityMeanings(cities) {
             for (i = 0; i < cities.length; i++) {
               if (feature.properties.name_id == cities[i]) {
-                cityMeaning = Object.keys(jsonCityMeanings[i].meaning_pt); // array of city meanings in pt
-                tupiWords = Object.values(jsonCityMeanings[i].meaning_pt);
+                cityMeaning = Object.keys(jsonCityMeanings[i].meaning); // array of city meanings in pt
+                tupiWords = Object.values(jsonCityMeanings[i].meaning);
               }
             }
             displayCityMeanings(cityMeaning, tupiWords);
