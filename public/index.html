@@ -62,6 +62,7 @@
     const navItemMap = document.getElementById("js-nav-item-map");
     const navItemInfo = document.getElementById("js-nav-item-info");
 
+    // toggle words language on main page
     function toggleLocaleMainPage(locale) {
       if (locale) {
         languageBtn.innerText = "English";
@@ -74,12 +75,16 @@
       }
     }
 
+    // toggle locale state
     function toggleLocale() {
       language = !language;
       toggleLocaleMainPage(language)
     }
 
+    // event listeners
     languageBtn.addEventListener("click", toggleLocale)
+
+    ///////////////////// Mapbox code ////////////////////
 
     mapboxgl.accessToken = 'pk.eyJ1IjoiYmxhbmNpZW4iLCJhIjoiY2tpcTh2cWFvMXVjczJ4cWpqMm91dXIzciJ9.xmJAXqYPyfIZPKzRQCk_HA';
 
