@@ -31,7 +31,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-map" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M15.817.113A.5.5 0 0 1 16 .5v14a.5.5 0 0 1-.402.49l-5 1a.502.502 0 0 1-.196 0L5.5 15.01l-4.902.98A.5.5 0 0 1 0 15.5v-14a.5.5 0 0 1 .402-.49l5-1a.5.5 0 0 1 .196 0L10.5.99l4.902-.98a.5.5 0 0 1 .415.103zM10 1.91l-4-.8v12.98l4 .8V1.91zm1 12.98l4-.8V1.11l-4 .8v12.98zm-6-.8V1.11l-4 .8v12.98l4-.8z"/>
               </svg>
-              <span>Mapa</span>
+              <span id="js-nav-item-map">Mapa</span>
             </div>
           </li>
           <li>
@@ -42,15 +42,45 @@
                   <path d="M8.93 6.588l-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588z"/>
                   <circle cx="8" cy="4.5" r="1"/>
                 </svg>
-                <span>Informações</span>
+                <span id="js-nav-item-info">Informações</span>
               </div>
             </a>
+          </li>
+          <li>
+            <button id="js-language-btn">
+              English
+            </button>
           </li>
         </ul>
       </div>
     </main>
   
   <script>
+    // global variables
+    let language = true; // true = PT, false = EN
+    const languageBtn = document.getElementById("js-language-btn");
+    const navItemMap = document.getElementById("js-nav-item-map");
+    const navItemInfo = document.getElementById("js-nav-item-info");
+
+    function toggleLocaleMainPage(locale) {
+      if (locale) {
+        languageBtn.innerText = "English";
+        navItemMap.innerText = "Mapa";
+        navItemInfo.innerText = "Informações";
+      } else {
+        languageBtn.innerText = "Português";
+        navItemMap.innerText = "Map";
+        navItemInfo.innerText = "Informations";
+      }
+    }
+
+    function toggleLocale() {
+      language = !language;
+      toggleLocaleMainPage(language)
+    }
+
+    languageBtn.addEventListener("click", toggleLocale)
+
     mapboxgl.accessToken = 'pk.eyJ1IjoiYmxhbmNpZW4iLCJhIjoiY2tpcTh2cWFvMXVjczJ4cWpqMm91dXIzciJ9.xmJAXqYPyfIZPKzRQCk_HA';
 
     var map = new mapboxgl.Map({
@@ -91,15 +121,17 @@
           let citiesTranslated = "";
           let cityTranslation = "";
           let cityWordsTu = "";
-          let language = 0; // 0 = PT, 1 = EN
 
           function displayCityMeanings(pt, en, cityWordsTu) {
+            let locale = 0;
+
             citiesTranslated = "<div class='popup popup__item'>";
 
-            if (language === 0) {
+            if (language) {
               cityTranslation = pt;
             } else {
               cityTranslation = en;
+              locale = 1;
             }
 
             cityWordsTu.forEach((words, i) => {
@@ -108,7 +140,7 @@
               words.forEach((word) => {
                 // word = 1 tupi word
                 // jsonTupiTranslations[0][word][language] = 1 tupi word translation into PT or EN
-                citiesTranslated = citiesTranslated + "<div class='popup popup__words'><div class='popup popup__left'><p class='popup popup__word-tupi'>" + word + "</p></div><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][word][language] + "</p></div>";
+                citiesTranslated = citiesTranslated + "<div class='popup popup__words'><div class='popup popup__left'><p class='popup popup__word-tupi'>" + word + "</p></div><p class='popup popup__word-pt'>= " + jsonTupiTranslations[0][word][locale] + "</p></div>";
               })
             });
 
