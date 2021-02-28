@@ -74,14 +74,6 @@
 
       var feature = features[0];
 
-      function getTupiWords() {
-        let words = "";
-        for (i = 0; i < tupiLength; i++) {
-          words += "<p>" + tupiObj[i] + "</p>";
-        }
-        return words;
-      }
-
       let jsonData;    
       Promise.all([
         fetch('data/city-meanings.json'),
@@ -94,14 +86,26 @@
         }));
       })
         .then(function(json){
-          let jsonCityMeanings = json[0];
-          let jsonTupiTranslations = json[1];
+          const jsonCityMeanings = json[0];
+          const jsonTupiTranslations = json[1];
           let citiesInPt = "";
-          let cityMeaning = "";
-          let tupiWords = "";
+          let cityTranslation = "";
+          let cityWordsTu = "";
+          let language = 0; // 0 = PT, 1 = EN
 
-          function displayCityMeanings(city, tupi) {
-            let wordInTupi = "";
+          function displayCityMeanings(pt, en, cityWordsTu) {
+            console.log(cityWordsTu);
+            console.log(pt);
+            if (language === 0) {
+              cityTranslation = pt;
+            } else {
+              cityTranslation = en;
+            }
+            cityWordsTu.forEach((word) => {
+              console.log(typeof word);
+              console.log(jsonTupiTranslations[0][word][language]); // translations of tupi words to PT or EN
+            })
+            /* let wordInTupi = "";
             for (i = 0; i < city.length; i++) {
               citiesInPt = citiesInPt + "<div class='popup popup__item'><p class='popup popup__city-name' id='cityTranslation'>= " + city[i] + "</p>";
                 for (j = 0; j < tupi[i].length; j++) {
@@ -110,17 +114,18 @@
                 }
               citiesInPt = citiesInPt + "</div>";
             }
-            return citiesInPt;
+            return citiesInPt; */
           }
 
           function cityMeanings(cities) {
-            for (i = 0; i < cities.length; i++) {
-              if (feature.properties.name_id == cities[i]) {
-                cityMeaning = Object.keys(jsonCityMeanings[i].meaning); // array of city meanings in pt
-                tupiWords = Object.values(jsonCityMeanings[i].meaning);
+            cities.forEach((city, i) => {
+              if (feature.properties.name_id == city) {
+                cityMeaningPt = jsonCityMeanings[i].meaning.pt;
+                cityMeaningEn = jsonCityMeanings[i].meaning.en;
+                cityWordsTu = jsonCityMeanings[i].meaning.tu;
               }
-            }
-            displayCityMeanings(cityMeaning, tupiWords);
+            })
+            displayCityMeanings(cityMeaningPt, cityMeaningEn, cityWordsTu);
           }
 
           function cityNamesIDListFunction(city) {
