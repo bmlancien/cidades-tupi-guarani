@@ -179,6 +179,10 @@
             .setLngLat(feature.geometry.coordinates)
             .setHTML('<div class="popup popup__top"><div class="popup popup__city">' + feature.properties.name + '</div>' + citiesTranslated + '</div>')
             .addTo(map);
+
+            languageBtn.onclick = function(e) {
+              popup.remove();
+            }
           }
         )
     });
