@@ -558,7 +558,7 @@
         "Coisa que treme"
       ],
       "en": [
-        ""
+        "Shaking thing"
       ],
       "tu": [
         [
@@ -572,12 +572,14 @@
     "name_id": "baturite_ce",
     "meaning": {
       "pt": [
-        "Sair boa água",
+        "Sair água boa",
         "Verdadeira serra",
         "Serra"
       ],
       "en": [
-        "?"
+        "To come out good water",
+        "True mountain range",
+        "Mountain range"
       ],
       "tu": [
         [
@@ -771,7 +773,8 @@
         "Serra boa"
       ],
       "en": [
-        "?"
+        "Good air",
+        "Good mountain range"
       ],
       "tu": [
         [
@@ -3744,7 +3747,7 @@
         "Mar, rio de cascalho"
       ],
       "en": [
-        ""
+        "Sea, gravel river"
       ],
       "tu": [
         [
@@ -3761,7 +3764,7 @@
         "Rio grande"
       ],
       "en": [
-        ""
+        "Large river"
       ],
       "tu": [
         [
@@ -3778,7 +3781,7 @@
         "Rio de águas escuras"
       ],
       "en": [
-        ""
+        "Dark water river"
       ],
       "tu": [
         [
@@ -3797,7 +3800,8 @@
         "Baía ou enseada de mar"
       ],
       "en": [
-        "?"
+        "Sea cove",
+        "Bay or sea cove"
       ],
       "tu": [
         [
@@ -3818,7 +3822,7 @@
         "Rio ruim"
       ],
       "en": [
-        ""
+        "bad river"
       ],
       "tu": [
         [
@@ -3835,7 +3839,7 @@
         "Enseada de mar"
       ],
       "en": [
-        ""
+        "Sea cove"
       ],
       "tu": [
         [
@@ -3852,7 +3856,7 @@
         "Rio dos paratis"
       ],
       "en": [
-        ""
+        "White mullets river"
       ],
       "tu": [
         [
@@ -3869,7 +3873,7 @@
         "Rio pequeno"
       ],
       "en": [
-        ""
+        "Small river"
       ],
       "tu": [
         [
@@ -3886,7 +3890,7 @@
         "No rio dos tubarões"
       ],
       "en": [
-        ""
+        "In the sharks river"
       ],
       "tu": [
         [
@@ -3904,7 +3908,7 @@
         "Lugar onde se fazem anzóis"
       ],
       "en": [
-        ""
+        "Place where hooks are made"
       ],
       "tu": [
         [
@@ -3919,10 +3923,10 @@
     "name_id": "piracaia_sp",
     "meaning": {
       "pt": [
-        "Lugar onde se fazem anzóis"
+        "Peixe assado"
       ],
       "en": [
-        ""
+        "Fried fish"
       ],
       "tu": [
         [
@@ -3939,7 +3943,7 @@
         "Peixe de cabeça amarela"
       ],
       "en": [
-        ""
+        "Yellow-headed fish"
       ],
       "tu": [
         [
@@ -3957,7 +3961,7 @@
         "Lugar onde o peixe para"
       ],
       "en": [
-        ""
+        "Place where the fish stops"
       ],
       "tu": [
         [
@@ -3975,7 +3979,7 @@
         "Peixe roncador"
       ],
       "en": [
-        ""
+        "Snorer fish"
       ],
       "tu": [
         [
@@ -3992,7 +3996,7 @@
         "Peixe amarelo"
       ],
       "en": [
-        ""
+        "Yellow fish"
       ],
       "tu": [
         [
@@ -4009,7 +4013,7 @@
         "Salto do peixe"
       ],
       "en": [
-        ""
+        "Fish jump"
       ],
       "tu": [
         [
@@ -4026,7 +4030,7 @@
         "Toca dos peixes"
       ],
       "en": [
-        ""
+        "Fish lair"
       ],
       "tu": [
         [
@@ -4043,7 +4047,7 @@
         "Peixes barulhentos"
       ],
       "en": [
-        ""
+        "Noisy fish"
       ],
       "tu": [
         [
