@@ -484,8 +484,8 @@
       "type": "Feature",
       "properties": {
         "name": "Caapora",
-        "state": "JP",
-        "name_id": "caapora_jp"
+        "state": "PB",
+        "name_id": "caapora_pb"
       },
       "geometry": {
         "coordinates": [-34.907778, -7.515833],

@@ -1,286 +1,2260 @@
 [
   {
-    "a": [["alto, elevado, monte"], ["high, elevated, hill"]],
-    "aba": "o lugar, o sitio",
-    "abá": "o homem, o criador",
-    "abiré": "solitário",
-    "abuna": "padre",
-    "áca": "solta, frouxa",
-    "acanga": "a cabeça, a nascente",
-    "acará": "a garça, o cará",
-    "acema": "escorrer, sair em grande quantidade",
-    "aco": "a roça, o roçado, a cultura",
-    "açu": "grande",
-    "agûarausá": "o guaruçá (caranguejo)",
-    "aíba": "bravo, ruim",
-    "aíua": "feio",
-    "akaîu": "o cajueiro",
-    "amana": "a chuva",
-    "amynynîu": "o algodoeiro",
-    "anguá": "o barulho, o rumor",
-    "apó": "a raiz",
-    "apyaba": "os índios, separação de rios",
-    "ara": "o lugar, o agente, o ar",
-    "araçá": "o araçá",
-    "ará": "a arara, o dia",
-    "arara": "a arara",
-    "arikeme": "arikeme (tribo extinta de indígenas)",
-    "ari'raña": "a onça d'água, a arinhanha",
-    "aru": "o aru, o sapo",
-    "asapaba": "a passagem",
-    "aso'îaba": "manto indígena de pena",
-    "ã’tã": "resistente, duro",
-    "atîaîa": "pontudo",
-    "awa'rá": "vermelho",
-    "ayba": "ruim",
-    "bacuri": "o bacuri",
-    "bana": "a borboleta, que torce",
-    "batu": "o monte, a serra",
-    "beraba": "brilhante",
-    "biguá": "o biguá",
-    "bocaiúva": "a palmeira",
-    "botu": "o vento, o ar, a nuvem",
-    "bu": "sair, rebentar",
-    "bui": "muito, com excesso",
-    "buri": "a palmeira",
-    "buriqui": "o muriqui",
-    "byra": "brilhante",
-    "cabaquã": "correntoso, forte",
-    "çaí": "pequeno",
-    "cajapió": "fruto maduro, dourado",
-    "camará": "o camará (arbusto)",
-    "canguá": "tipo de peixe",
-    "capixaba": "roça de milho",
-    "caraguatá": "a gravatá (planta)",
-    "caucaia": "queimado",
-    "cuia": "a vasilha",
-    "cha": "alto, elevado",
-    "coatiara": "pintado, gravado, escrito, esculpido",
-    "curé": "o pinhão",
-    "curu": "o cascalho",
-    "cuy": "a farinha",
-    "é": "a planta doce, diferente",
-    "eçá": "o olho, a vista",
-    "eíra": "o mel",
-    "enxu": "a abelha, a vespa",
-    "ererê": "canoa-marreca (ave)",
-    "etama": "a terra natal, a pátria",
-    "etá": "muitos",
-    "ete": "bom, (superlativa)",
-    "eté": "a serra, verdadeiro",
-    "exu": "a abelha",
-    "e'yma": "sem",
-    "gara": "a canoa",
-    "guá": "vale, baixada",
-    "guaba": "comestível",
-    "gûaîanã": "índios guaianás",
-    "guaimbê": "cipó de amarrar",
-    "guajará": "árvore da Amazônia",
-    "guara": "o indivíduo",
-    "guará": "a garça",
-    "gûará": "o lobo-guará",
-    "gûasu": "grande",
-    "gwa'su": "o veado",
-    "guiana": "terra de muitas águas",
-    "guirá": "o pássaro",
-    "guiri": "o bagre",
-    "hu": "negro, a água",
-    "i": "em",
-    "îá": "a repleção, a fartura, a abundância",
-    "îagûara": "a onça",
-    "îakaré": "o jacaré",
-    "îaku": "o jacu",
-    "îara": "o senhor, a senhora",
-    "îasy": "a lua",
-    "îate'i": "a abelha",
-    "ikuia": "a flecha-arpão",
-    "imba-u": "beber [água] da bica",
-    "imbé": "o cipó, guaimbé (planta)",
-    "inaîá": "indaiá (palmeira)",
-    "inhapim": "amanhece",
-    "ini": "rede de fios, rede de dormir",
-    "iperu": "o tubarão",
-    "ipo'ú": "o alagadiço",
-    "ira": "o mel",
-    "itá": "a pedra",
-    "itagybá": "a cascata",
-    "itapeba": "a pedra chata, rasa",
-    "îub": "amarelo",
-    "îuka": "podre",
-    "jaguar": "a onça, o tigre",
-    "jaguaré": "tipo de capim",
-    "jequi": "cesto afunilado, armadilha para peixes",
-    "ji": "a rã",
-    "júba": "amarelo",
-    "jundiá": "o bagre",
-    "jy": "o machado",
-    "ka'a": "a folha, a mata, a erva",
-    "kapibara": "Capivara (população Capoivari)",
-    "karawatã": "mato que fura",
-    "karaîá": "os carajás (grupo indígena)",
-    "ka'îuru": "boca do mato",
-    "ku'ri": "o pinheiro",
-    "kuruba": "o grão",
-    "kaîa": "assado",
-    "kamasary": "a lágrima do peito",
-    "karapina": "variedade de pica-pau",
-    "katu": "bom",
-    "kiri'ri": "calado, taciturno",
-    "kûá": "a enseada",
-    "kûara": "a toca, o buraco",
-    "kuru": "a influência",
-    "kuruk": "roncador",
-    "kururu": "o sapo",
-    "kyyaverá": "rio da lontra brilhante",
-    "ma": "agora",
-    "macaba": "árvore frutífera sertaneja",
-    "macapaba": "lugar de muitas bacabas (palmeira)",
-    "maçayó": "o que tapa o alagadiço",
-    "maíra": "entidade mitológica associada aos franceses",
-    "makaîuba": "macaúba (palmeira)",
-    "mamangá": "o mamangá",
-    "manã": "a chuva",
-    "manacá": "nome de uma planta",
-    "manaós": "mãe dos deuses",
-    "mandi": "o peixe",
-    "mangará": "mangará (planta da família das aráceas)",
-    "manhu": "o rio",
-    "maragûaó": "o gato-do-mato",
-    "marakanã": "a maracanã",
-    "mayr": "o estrangeiro",
-    "mbâgn": "grande",
-    "mbaé": "a coisa",
-    "mbaitá": "papagaio pequeno",
-    "mbai-yuru": "rio de grande inclinação",
-    "mba'eapina": "monstro marinho",
-    "mbara'ká": "a maracá",
-    "mbiru": "a mosca, o mosquito",
-    "mboîa": "a cobra",
-    "mbora": "o povo",
-    "mborá": "a abelha",
-    "mboy": "a cobra",
-    "mirá": " madeira",
-    "mirim": "pequeno",
-    "mongaguá": "água pegajosa",
-    "monhang": "fazer",
-    "mutá": "o degrau, a elevação",
-    "mu'tá": "pau atravessado",
-    "mutaba": "ação de fazer, confecção",
-    "ngoi": "a água",
-    "nha-em": "o pranto",
-    "nhan": "correr",
-    "nhandu": "a ema",
-    "nhe'eng": "falar, cantar",
-    "ñhe-tã": "de canto forte",
-    "nhi": "preto",
-    "nhum": "o campo",
-    "oane": "alguém",
-    "obi": "verde, esmeralda, precioso",
-    "oka": "a morada, a casa",
-    "okara": "a ocara (praça no interior de uma aldeia indígena)",
-    "oiap": "oiampi, povo Waiãpi",
-    "pa": "a lagoa",
-    "paba": "o lugar",
-    "paca": "a paca (roedor)",
-    "pai": "dependurado",
-    "panema": "ruim",
-    "pan meri": "vão, espaço, entre",
-    "pará": "o mar, o rio grande",
-    "parauá": "o papagaio",
-    "paraná": "o mar, o rio grande",
-    "parati": "a tainha, variedade de mandioca",
-    "parim": "arma de caça",
-    "pe": "em (local)",
-    "pé": "o caminho, a estrada",
-    "peb": "achatado",
-    "pema": "esquinado, anguloso",
-    "pi": "limpar, tratar, a pele, o couro",
-    "pirá": "o peixe",
-    "piara": "caminho para",
-    "pindá": "o anzol",
-    "pira": "a casca, a ponta, o penhasco",
-    "piranga": "vermelho",
-    "poca": "arrebentar, estourar",
-    "pong": "soar, fazer ruído",
-    "pora": "o salto",
-    "porã": "o habitante",
-    "porang": "bonito",
-    "poranga": "bonito",
-    "poti": "florido",
-    "pu": "o barulho",
-    "puá": "redondo",
-    "pukáia": "saltado",
-    "puru": "matizado",
-    "puyú": "o brejo",
-    "pyrang": "vermelho",
-    "rá": "o que impede",
-    "rapó": "a raiz",
-    "ré": "diferente, outro",
-    "rê": "o campo",
-    "rema": "fedido, cheiro agradável",
-    "ro'y": "frio",
-    "ryryî": "tremer",
-    "sema": "a saída",
-    "sorok": "rasgar",
-    "syk": "parar",
-    "sunung": "fazer barulho",
-    "taba": "a aldeia",
-    "tãi": "o dente",
-    "tajahy": "rio dos taiás",
-    "takwar": "a taquara (gramínea)",
-    "takwa'ri": "a taquara (gramínea) pequena",
-    "tamanduá": "o tamanduá",
-    "tambá": "a concha",
-    "tape": "o caminho",
-    "tatu": "o tatu",
-    "ta'wa": "a ave, o barro",
-    "terõi": "que se esconde",
-    "tesá": "o olho",
-    "ti": "o rio, o montão",
-    "tĩ": "pontudo",
-    "tim": "a proa, o bico",
-    "tinga": "branco, claro, o barro branco",
-    "tininga": "seco",
-    "tira": "alto",
-    "tororoma": "o jorro",
-    "tuba": "o pinho",
-    "tukana": "o tucano",
-    "tukura": "o gafanhoto",
-    "ty": "a água, o rio",
-    "tyba": "o ajuntamento, muito",
-    "tybaia": "rio da feitoria",
-    "tyîuka": "o lamaçal",
-    "uã": "alto, elevado",
-    "ua'ra": "o indivíduo",
-    "ûará": "o guará",
-    "uarará": "tambor indígena",
-    "uba": "a árvore",
-    "ubá": "a canoa, gramínea",
-    "uirá": "o pássaro",
-    "umari": "umari (planta)",
-    "un": "preto, escuro",
-    "una": "preto, escuro",
-    "upaú": "o lago, a lagoa, a água represada",
-    "upaba": "a logoa",
-    "uru": "o cesto",
-    "usu": "grande",
-    "votura": "o morro",
-    "xãxã": "a cascavel",
-    "waxi": "o guaxe",
-    "xim": "pequeno",
-    "y": "o rio",
-    "ya": "o indivíduo, o fruto",
-    "yandê": "nosso",
-    "ybá": "a fruta",
-    "ybate": "o alto, o elevado, o cume",
-    "yby": "a terra",
-    "ybyrá": "a árvore, a madeira",
-    "ybytu": "o ar, o vento",
-    "ybytyra": "a serra, a montanha",
-    "ygara": "a canoa",
-    "yguara": "o poço",
-    "yma": "antiguidade",
-    "ytu": "a cachoeira",
-    "yurukuá": "a tartaruga"
+    "a": [
+      [
+        "alto, elevado, monte"
+      ],
+      [
+        "high, elevated, hill"
+      ]
+    ],
+    "aba": [
+      [
+        "o lugar, o sítio"
+      ],
+      [
+        "the place, the site"
+      ]
+    ],
+    "abá": [
+      [
+        "o homem, o criador, o índio"
+      ],
+      [
+        "the man, the creator, the indian"
+      ]
+    ],
+    "abiré": [
+      [
+        "solitário"
+      ],
+      [
+        "lonely"
+      ]
+    ],
+    "abuna": [
+      [
+        "padre"
+      ],
+      [
+        "priest"
+      ]
+    ],
+    "áca": [
+      [
+        "solto, frouxo"
+      ],
+      [
+        "untied, loose"
+      ]
+    ],
+    "acanga": [
+      [
+        "a cabeça, a nascente"
+      ],
+      [
+        "the head, the source"
+      ]
+    ],
+    "acará": [
+      [
+        "a garça, o cará"
+      ],
+      [
+        "the heron, the angelfish"
+      ]
+    ],
+    "cema": [
+      [
+        "escorrer, sair em grande quantidade"
+      ],
+      [
+        "to drain, to come out in large quantity"
+      ]
+    ],
+    "aco": [
+      [
+        "a roça, o roçado, a cultura"
+      ],
+      [
+        "the farm, the culture"
+      ]
+    ],
+    "açu": [
+      [
+        "grande"
+      ],
+      [
+        "big"
+      ]
+    ],
+    "agûarausá": [
+      [
+        "o guaruçá (caranguejo)"
+      ],
+      [
+        "the atlantic ghost crab (crab)"
+      ]
+    ],
+    "aíba": [
+      [
+        "bravo, ruim"
+      ],
+      [
+        "brave, bad"
+      ]
+    ],
+    "aíua": [
+      [
+        "feio"
+      ],
+      [
+        "ugly"
+      ]
+    ],
+    "akaîu": [
+      [
+        "o cajueiro"
+      ],
+      [
+        "the cashew tree"
+      ]
+    ],
+    "amana": [
+      [
+        "a chuva"
+      ],
+      [
+        "the rain"
+      ]
+    ],
+    "amynynîu": [
+      [
+        "o algodoeiro"
+      ],
+      [
+        "the cotton plant"
+      ]
+    ],
+    "anguá": [
+      [
+        "o barulho, o rumor"
+      ],
+      [
+        "the noise, the fuss"
+      ]
+    ],
+    "apó": [
+      [
+        "a raiz"
+      ],
+      [
+        "the root"
+      ]
+    ],
+    "apyaba": [
+      [
+        "os índios, separação de rios"
+      ],
+      [
+        "the indians, rivers separation"
+      ]
+    ],
+    "ara": [
+      [
+        "o lugar, o agente, o ar"
+      ],
+      [
+        "the place, the agent, the air"
+      ]
+    ],
+    "araçá": [
+      [
+        "o araçá"
+      ],
+      [
+        "the cattley guava"
+      ]
+    ],
+    "ará": [
+      [
+        "a arara, o dia"
+      ],
+      [
+        "the macaw, the day"
+      ]
+    ],
+    "arara": [
+      [
+        "a arara"
+      ],
+      [
+        "the macaw"
+      ]
+    ],
+    "arikeme": [
+      [
+        "arikeme (tribo extinta de indígenas)"
+      ],
+      [
+        "arikeme (extinct tribe of indigenous people)"
+      ]
+    ],
+    "ari'raña": [
+      [
+        "a onça d'água, a arinhanha"
+      ],
+      [
+        "the giant river otter, the giant otter"
+      ]
+    ],
+    "aru": [
+      [
+        "o aru, o sapo"
+      ],
+      [
+        "the star-fingered toad, the toad"
+      ]
+    ],
+    "asapaba": [
+      [
+        "a passagem"
+      ],
+      [
+        "the passage"
+      ]
+    ],
+    "aso'îaba": [
+      [
+        "manto indígena de pena"
+      ],
+      [
+        "indigenous cloak made of feathers"
+      ]
+    ],
+    "ã’tã": [
+      [
+        "resistente, duro"
+      ],
+      [
+        "resistant, hard"
+      ]
+    ],
+    "atîaîa": [
+      [
+        "pontudo"
+      ],
+      [
+        "pointy"
+      ]
+    ],
+    "awa'rá": [
+      [
+        "vermelho"
+      ],
+      [
+        "red"
+      ]
+    ],
+    "ayba": [
+      [
+        "ruim"
+      ],
+      [
+        "bad"
+      ]
+    ],
+    "bacuri": [
+      [
+        "o bacuri"
+      ],
+      [
+        "the bacuri"
+      ]
+    ],
+    "bana": [
+      [
+        "a borboleta, que torce"
+      ],
+      [
+        "the butterfly, that twists"
+      ]
+    ],
+    "batu": [
+      [
+        "o monte, a serra"
+      ],
+      [
+        "the mount, the mountain range"
+      ]
+    ],
+    "beraba": [
+      [
+        "brilhante"
+      ],
+      [
+        "bright"
+      ]
+    ],
+    "biguá": [
+      [
+        "o biguá"
+      ],
+      [
+        "the cormorant"
+      ]
+    ],
+    "bocaiúva": [
+      [
+        "a palmeira"
+      ],
+      [
+        "the palm tree"
+      ]
+    ],
+    "botu": [
+      [
+        "o vento, o ar, a nuvem"
+      ],
+      [
+        "the wind, the air, the cloud"
+      ]
+    ],
+    "bu": [
+      [
+        "sair, rebentar"
+      ],
+      [
+        "come out, burst"
+      ]
+    ],
+    "bui": [
+      [
+        "muito, com excesso"
+      ],
+      [
+        "many, with excess"
+      ]
+    ],
+    "buri": [
+      [
+        "a palmeira"
+      ],
+      [
+        "the palm tree"
+      ]
+    ],
+    "buriqui": [
+      [
+        "o muriqui"
+      ],
+      [
+        "the muriqui (woolly spider monkeys)"
+      ]
+    ],
+    "byra": [
+      [
+        "brilhante"
+      ],
+      [
+        "bright"
+      ]
+    ],
+    "cabaquã": [
+      [
+        "correntoso, forte"
+      ],
+      [
+        "with strong current, strong"
+      ]
+    ],
+    "çaí": [
+      [
+        "pequeno"
+      ],
+      [
+        "small"
+      ]
+    ],
+    "cajapió": [
+      [
+        "fruto maduro, dourado"
+      ],
+      [
+        "ripe fruit, golden"
+      ]
+    ],
+    "camará": [
+      [
+        "o camará (arbusto)"
+      ],
+      [
+        "lantana camara (bush)"
+      ]
+    ],
+    "canguá": [
+      [
+        "tipo de peixe"
+      ],
+      [
+        "type of fish"
+      ]
+    ],
+    "capixaba": [
+      [
+        "roça de milho"
+      ],
+      [
+        "small corn farm"
+      ]
+    ],
+    "caraguatá": [
+      [
+        "a gravatá (planta)"
+      ],
+      [
+        "the bromelia pinguin (plant)"
+      ]
+    ],
+    "caucaia": [
+      [
+        "queimado"
+      ],
+      [
+        "burnt"
+      ]
+    ],
+    "cuia": [
+      [
+        "a vasilha"
+      ],
+      [
+        "the bowl"
+      ]
+    ],
+    "cha": [
+      [
+        "alto, elevado"
+      ],
+      [
+        "high, elevated"
+      ]
+    ],
+    "coatiara": [
+      [
+        "pintado, gravado, escrito, esculpido"
+      ],
+      [
+        "painted, printed, written, sculpted"
+      ]
+    ],
+    "curé": [
+      [
+        "o pinhão"
+      ],
+      [
+        "the pine nut"
+      ]
+    ],
+    "curu": [
+      [
+        "o cascalho"
+      ],
+      [
+        "the gravel"
+      ]
+    ],
+    "cuy": [
+      [
+        "a farinha"
+      ],
+      [
+        "the flour"
+      ]
+    ],
+    "é": [
+      [
+        "a planta doce, diferente"
+      ],
+      [
+        "the sweet plant, different"
+      ]
+    ],
+    "eçá": [
+      [
+        "o olho, a vista"
+      ],
+      [
+        "the eye, the sight"
+      ]
+    ],
+    "eíra": [
+      [
+        "o mel"
+      ],
+      [
+        "the honey"
+      ]
+    ],
+    "enxu": [
+      [
+        "a abelha, a vespa"
+      ],
+      [
+        "the bee, the wasp"
+      ]
+    ],
+    "ererê": [
+      [
+        "canoa-marreca (ave)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "etama": [
+      [
+        "a terra natal, a pátria"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "etá": [
+      [
+        "muitos"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ete": [
+      [
+        "bom, (superlativa)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "eté": [
+      [
+        "a serra, verdadeiro"
+      ],
+      [
+        "the mountain range, true"
+      ]
+    ],
+    "exu": [
+      [
+        "a abelha"
+      ],
+      [
+        "the bee"
+      ]
+    ],
+    "e'yma": [
+      [
+        "sem"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "gara": [
+      [
+        "a canoa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guá": [
+      [
+        "vale, baixada"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guaba": [
+      [
+        "comestível"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "gûaîanã": [
+      [
+        "índios guaianás"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guaimbê": [
+      [
+        "cipó de amarrar"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guajará": [
+      [
+        "árvore da Amazônia"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guara": [
+      [
+        "o indivíduo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guará": [
+      [
+        "a garça"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "gûará": [
+      [
+        "o lobo-guará"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "gûasu": [
+      [
+        "grande"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "gwa'su": [
+      [
+        "o veado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guiana": [
+      [
+        "terra de muitas águas"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guirá": [
+      [
+        "o pássaro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "guiri": [
+      [
+        "o bagre"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "hu": [
+      [
+        "negro, a água"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "i": [
+      [
+        "em"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îá": [
+      [
+        "a repleção, a fartura, a abundância"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îagûara": [
+      [
+        "a onça"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îakaré": [
+      [
+        "o jacaré"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îaku": [
+      [
+        "o jacu"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îara": [
+      [
+        "o senhor, a senhora"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îasy": [
+      [
+        "a lua"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îate'i": [
+      [
+        "a abelha"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ikuia": [
+      [
+        "a flecha-arpão"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "imba-u": [
+      [
+        "beber [água] da bica"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "imbé": [
+      [
+        "o cipó, guaimbé (planta)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "inaîá": [
+      [
+        "indaiá (palmeira)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "inhapim": [
+      [
+        "amanhece"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ini": [
+      [
+        "rede de fios, rede de dormir"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "iperu": [
+      [
+        "o tubarão"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ipo'ú": [
+      [
+        "o alagadiço"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ira": [
+      [
+        "o mel"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "itá": [
+      [
+        "a pedra"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "itagybá": [
+      [
+        "a cascata"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "itapeba": [
+      [
+        "a pedra chata, rasa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îub": [
+      [
+        "amarelo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "îuka": [
+      [
+        "podre"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "jaguar": [
+      [
+        "a onça, o tigre"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "jaguaré": [
+      [
+        "tipo de capim"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "jequi": [
+      [
+        "cesto afunilado, armadilha para peixes"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ji": [
+      [
+        "a rã"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "júba": [
+      [
+        "amarelo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "jundiá": [
+      [
+        "o bagre"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "jy": [
+      [
+        "o machado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ka'a": [
+      [
+        "a folha, a mata, a erva"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kapibara": [
+      [
+        "Capivara (população Capoivari)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "karawatã": [
+      [
+        "mato que fura"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "karaîá": [
+      [
+        "os carajás (grupo indígena)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ka'îuru": [
+      [
+        "boca do mato"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ku'ri": [
+      [
+        "o pinheiro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kuruba": [
+      [
+        "o grão"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kaîa": [
+      [
+        "assado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kamasary": [
+      [
+        "a lágrima do peito"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "karapina": [
+      [
+        "variedade de pica-pau"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "katu": [
+      [
+        "bom"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kiri'ri": [
+      [
+        "calado, taciturno"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kûá": [
+      [
+        "a enseada"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kûara": [
+      [
+        "a toca, o buraco"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kuru": [
+      [
+        "a influência"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kuruk": [
+      [
+        "roncador"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kururu": [
+      [
+        "o sapo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "kyyaverá": [
+      [
+        "rio da lontra brilhante"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ma": [
+      [
+        "agora"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "macaba": [
+      [
+        "árvore frutífera sertaneja"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "macapaba": [
+      [
+        "lugar de muitas bacabas (palmeira)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "maçayó": [
+      [
+        "o que tapa o alagadiço"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "maíra": [
+      [
+        "entidade mitológica associada aos franceses"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "makaîuba": [
+      [
+        "macaúba (palmeira)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mamangá": [
+      [
+        "o mamangá"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "manã": [
+      [
+        "a chuva"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "manacá": [
+      [
+        "nome de uma planta"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "manaós": [
+      [
+        "mãe dos deuses"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mandi": [
+      [
+        "o peixe"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mangará": [
+      [
+        "mangará (planta da família das aráceas)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "manhu": [
+      [
+        "o rio"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "maragûaó": [
+      [
+        "o gato-do-mato"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "marakanã": [
+      [
+        "a maracanã"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mayr": [
+      [
+        "o estrangeiro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbâgn": [
+      [
+        "grande"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbaé": [
+      [
+        "a coisa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbaitá": [
+      [
+        "papagaio pequeno"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbai-yuru": [
+      [
+        "rio de grande inclinação"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mba'eapina": [
+      [
+        "monstro marinho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbara'ká": [
+      [
+        "a maracá"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbiru": [
+      [
+        "a mosca, o mosquito"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mboîa": [
+      [
+        "a cobra"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mbora": [
+      [
+        "o povo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mborá": [
+      [
+        "a abelha"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mboy": [
+      [
+        "a cobra"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mirá": [
+      [
+        " madeira"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mirim": [
+      [
+        "pequeno"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mongaguá": [
+      [
+        "água pegajosa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "monhang": [
+      [
+        "fazer"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mutá": [
+      [
+        "o degrau, a elevação"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mu'tá": [
+      [
+        "pau atravessado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "mutaba": [
+      [
+        "ação de fazer, confecção"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ngoi": [
+      [
+        "a água"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "nha-em": [
+      [
+        "o pranto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "nhan": [
+      [
+        "correr"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "nhandu": [
+      [
+        "a ema"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "nhe'eng": [
+      [
+        "falar, cantar"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ñhe-tã": [
+      [
+        "de canto forte"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "nhi": [
+      [
+        "preto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "nhum": [
+      [
+        "o campo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "oane": [
+      [
+        "alguém"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "obi": [
+      [
+        "verde, esmeralda, precioso"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "oka": [
+      [
+        "a morada, a casa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "okara": [
+      [
+        "a ocara (praça no interior de uma aldeia indígena)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "oiap": [
+      [
+        "oiampi, povo Waiãpi"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pa": [
+      [
+        "a lagoa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "paba": [
+      [
+        "o lugar"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "paca": [
+      [
+        "a paca (roedor)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pai": [
+      [
+        "dependurado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "panema": [
+      [
+        "ruim"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pan meri": [
+      [
+        "vão, espaço, entre"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pará": [
+      [
+        "o mar, o rio grande"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "parauá": [
+      [
+        "o papagaio"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "paraná": [
+      [
+        "o mar, o rio grande"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "parati": [
+      [
+        "a tainha, variedade de mandioca"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "parim": [
+      [
+        "arma de caça"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pe": [
+      [
+        "em (local)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pé": [
+      [
+        "o caminho, a estrada"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "peb": [
+      [
+        "achatado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pema": [
+      [
+        "esquinado, anguloso"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pi": [
+      [
+        "limpar, tratar, a pele, o couro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pirá": [
+      [
+        "o peixe"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "piara": [
+      [
+        "caminho para"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pindá": [
+      [
+        "o anzol"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pira": [
+      [
+        "a casca, a ponta, o penhasco"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "piranga": [
+      [
+        "vermelho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "poca": [
+      [
+        "arrebentar, estourar"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pong": [
+      [
+        "soar, fazer ruído"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pora": [
+      [
+        "o salto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "porã": [
+      [
+        "o habitante"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "porang": [
+      [
+        "bonito"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "poranga": [
+      [
+        "bonito"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "poti": [
+      [
+        "florido"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pu": [
+      [
+        "o barulho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "puá": [
+      [
+        "redondo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pukáia": [
+      [
+        "saltado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "puru": [
+      [
+        "matizado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "puyú": [
+      [
+        "o brejo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "pyrang": [
+      [
+        "vermelho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "rá": [
+      [
+        "o que impede"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "rapó": [
+      [
+        "a raiz"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ré": [
+      [
+        "diferente, outro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "rê": [
+      [
+        "o campo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "rema": [
+      [
+        "fedido, cheiro agradável"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ro'y": [
+      [
+        "frio"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ryryî": [
+      [
+        "tremer"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "sema": [
+      [
+        "a saída"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "sorok": [
+      [
+        "rasgar"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "syk": [
+      [
+        "parar"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "sunung": [
+      [
+        "fazer barulho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "taba": [
+      [
+        "a aldeia"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tãi": [
+      [
+        "o dente"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tajahy": [
+      [
+        "rio dos taiás"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "takwar": [
+      [
+        "a taquara (gramínea)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "takwa'ri": [
+      [
+        "a taquara (gramínea) pequena"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tamanduá": [
+      [
+        "o tamanduá"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tambá": [
+      [
+        "a concha"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tape": [
+      [
+        "o caminho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tatu": [
+      [
+        "o tatu"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ta'wa": [
+      [
+        "a ave, o barro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "terõi": [
+      [
+        "que se esconde"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tesá": [
+      [
+        "o olho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ti": [
+      [
+        "o rio, o montão"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tĩ": [
+      [
+        "pontudo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tim": [
+      [
+        "a proa, o bico"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tinga": [
+      [
+        "branco, claro, o barro branco"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tininga": [
+      [
+        "seco"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tira": [
+      [
+        "alto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tororoma": [
+      [
+        "o jorro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tuba": [
+      [
+        "o pinho"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tukana": [
+      [
+        "o tucano"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tukura": [
+      [
+        "o gafanhoto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ty": [
+      [
+        "a água, o rio"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tyba": [
+      [
+        "o ajuntamento, muito"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tybaia": [
+      [
+        "rio da feitoria"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "tyîuka": [
+      [
+        "o lamaçal"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "uã": [
+      [
+        "alto, elevado"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ua'ra": [
+      [
+        "o indivíduo"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ûará": [
+      [
+        "o guará"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "uarará": [
+      [
+        "tambor indígena"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "uba": [
+      [
+        "a árvore"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ubá": [
+      [
+        "a canoa, gramínea"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "uirá": [
+      [
+        "o pássaro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "umari": [
+      [
+        "umari (planta)"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "un": [
+      [
+        "preto, escuro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "una": [
+      [
+        "preto, escuro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "upaú": [
+      [
+        "o lago, a lagoa, a água represada"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "upaba": [
+      [
+        "a logoa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "uru": [
+      [
+        "o cesto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "usu": [
+      [
+        "grande"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "votura": [
+      [
+        "o morro"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "xãxã": [
+      [
+        "a cascavel"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "waxi": [
+      [
+        "o guaxe"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "xim": [
+      [
+        "pequeno"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "y": [
+      [
+        "o rio"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ya": [
+      [
+        "o indivíduo, o fruto"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "yandê": [
+      [
+        "nosso"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ybá": [
+      [
+        "a fruta"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ybate": [
+      [
+        "o alto, o elevado, o cume"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "yby": [
+      [
+        "a terra"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ybyrá": [
+      [
+        "a árvore, a madeira"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ybytu": [
+      [
+        "o ar, o vento"
+      ],
+      [
+        "the air, the wind"
+      ]
+    ],
+    "ybytyra": [
+      [
+        "a serra, a montanha"
+      ],
+      [
+        "the mountain range, the mountain"
+      ]
+    ],
+    "ygara": [
+      [
+        "a canoa"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "yguara": [
+      [
+        "o poço"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "yma": [
+      [
+        "antiguidade"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "ytu": [
+      [
+        "a cachoeira"
+      ],
+      [
+        "?"
+      ]
+    ],
+    "yurukuá": [
+      [
+        "a tartaruga"
+      ],
+      [
+        "?"
+      ]
+    ]
   }
 ]
