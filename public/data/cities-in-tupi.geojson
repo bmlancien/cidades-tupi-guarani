@@ -1772,7 +1772,7 @@
         "name_id": "maceio_al"
       },
       "geometry": {
-        "coordinates": [-35.735, 9.665833],
+        "coordinates": [-35.735, -9.665833],
         "type": "Point"
       }
     },
@@ -1904,7 +1904,7 @@
         "name_id": "mongagua_sp"
       },
       "geometry": {
-        "coordinates": [-24.086944, -46.628889],
+        "coordinates": [-46.628889, -24.0875],
         "type": "Point"
       }
     },
