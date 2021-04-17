@@ -171,33 +171,41 @@ html {
 
 .app-info {
   position: absolute;
-  width: 5rem;
-  height: 5rem;
-  padding: 1rem 0 0 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: .5rem 1rem;
+  background-color: #fff;
   z-index: 99;
-  background-color: none;
   top: 0;
-  left: 0;
 }
 
 @media only screen and (min-width: 640px) {
   .app-info {
-    width: 8rem;
-    height: 8rem;
-    padding: 1rem 0 0 1rem;
-    top: 1rem;
-    left: 1rem;
+    height: 4rem;
+    padding: 1rem 1rem 0;
+    background-color: rgba(0, 0, 0, 0);
   }
 }
 
 .app-info img {
-  height: 2.5rem;
+  width: 5rem;
 }
 
 @media only screen and (min-width: 640px) {
   .app-info img {
-    height: 6rem;
+    width: 6rem;
   }
+}
+
+.button {
+  border-radius: 6px;
+  border: 1px solid #777;
+  background-color: #fff;
+  padding: .25rem 1rem;
+  cursor: pointer;
 }
 
 .marker {
@@ -225,10 +233,10 @@ html {
   }
   .app-nav--map {
     display: block;
-    top: 9.5rem;
-    left: 2rem;
+    top: 4.5rem;
+    left: 1rem;
     width: 7.25rem;
-    border-radius: 4px;
+    border-radius: 6px;
     opacity: .8;
   }
   .app-nav--map .hide-large {

@@ -18,13 +18,20 @@
 
     <title>Cidades brasileiras com nomes de origem tupi-guarani</title>
   </head>
+
   <body>
+    
     <main class="wrapper">
-      <div class="app-info">
-        <img src="assets/logo_cidades_tupi_white.svg" alt="Logo Cidades Tupi">
-      </div>
-      <div id='map'></div>
-      <div class="app-nav app-nav--map">
+      <section class="app-info">
+        <img src="assets/logo_cidades_tupi_blue.svg" alt="Logo Cidades Tupi">
+        <div class="button" id="js-language-btn">
+          English
+        </div>
+      </section>
+
+      <section id='map'></section>
+
+      <nav class="app-nav app-nav--map">
         <ul>
           <li class="hide-large">
             <div class="app-nav__item">
@@ -46,13 +53,8 @@
               </div>
             </a>
           </li>
-          <li>
-            <button id="js-language-btn">
-              English
-            </button>
-          </li>
         </ul>
-      </div>
+      </nav>
     </main>
   
   <script>
@@ -96,7 +98,7 @@
     });
 
     var nav = new mapboxgl.NavigationControl();
-    map.addControl(nav, 'top-right');
+    map.addControl(nav, 'bottom-right');
 
     map.on('click', function(e) {
       var features = map.queryRenderedFeatures(e.point, {
