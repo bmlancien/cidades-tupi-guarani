@@ -334,9 +334,13 @@ html {
 
 .button {
   border-radius: 6px;
-  border: 1px solid #777;
+  border: none;
   background-color: #fff;
   padding: .25rem 1rem;
+  color: #227c9d;
+  box-shadow: 1px 1px 28px -9px rgba(34, 124, 157, 0.75);
+  -webkit-box-shadow: 1px 1px 28px -9px rgba(34, 124, 157, 0.75);
+  -moz-box-shadow: 1px 1px 28px -9px rgba(34, 124, 157, 0.75);
   cursor: pointer;
 }
 
