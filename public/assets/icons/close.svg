@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.494247mm"
+   height="55.494247mm"
+   viewBox="0 0 55.494247 55.494247"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="close.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.28234775"
+     inkscape:cx="104.87102"
+     inkscape:cy="104.87102"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-124.1993,-128.73501)">
+    <rect
+       style="fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:3.044;stroke-linecap:round;stroke-linejoin:round"
+       id="rect835"
+       width="10.583333"
+       height="74.083336"
+       x="-8.4989014"
+       y="181.05026"
+       ry="5.2916665"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:3.044;stroke-linecap:round;stroke-linejoin:round"
+       id="rect837"
+       width="10.583333"
+       height="74.083336"
+       x="-223.38359"
+       y="-33.834435"
+       ry="5.2916665"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+  </g>
+</svg>

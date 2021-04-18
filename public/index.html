@@ -1,3 +1,22 @@
+<!--
+(c) 2021, Bryan Lancien <bryanlancien@yahoo.fr>
+
+This file is part of Cidades Tupi
+
+Cidades Tupi is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Cidades Tupi is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Cidades Tupi.  If not, see <http://www.gnu.org/licenses/>. 
+-->
+
 <!doctype html>
 <html lang="pt-BR">
   <head>
@@ -7,7 +26,6 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css' rel='stylesheet' />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
-    <script src="js/project.js"></script>
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
@@ -20,6 +38,17 @@
   </head>
 
   <body>
+
+    <section class="onboarding" id="js-onboarding-modal">
+      <div class="onboarding__content">
+        <span class="onboarding__close" id="js-close-onboarding">
+          <img src="/assets/icons/close.svg" alt="Close modal">
+        </span>
+        <h1 class="onboarding__title">Cidades tupi</h1>
+        <p>Old Tupi was spoken by the aboriginal Tupi people living in the regions of the South and Southeast Brazil. It has given the portuguese language new words but also has been used to name locations such as cities. Many famous city names, such as Curitiba, Jericoacoara or Cuiabá, originated from the old tupi language.</p>
+        <p>Use this map to discover the meanings of some of these cities!</p>
+      </div>
+    </section>
     
     <main class="wrapper">
       <section class="app-info">
@@ -195,5 +224,6 @@
   </script>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  <script src="js/project.js"></script>
   </body>
 </html>

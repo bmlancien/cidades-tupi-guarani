@@ -156,6 +156,69 @@ html {
   transform: translateY(4px);
 }
 
+.onboarding {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 100;
+}
+
+.onboarding__content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  padding: 1rem;
+}
+
+@media only screen and (min-width: 640px) {
+  .onboarding__content {
+    width: 550px;
+    height: auto;
+    padding: 2rem;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .onboarding__content {
+    width: 800px;
+    height: auto;
+    padding: 2rem;
+  }
+}
+
+.onboarding__close {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.onboarding__close img {
+  width: 1rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.onboarding__title {
+  text-align: center;
+}
+
 .wrapper {
   width: 100%;
   display: flex;
@@ -370,6 +433,10 @@ main.privacy .legal-links a {
 
 body, html {
   font-family: Roboto, Arial, sans-serif;
+  color: #1f2421;
+}
+
+h1, h2, h3 {
   color: #227c9d;
 }
 
