@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="89.48278mm"
-   height="13.177372mm"
-   viewBox="0 0 89.48278 13.177372"
+   width="79.762672mm"
+   height="6.8357501mm"
+   viewBox="0 0 79.762672 6.8357501"
    version="1.1"
    id="svg8">
   <defs
@@ -27,7 +27,7 @@
   <g
      id="layer1"
      style="display:none"
-     transform="translate(-554.64365,287.52563)">
+     transform="translate(-554.79818,307.60997)">
     <path
        style="fill:none;stroke:#075b4c;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -279.01258,-461.90068 h 65.0119"
@@ -64,57 +64,121 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#075b4c;fill-opacity:1;stroke-width:1.18751">CIDADES TUPI</tspan></text>
   </g>
   <g
-     id="layer2"
-     transform="translate(-554.64365,287.52563)">
+     id="layer4"
+     style="display:none">
     <g
-       aria-label="CIDADES TUPI"
-       id="g1210"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:47.5001px;line-height:1.25;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';letter-spacing:1.46749px;fill:#227c9d;fill-opacity:1;stroke:none;stroke-width:1.18751"
-       transform="matrix(0.36998842,0,0,0.36998842,552.99952,-60.557427)">
-      <path
-         d="m 25.244063,-600.15148 h -6.840015 v -4.75001 q 0,-1.1875 -1.235002,-1.1875 h -1.947504 q -1.282503,0 -1.282503,1.1875 v 18.52504 q 0,0.665 0.285001,0.95 0.285,0.2375 0.997502,0.2375 h 1.947504 q 0.665001,0 0.950002,-0.2375 0.285,-0.285 0.285,-0.95 v -4.60751 h 6.840015 v 5.22501 q 0,5.22501 -6.032513,5.22501 h -6.080013 q -5.985012,0 -5.985012,-5.22501 v -19.76004 q 0,-5.22501 5.985012,-5.22501 h 6.080013 q 6.032513,0 6.032513,5.22501 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1188" />
-      <path
-         d="m 30.369005,-610.744 h 6.745015 v 30.21006 h -6.745015 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1190" />
-      <path
-         d="m 43.331471,-610.744 h 12.587526 q 6.032512,0 6.032512,5.22501 v 19.71254 q 0,5.27251 -6.032512,5.27251 H 43.331471 Z m 11.827524,24.36755 v -18.52504 q 0,-1.1875 -1.282502,-1.1875 h -3.752508 v 20.90004 h 3.752508 q 1.282502,0 1.282502,-1.1875 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1192" />
-      <path
-         d="m 81.278977,-580.53394 -1.045002,-5.46251 H 73.34646 l -1.045002,5.46251 h -6.697514 l 6.840014,-30.21006 h 8.645018 l 7.030015,30.21006 z m -6.982515,-10.40252 h 4.940011 l -2.470006,-12.77752 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1194" />
-      <path
-         d="m 92.246479,-610.744 h 12.587531 q 6.03251,0 6.03251,5.22501 v 19.71254 q 0,5.27251 -6.03251,5.27251 H 92.246479 Z m 11.827521,24.36755 v -18.52504 q 0,-1.1875 -1.2825,-1.1875 h -3.752507 v 20.90004 h 3.752507 q 1.2825,0 1.2825,-1.1875 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1196" />
-      <path
-         d="m 123.21147,-585.52145 h 9.69002 v 4.98751 H 116.41895 V -610.744 h 16.10254 v 4.98751 h -9.31002 v 7.36252 h 7.93251 v 4.98751 h -7.93251 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1198" />
-      <path
-         d="m 147.81143,-586.70895 v -5.46251 q 0,-0.6175 -0.285,-0.855 -0.285,-0.285 -0.9975,-0.285 h -4.18001 q -5.60501,0 -5.60501,-5.32001 v -6.88752 q 0,-5.22501 5.98501,-5.22501 h 5.79501 q 5.98502,0 5.98502,5.22501 v 3.94251 h -6.79252 v -2.99251 q 0,-1.1875 -1.2825,-1.1875 h -1.615 q -1.28251,0 -1.28251,1.1875 v 5.32002 q 0,0.6175 0.285,0.9025 0.28501,0.2375 0.99751,0.2375 h 4.08501 q 3.04,0 4.37,1.33 1.33001,1.2825 1.33001,3.84751 v 7.12501 q 0,5.27251 -5.98502,5.27251 h -5.74751 q -6.03251,0 -6.03251,-5.27251 v -3.895 h 6.79251 v 2.9925 q 0,1.1875 1.28251,1.1875 h 1.615 q 1.2825,0 1.2825,-1.1875 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1200" />
-      <path
-         d="m 185.70641,-610.744 v 4.98751 h -5.55751 v 25.22255 h -6.79252 v -25.22255 h -5.51001 v -4.98751 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1202" />
-      <path
-         d="m 201.09142,-610.744 h 6.79251 v 24.93755 q 0,5.27251 -6.03251,5.27251 h -6.36501 q -5.98501,0 -5.98501,-5.27251 V -610.744 h 6.79251 v 24.03505 q 0,1.1875 1.235,1.1875 h 2.28001 q 1.2825,0 1.2825,-1.1875 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1204" />
-      <path
-         d="m 213.57885,-610.744 h 12.44503 q 5.98501,0 5.98501,5.22501 v 9.16752 q 0,5.27251 -5.98501,5.27251 h -5.70002 v 10.54502 h -6.74501 z m 11.63752,13.49003 v -7.31502 q 0,-1.1875 -1.235,-1.1875 h -3.65751 v 9.69002 h 3.65751 q 1.235,0 1.235,-1.1875 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1206" />
-      <path
-         d="m 236.84887,-610.744 h 6.74501 v 30.21006 h -6.74501 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';fill:#227c9d;fill-opacity:1;stroke-width:1.18751"
-         id="path1208" />
+       id="layer2"
+       transform="translate(-554.79818,307.60997)">
+      <g
+         aria-label="CIDADES TUPI"
+         id="g1210"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:47.5001px;line-height:1.25;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';letter-spacing:1.46749px;fill:#227c9d;fill-opacity:1;stroke:none;stroke-width:1.18751"
+         transform="matrix(0.36998842,0,0,0.36998842,552.99952,-60.557427)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6045px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#227c9d;fill-opacity:1;stroke:none;stroke-width:0.849203"
+           x="3.7872524"
+           y="-649.55377"
+           id="text854"><tspan
+             id="tspan852"
+             x="3.7872524"
+             y="-649.55377"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203">CIDADES TUPI GUARANI</tspan></text>
+      </g>
+      <g
+         id="layer3" />
+    </g>
+  </g>
+  <g
+     id="layer5">
+    <g
+       id="layer2-1"
+       transform="translate(-554.79818,307.60997)">
+      <g
+         aria-label="CIDADES TUPI"
+         id="g1210-1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:47.5001px;line-height:1.25;font-family:Teko;-inkscape-font-specification:'Teko Semi-Bold';letter-spacing:1.46749px;fill:#227c9d;fill-opacity:1;stroke:none;stroke-width:1.18751"
+         transform="matrix(0.36998842,0,0,0.36998842,552.99952,-60.557427)">
+        <g
+           aria-label="CIDADES TUPI GUARANI"
+           id="text854-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6045px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#227c9d;fill-opacity:1;stroke:none;stroke-width:0.849203">
+          <path
+             d="m 13.512782,-661.85371 h -2.631614 v -2.74603 q 0,-0.51488 -0.171627,-0.6579 -0.143022,-0.17163 -0.657903,-0.17163 H 8.5928084 q -0.514881,0 -0.686508,0.17163 -0.171627,0.14302 -0.171627,0.6579 v 12.21412 q 0,0.51488 0.171627,0.68651 0.171627,0.14302 0.686508,0.14302 h 1.4588296 q 0.514881,0 0.657903,-0.14302 0.171627,-0.17163 0.171627,-0.68651 v -2.71742 h 2.631614 v 3.03207 q 0,2.5458 -2.688823,2.5458 H 7.7918824 q -2.6602185,0 -2.6602185,-2.5458 v -12.87202 q 0,-2.5172 2.6602185,-2.5172 h 3.0320766 q 2.688823,0 2.688823,2.5172 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path913" />
+          <path
+             d="m 17.754878,-667.46019 h 2.574405 v 17.90642 h -2.574405 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path915" />
+          <path
+             d="m 25.057659,-667.46019 h 6.235781 q 2.660218,0 2.660218,2.5172 v 12.87202 q 0,2.5172 -2.660218,2.5172 h -6.235781 z m 6.29299,15.04597 v -12.18552 q 0,-0.51488 -0.171627,-0.6579 -0.171627,-0.17163 -0.686508,-0.17163 h -2.831846 v 13.84458 h 2.831846 q 0.514881,0 0.686508,-0.14302 0.171627,-0.17163 0.171627,-0.68651 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path917" />
+          <path
+             d="m 44.831993,-649.55377 -0.715113,-4.14765 h -3.775794 l -0.657903,4.14765 h -2.574405 l 3.175099,-17.90642 h 3.74719 l 3.403935,17.90642 z m -4.176257,-6.23578 h 3.11789 l -1.630456,-9.43949 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path919" />
+          <path
+             d="m 50.790342,-667.46019 h 6.235781 q 2.660218,0 2.660218,2.5172 v 12.87202 q 0,2.5172 -2.660218,2.5172 h -6.235781 z m 6.29299,15.04597 v -12.18552 q 0,-0.51488 -0.171627,-0.6579 -0.171627,-0.17163 -0.686508,-0.17163 h -2.831846 v 13.84458 h 2.831846 q 0.514881,0 0.686508,-0.14302 0.171627,-0.17163 0.171627,-0.68651 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path921" />
+          <path
+             d="m 66.588649,-651.6419 h 5.177414 v 2.08813 h -7.780424 v -17.90642 h 7.580193 v 2.08813 h -4.977183 v 5.52067 h 4.119048 v 2.08813 h -4.119048 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path923" />
+          <path
+             d="m 80.413242,-652.47143 v -4.37649 q 0,-0.51488 -0.171627,-0.6579 -0.143022,-0.17163 -0.657903,-0.17163 h -2.116733 q -2.603009,0 -2.603009,-2.5458 v -4.71974 q 0,-2.5172 2.660218,-2.5172 h 2.803241 q 2.660218,0 2.660218,2.5172 v 2.63161 h -2.603009 v -2.23115 q 0,-0.51488 -0.171627,-0.6579 -0.171627,-0.17163 -0.686508,-0.17163 h -1.201389 q -0.514881,0 -0.686508,0.17163 -0.171627,0.14302 -0.171627,0.6579 v 3.97603 q 0,0.51488 0.171627,0.6865 0.171627,0.14303 0.686508,0.14303 h 2.088128 q 2.631614,0 2.631614,2.51719 v 5.14881 q 0,2.5172 -2.688823,2.5172 h -2.774636 q -2.660218,0 -2.660218,-2.5172 v -2.63161 h 2.603009 v 2.23115 q 0,0.51488 0.171627,0.68651 0.171627,0.14302 0.686508,0.14302 h 1.201389 q 0.514881,0 0.657903,-0.14302 0.171627,-0.17163 0.171627,-0.68651 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path925" />
+          <path
+             d="m 99.910131,-667.46019 v 2.08813 h -3.003472 v 15.81829 h -2.574405 v -15.81829 h -3.003473 v -2.08813 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path927" />
+          <path
+             d="m 108.87198,-667.46019 h 2.60301 v 15.38922 q 0,2.5172 -2.68882,2.5172 h -3.1751 q -2.68882,0 -2.68882,-2.5172 v -15.38922 h 2.60301 v 14.98876 q 0,0.51488 0.17162,0.68651 0.17163,0.14302 0.68651,0.14302 h 1.63046 q 0.54348,0 0.68651,-0.14302 0.17162,-0.17163 0.17162,-0.68651 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path929" />
+          <path
+             d="m 115.83153,-667.46019 h 5.86392 q 2.66022,0 2.66022,2.5172 v 5.94973 q 0,2.5172 -2.66022,2.5172 h -3.28952 v 6.92229 h -2.5744 z m 5.94973,8.06647 v -5.14881 q 0,-0.51488 -0.17163,-0.6579 -0.17162,-0.17163 -0.6865,-0.17163 h -2.5172 v 6.83648 h 2.5172 q 0.51488,0 0.6865,-0.17163 0.17163,-0.17163 0.17163,-0.68651 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path931" />
+          <path
+             d="m 128.3403,-667.46019 h 2.5744 v 17.90642 h -2.5744 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path933" />
+          <path
+             d="m 149.43907,-662.22557 h -2.60301 v -2.37417 q 0,-0.51488 -0.17163,-0.6579 -0.17163,-0.17163 -0.68651,-0.17163 h -1.45883 q -0.51488,0 -0.6865,0.17163 -0.17163,0.14302 -0.17163,0.6579 v 12.21412 q 0,0.51488 0.17163,0.68651 0.17162,0.14302 0.6865,0.14302 h 1.45883 q 0.51488,0 0.68651,-0.14302 0.17163,-0.17163 0.17163,-0.68651 v -4.37649 h -1.43023 v -2.00231 h 4.03324 v 6.69345 q 0,2.5458 -2.66022,2.5458 h -3.06068 q -2.66022,0 -2.66022,-2.5458 v -12.87202 q 0,-2.5172 2.66022,-2.5172 h 3.06068 q 2.66022,0 2.66022,2.5172 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path935" />
+          <path
+             d="m 159.4593,-667.46019 h 2.60301 v 15.38922 q 0,2.5172 -2.68882,2.5172 h -3.1751 q -2.68882,0 -2.68882,-2.5172 v -15.38922 h 2.60301 v 14.98876 q 0,0.51488 0.17162,0.68651 0.17163,0.14302 0.68651,0.14302 h 1.63046 q 0.54348,0 0.68651,-0.14302 0.17162,-0.17163 0.17162,-0.68651 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path937" />
+          <path
+             d="m 172.99787,-649.55377 -0.71511,-4.14765 h -3.7758 l -0.6579,4.14765 h -2.5744 l 3.1751,-17.90642 h 3.74719 l 3.40393,17.90642 z m -4.17626,-6.23578 h 3.11789 l -1.63045,-9.43949 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path939" />
+          <path
+             d="m 181.47342,-656.79071 v 7.23694 h -2.5744 v -17.90642 h 5.86392 q 2.66022,0 2.66022,2.5172 v 5.60648 q 0,2.17394 -1.91651,2.48859 l 2.83185,7.29415 h -2.77464 l -2.68882,-7.23694 z m 0,-8.58135 v 6.52183 h 2.5172 q 0.51488,0 0.6865,-0.14303 0.17163,-0.17162 0.17163,-0.6865 v -4.86277 q 0,-0.51488 -0.17163,-0.6579 -0.17162,-0.17163 -0.6865,-0.17163 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path941" />
+          <path
+             d="m 198.27293,-649.55377 -0.71512,-4.14765 h -3.77579 l -0.6579,4.14765 h -2.57441 l 3.1751,-17.90642 h 3.74719 l 3.40394,17.90642 z m -4.17626,-6.23578 h 3.11789 l -1.63046,-9.43949 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path943" />
+          <path
+             d="m 210.55286,-667.46019 h 2.37417 v 17.90642 h -2.60301 l -3.77579,-12.92924 v 12.92924 h -2.37418 v -17.90642 h 2.71743 l 3.66138,12.55738 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path945" />
+          <path
+             d="m 217.59823,-667.46019 h 2.57441 v 17.90642 h -2.57441 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;fill:#227c9d;fill-opacity:1;stroke-width:0.849203"
+             id="path947" />
+        </g>
+      </g>
+      <g
+         id="layer3-2" />
     </g>
   </g>
 </svg>

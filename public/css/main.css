@@ -215,11 +215,18 @@ html {
 }
 
 .onboarding__title {
-  font-size: 1rem;
-  font-weight: 600;
-  letter-spacing: 0.05rem;
   text-align: center;
   padding-bottom: 1.5rem;
+}
+
+.onboarding__title img {
+  width: 10rem;
+}
+
+@media only screen and (min-width: 640px) {
+  .onboarding__title img {
+    width: 13rem;
+  }
 }
 
 .onboarding__text {
@@ -316,12 +323,12 @@ html {
 }
 
 .app-info img {
-  width: 5rem;
+  width: 8rem;
 }
 
 @media only screen and (min-width: 640px) {
   .app-info img {
-    width: 6rem;
+    width: 10rem;
   }
 }
 
