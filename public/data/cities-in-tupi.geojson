@@ -51,6 +51,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Acará",
+        "state": "PA",
+        "name_id": "acara_pa"
+      },
+      "geometry": {
+        "coordinates": [-48.196944, -1.960833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Acopiara",
         "state": "CE",
         "name_id": "acopiara_ce"
@@ -81,6 +93,18 @@
       },
       "geometry": {
         "coordinates": [-37.07, -10.91],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araçás",
+        "state": "BA",
+        "name_id": "aracas_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.202778, -12.22],
         "type": "Point"
       }
     },
@@ -1965,6 +1989,18 @@
       },
       "geometry": {
         "coordinates": [-51.818056, -3.824722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouricuri",
+        "state": "PE",
+        "name_id": "ouricuri_pe"
+      },
+      "geometry": {
+        "coordinates": [-40.081667, -7.8825],
         "type": "Point"
       }
     },

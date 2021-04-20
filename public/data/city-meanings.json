@@ -75,6 +75,22 @@
     }
   },
   {
+    "name_id": "acara_pa",
+    "meaning": {
+      "pt": [
+        "Aquele que morde"
+      ],
+      "en": [
+        "The one that bites"
+      ],
+      "tu": [
+        [
+          "acará"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "acarau_ce",
     "meaning": {
       "pt": [
@@ -162,6 +178,22 @@
         [
           "ara",
           "katu"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "aracas_ba",
+    "meaning": {
+      "pt": [
+        "Muitos araçás"
+      ],
+      "en": [
+        "Many cattley guava"
+      ],
+      "tu": [
+        [
+          "araçá"
         ]
       ]
     }
@@ -1374,7 +1406,7 @@
         "Canoa-marreca"
       ],
       "en": [
-        ""
+        "black-bellied whistling duck (Dendrocygna autumnalis)"
       ],
       "tu": [
         [
@@ -1390,7 +1422,7 @@
         "Abelha, vespa"
       ],
       "en": [
-        ""
+        "bee, wasp"
       ],
       "tu": [
         [
@@ -2101,7 +2133,7 @@
         "Navio"
       ],
       "en": [
-        ""
+        "Ship"
       ],
       "tu": [
         [
@@ -2118,7 +2150,7 @@
         "Navio"
       ],
       "en": [
-        ""
+        "Ship"
       ],
       "tu": [
         [
@@ -3684,6 +3716,35 @@
     }
   },
   {
+    "name_id": "ouricuri_pe",
+    "meaning": {
+      "pt": [
+        "O ouricuri (espécie de palmeira)",
+        "O cacho repetido",
+        "O que dá cachos de contínuo"
+      ],
+      "en": [
+        "The ouricury palm (species of palm tree)",
+        "The repeated bunch",
+        "Which gives bunches continuously"
+      ],
+      "tu": [
+        [
+          "airí",
+          "kuri"
+        ],
+        [
+          "uri",
+          "kuri"
+        ],
+        [
+          "uri",
+          "kuri"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "pacatupa_ce",
     "meaning": {
       "pt": [
@@ -4064,7 +4125,7 @@
         "(Ponta) bonita"
       ],
       "en": [
-        ""
+        "Beautiful (tip)"
       ],
       "tu": [
         [
@@ -4080,7 +4141,7 @@
         "Grandes olhos brilhantes"
       ],
       "en": [
-        ""
+        "Big bright eyes"
       ],
       "tu": [
         [
@@ -4098,7 +4159,7 @@
         "Inflamação das pálpebras"
       ],
       "en": [
-        ""
+        "Inflammation of the eyelids"
       ],
       "tu": [
         [
@@ -4115,7 +4176,7 @@
         "Fruto que faz saltar o olho (fruto da árvore sapucaia)"
       ],
       "en": [
-        ""
+        "Fruit whose eye springs (fruit of the sapucaia tree - trees from the tropical Americas)"
       ],
       "tu": [
         [
