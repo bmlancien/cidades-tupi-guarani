@@ -640,7 +640,9 @@
         "Rio da lagoa"
       ],
       "en": [
-        "?"
+        "Waterfall",
+        "Fruit basket",
+        "Lagoon river"
       ],
       "tu": [
         [
@@ -661,11 +663,12 @@
     "name_id": "bertioga_sp",
     "meaning": {
       "pt": [
-        "Casa do peixa branco",
+        "Casa do peixe branco",
         "Casa do muriqui"
       ],
       "en": [
-        "?"
+        "White fish house",
+        "Woolly spider monkey house"
       ],
       "tu": [
         [
@@ -686,7 +689,7 @@
         "Rio do mosquito"
       ],
       "en": [
-        ""
+        "Mosquito river"
       ],
       "tu": [
         [
@@ -717,10 +720,10 @@
     "name_id": "birigui_sp",
     "meaning": {
       "pt": [
-        "Mosqua pequena"
+        "Mosca pequena"
       ],
       "en": [
-        ""
+        "Small fly"
       ],
       "tu": [
         [
@@ -737,7 +740,7 @@
         "Palmeira bocaiúva"
       ],
       "en": [
-        ""
+        "Bocaiúva palm tree"
       ],
       "tu": [
         [
@@ -753,7 +756,7 @@
         "Local de muitas cobras"
       ],
       "en": [
-        ""
+        "Place of many snakes"
       ],
       "tu": [
         [
@@ -786,7 +789,7 @@
         "Terra sem habitantes"
       ],
       "en": [
-        ""
+        "Land without inhabitants"
       ],
       "tu": [
         [
@@ -827,7 +830,7 @@
         "Bons ares"
       ],
       "en": [
-        ""
+        "Good air"
       ],
       "tu": [
         [
@@ -844,7 +847,7 @@
         "Terra dos buris (palmeira)"
       ],
       "en": [
-        ""
+        "Buris land (palm tree)"
       ],
       "tu": [
         [
@@ -879,7 +882,8 @@
         "Mata redonda"
       ],
       "en": [
-        "?"
+        "Beautiful woods",
+        "Round woods"
       ],
       "tu": [
         [
@@ -1102,7 +1106,7 @@
         "Rio das Capivaras"
       ],
       "en": [
-        ""
+        "Capybaras' river"
       ],
       "tu": [
         [
@@ -1532,7 +1536,7 @@
         "Caraguatá, Gravatá (Nome de uma planta do gênero Bromelia)"
       ],
       "en": [
-        ""
+        "Bromelia pinguin, Caraguatá (plant name of the genus Bromelia)"
       ],
       "tu": [
         [
@@ -1548,7 +1552,7 @@
         "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)"
       ],
       "en": [
-        ""
+        "Caraguatás river (plant name of the genus Bromelia)"
       ],
       "tu": [
         [
@@ -1565,7 +1569,7 @@
         "Gravatá (Nome de uma planta do gênero Bromelia)"
       ],
       "en": [
-        ""
+        "Bromelia pinguin, Gravatá (plant name of the genus Bromelia)"
       ],
       "tu": [
         [
@@ -1581,7 +1585,7 @@
         "Água de veado"
       ],
       "en": [
-        ""
+        "Deer water"
       ],
       "tu": [
         [
@@ -1598,7 +1602,7 @@
         "Cipó de amarrar"
       ],
       "en": [
-        ""
+        "Vine for tying"
       ],
       "tu": [
         [
@@ -1649,7 +1653,7 @@
         "Caminho para a enseada"
       ],
       "en": [
-        ""
+        "Path to the cove"
       ],
       "tu": [
         [
@@ -1927,7 +1931,7 @@
         "Saída dos bagres"
       ],
       "en": [
-        ""
+        "Catfish emergence"
       ],
       "tu": [
         [
@@ -1944,7 +1948,7 @@
         "A ave que canta muito"
       ],
       "en": [
-        ""
+        "The bird that sings a lot"
       ],
       "tu": [
         [
@@ -1961,7 +1965,7 @@
         "Rio das roças/plantações"
       ],
       "en": [
-        ""
+        "River of the small farms/plantations"
       ],
       "tu": [
         [
@@ -3041,7 +3045,7 @@
         "Rio dos jacarés"
       ],
       "en": [
-        ""
+        "Alligators river"
       ],
       "tu": [
         [
@@ -3127,7 +3131,8 @@
         "Rio ruim das onças"
       ],
       "en": [
-        "?"
+        "Angry jaguar river",
+        "Bad river of the jaguars"
       ],
       "tu": [
         [
@@ -3150,7 +3155,7 @@
         "Abelha"
       ],
       "en": [
-        ""
+        "Bee"
       ],
       "tu": [
         [
@@ -3166,7 +3171,7 @@
         "Rio preto das onças"
       ],
       "en": [
-        ""
+        "Black river of the jaguars"
       ],
       "tu": [
         [
@@ -3184,7 +3189,7 @@
         "Peixe"
       ],
       "en": [
-        ""
+        "Fish"
       ],
       "tu": [
         [
@@ -3355,10 +3360,10 @@
     "name_id": "mamanguape_pb",
     "meaning": {
       "pt": [
-        "Na enseada dos mamangás"
+        "Na enseada dos mamangás (variedade de arbustos)"
       ],
       "en": [
-        ""
+        "In the cove of the mamangás (variety of bushes)"
       ],
       "tu": [
         [
@@ -3376,7 +3381,7 @@
         "Mãe dos Deuses"
       ],
       "en": [
-        ""
+        "Mother of the Gods"
       ],
       "tu": [
         [
@@ -3392,7 +3397,7 @@
         "Ajuntamento de mangarás"
       ],
       "en": [
-        ""
+        "Aggregation of arrowleaf elephant ear"
       ],
       "tu": [
         [
@@ -3671,7 +3676,7 @@
         "Rio grande"
       ],
       "en": [
-        ""
+        "Large river"
       ],
       "tu": [
         [
@@ -3791,7 +3796,7 @@
         "Rio bom"
       ],
       "en": [
-        ""
+        "Good river"
       ],
       "tu": [
         [
