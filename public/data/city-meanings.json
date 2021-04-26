@@ -95,7 +95,7 @@
     "meaning": {
       "pt": [
         "Rio das garças",
-        "Rio do acará"
+        "Rio do acará (peixe)"
       ],
       "en": [
         "Herons river",
@@ -186,10 +186,10 @@
     "name_id": "aracas_ba",
     "meaning": {
       "pt": [
-        "Muitos araçás"
+        "Muitos araçás (variedade de planta frutífera, bem como o seu fruto)"
       ],
       "en": [
-        "Many cattley guava"
+        "Many cattley guava (variety of fruit plant, as well as its fruit)"
       ],
       "tu": [
         [
@@ -202,10 +202,10 @@
     "name_id": "aracatuba_sp",
     "meaning": {
       "pt": [
-        "Muitos araçás"
+        "Muitos araçás (variedade de planta frutífera, bem como o seu fruto)"
       ],
       "en": [
-        "Many cattley guava"
+        "Many cattley guava (variety of fruit plant, as well as its fruit)"
       ],
       "tu": [
         [
@@ -219,10 +219,10 @@
     "name_id": "aracoiaba_pe",
     "meaning": {
       "pt": [
-        "Manto de penas de guarás"
+        "Manto de penas de guarás (ave)"
       ],
       "en": [
-        "Scarlet ibis feathers cloak"
+        "Scarlet ibis feathers cloak (bird)"
       ],
       "tu": [
         [
@@ -412,7 +412,7 @@
     "name_id": "aruja_sp",
     "meaning": {
       "pt": [
-        "Abundância de arus"
+        "Abundância de arus (sapo)"
       ],
       "en": [
         "Abundance of star-fingered toad"
@@ -529,10 +529,10 @@
     "name_id": "bacurituba_ma",
     "meaning": {
       "pt": [
-        "Lugar onde há muitos bacuris"
+        "Lugar onde há muitos bacuris (fruto)"
       ],
       "en": [
-        "Place where there are many bacuri"
+        "Place where there are many bacuris (fruit)"
       ],
       "tu": [
         [
@@ -664,7 +664,7 @@
     "meaning": {
       "pt": [
         "Casa do peixe branco",
-        "Casa do muriqui"
+        "Casa do muriqui (espécie de macaco)"
       ],
       "en": [
         "White fish house",
@@ -703,10 +703,10 @@
     "name_id": "biguacu_sc",
     "meaning": {
       "pt": [
-        "Biguá grande"
+        "Biguá grande (ave aquática)"
       ],
       "en": [
-        "Big cormorant"
+        "Big cormorant (water bird)"
       ],
       "tu": [
         [
@@ -904,7 +904,7 @@
         "Raiz de erva mate"
       ],
       "en": [
-        ""
+        "Yerba mate root"
       ],
       "tu": [
         [
@@ -921,7 +921,7 @@
         "Ajuntamento de mata"
       ],
       "en": [
-        ""
+        "Aggregation of woods"
       ],
       "tu": [
         [
@@ -938,7 +938,7 @@
         "Passagem na mata"
       ],
       "en": [
-        ""
+        "Passage in the woods"
       ],
       "tu": [
         [
@@ -955,7 +955,7 @@
         "Mato grande"
       ],
       "en": [
-        ""
+        "Big bush"
       ],
       "tu": [
         [
@@ -972,7 +972,7 @@
         "Planta doce"
       ],
       "en": [
-        ""
+        "Sweet plant"
       ],
       "tu": [
         [
@@ -989,7 +989,7 @@
         "Fruto maduro, dourado"
       ],
       "en": [
-        ""
+        "Ripe fruit, golden"
       ],
       "tu": [
         [
@@ -1005,7 +1005,7 @@
         "Boca do mato"
       ],
       "en": [
-        ""
+        "Point of entry into the woods"
       ],
       "tu": [
         [
@@ -1021,7 +1021,7 @@
         "Cachaporra-do-gentio (árvore)"
       ],
       "en": [
-        ""
+        "Cachaporra-do-gentio (tree)"
       ],
       "tu": [
         [
@@ -1051,10 +1051,10 @@
     "name_id": "camaragibe_pe",
     "meaning": {
       "pt": [
-        "Rio dos camarás"
+        "Rio dos camarás (arbusto)"
       ],
       "en": [
-        ""
+        "River of the common lantana (bush)"
       ],
       "tu": [
         [
@@ -1072,7 +1072,7 @@
         "Degrau da floresta"
       ],
       "en": [
-        ""
+        "Forest step"
       ],
       "tu": [
         [
@@ -1086,10 +1086,10 @@
     "name_id": "canguaterama_rn",
     "meaning": {
       "pt": [
-        "Terra de canguás"
+        "Terra de canguás (tipo de peixe)"
       ],
       "en": [
-        ""
+        "Canguá land (type of fish)"
       ],
       "tu": [
         [
@@ -1123,7 +1123,7 @@
         "Roça de milho"
       ],
       "en": [
-        ""
+        "Small corn farm"
       ],
       "tu": [
         [
@@ -1136,10 +1136,10 @@
     "name_id": "caraguatatuba_sp",
     "meaning": {
       "pt": [
-        "Ajuntamento de mata dura"
+        "Ajuntamento de gravatás (nome de uma planta do gênero Bromelia)"
       ],
       "en": [
-        ""
+        "Aggregation of gravatás (plant name of the genus Bromelia)"
       ],
       "tu": [
         [
@@ -1339,7 +1339,8 @@
         "Cobras"
       ],
       "en": [
-        "?"
+        "River of the snakes",
+        "Snakes"
       ],
       "tu": [
         [
@@ -1359,7 +1360,7 @@
         "Cobra grande"
       ],
       "en": [
-        ""
+        "Big snake"
       ],
       "tu": [
         [
@@ -1376,7 +1377,7 @@
         "Campo grande"
       ],
       "en": [
-        ""
+        "Large field"
       ],
       "tu": [
         [
@@ -1393,7 +1394,7 @@
         "Campo pequeno"
       ],
       "en": [
-        ""
+        "Small field"
       ],
       "tu": [
         [
@@ -1407,10 +1408,10 @@
     "name_id": "erere_ce",
     "meaning": {
       "pt": [
-        "Canoa-marreca"
+        "Canoa-marreca (ave do tipo marreco)"
       ],
       "en": [
-        "black-bellied whistling duck (Dendrocygna autumnalis)"
+        "black-bellied whistling duck"
       ],
       "tu": [
         [
@@ -1549,7 +1550,7 @@
     "name_id": "gravatai_rs",
     "meaning": {
       "pt": [
-        "Rio dos caraguatás (Nome de uma planta do gênero Bromelia)"
+        "Rio dos caraguatás (nome de uma planta do gênero Bromelia)"
       ],
       "en": [
         "Caraguatás river (plant name of the genus Bromelia)"
@@ -1566,7 +1567,7 @@
     "name_id": "gravatal_sc",
     "meaning": {
       "pt": [
-        "Gravatá (Nome de uma planta do gênero Bromelia)"
+        "Gravatá (nome de uma planta do gênero Bromelia)"
       ],
       "en": [
         "Bromelia pinguin, Gravatá (plant name of the genus Bromelia)"
@@ -3394,10 +3395,10 @@
     "name_id": "mangaratiba_rj",
     "meaning": {
       "pt": [
-        "Ajuntamento de mangarás"
+        "Ajuntamento de mangarás (planta da família das aráceas)"
       ],
       "en": [
-        "Aggregation of arrowleaf elephant ear"
+        "Aggregation of arrowleaf elephant ear (plant of the araceae family)"
       ],
       "tu": [
         [
