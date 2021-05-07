@@ -126,7 +126,7 @@ html {
   flex-direction: row;
   flex-wrap: nowrap;
   letter-spacing: .02rem;
-  padding: 0 1.5rem .25rem .85rem;
+  padding: 0 1.5rem .25rem 1rem;
 }
 
 .mapboxgl-map .popup__left {
