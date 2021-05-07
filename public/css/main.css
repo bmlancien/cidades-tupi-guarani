@@ -104,21 +104,21 @@ html {
 }
 
 .mapboxgl-map .popup__city {
-  font-size: 1.25rem;
-  font-weight: 400;
+  font-size: 1rem;
+  font-weight: 300;
   color: #1f2421;
   padding: 1rem 1.5rem .75rem 1rem;
   letter-spacing: .01rem;
 }
 
 .mapboxgl-map .popup__city-name {
-  font-size: .875rem;
-  letter-spacing: .03rem;
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
   font-weight: 700;
-  color: #fff;
-  background-color: #fe6d73;
+  color: #227c9d;
   padding: .5rem 1.5rem .5rem 1rem;
-  margin-bottom: .75rem;
+  margin-bottom: 0;
+  border-top: 1px solid #ECECEC;
 }
 
 .mapboxgl-map .popup__words {
@@ -137,12 +137,9 @@ html {
 .mapboxgl-map .popup__word-tupi {
   display: inline-block;
   align-self: flex-start;
-  font-size: .875rem;
-  font-weight: 300;
+  font-size: 0.875rem;
+  font-weight: 400;
   color: #1f2421;
-  background-color: #ffcb77;
-  padding: .25rem .5rem;
-  border-radius: 30px;
   margin-bottom: .5rem;
 }
 
@@ -153,7 +150,6 @@ html {
   color: #777;
   padding-left: .5rem;
   margin-bottom: .5rem;
-  transform: translateY(4px);
 }
 
 .onboarding {
@@ -505,7 +501,7 @@ main.privacy .legal-links a {
 }
 
 body, html {
-  font-family: Roboto, Arial, sans-serif;
+  font-family: Lato, Arial, sans-serif;
   color: #1f2421;
 }
 
@@ -522,5 +518,9 @@ a:visited {
   text-decoration: none;
   font-weight: 700;
   color: #fe6d73;
+}
+
+.popup {
+  font-family: Lato, "Helvetica Neue", Arial, sans-serif;
 }
 /*# sourceMappingURL=main.css.map */

@@ -1,5 +1,5 @@
 body, html {
-  font-family: Roboto, Arial, sans-serif;
+  font-family: Lato, Arial, sans-serif;
   color: $black;
 }
 
@@ -16,4 +16,8 @@ a:visited {
   text-decoration: none;
   font-weight: 700;
   color: $primary-color-3;
+}
+
+.popup {
+  font-family: Lato, "Helvetica Neue", Arial, sans-serif;
 }
