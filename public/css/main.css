@@ -91,7 +91,7 @@ html {
 }
 
 .mapboxgl-popup .mapboxgl-popup-content .popup__top {
-  padding-bottom: 0;
+  padding-bottom: .5rem;
 }
 
 .mapboxgl-map .mapboxgl-popup {
@@ -107,17 +107,18 @@ html {
   font-size: 1rem;
   font-weight: 300;
   color: #1f2421;
-  padding: 1rem 1.5rem .75rem 1rem;
+  padding: 1rem 1.5rem .5rem 1rem;
   letter-spacing: .01rem;
 }
 
 .mapboxgl-map .popup__city-name {
   font-size: 1rem;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.02rem;
   font-weight: 700;
   color: #227c9d;
-  padding: .5rem 1.5rem .5rem 1rem;
+  padding: .75rem 1.5rem .5rem 1rem;
   margin-bottom: 0;
+  margin-top: .25rem;
   border-top: 1px solid #ECECEC;
 }
 
@@ -126,7 +127,7 @@ html {
   flex-direction: row;
   flex-wrap: nowrap;
   letter-spacing: .02rem;
-  padding: 0 1.5rem .25rem 1rem;
+  padding: 0 1.5rem 0 1rem;
 }
 
 .mapboxgl-map .popup__left {
