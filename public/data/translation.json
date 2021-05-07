@@ -93,7 +93,7 @@
         "o guaruçá (caranguejo)"
       ],
       [
-        "the atlantic ghost crab (crab)"
+        "the atlantic ghost crab"
       ]
     ],
     "aíba": [
@@ -101,7 +101,15 @@
         "bravo, ruim"
       ],
       [
-        "brave, bad"
+        "angry, bad"
+      ]
+    ],
+    "airy": [
+      [
+        "variedade de palmeira"
+      ],
+      [
+        "variety of palm tree"
       ]
     ],
     "aíua": [
@@ -170,10 +178,10 @@
     ],
     "araçá": [
       [
-        "o araçá"
+        "o araçá (variedade de planta frutífera, bem como o seu fruto)"
       ],
       [
-        "the cattley guava"
+        "the cattley guava (variety of fruit plant, as well as its fruit)"
       ]
     ],
     "ará": [
@@ -202,10 +210,10 @@
     ],
     "ari'raña": [
       [
-        "a onça d'água, a arinhanha"
+        "a onça d'água, a ariranha"
       ],
       [
-        "the giant river otter, the giant otter"
+        "the water jaguar, the giant otter"
       ]
     ],
     "aru": [
@@ -266,10 +274,10 @@
     ],
     "bacuri": [
       [
-        "o bacuri"
+        "o bacuri (fruta do Norte do Brasil)"
       ],
       [
-        "the bacuri"
+        "the bacuri (fruit from the North of Brazil)"
       ]
     ],
     "bana": [
@@ -298,7 +306,7 @@
     ],
     "biguá": [
       [
-        "o biguá"
+        "o biguá, o corvo-marinho, o cormorão, o mergulhão"
       ],
       [
         "the cormorant"
@@ -346,10 +354,10 @@
     ],
     "buriqui": [
       [
-        "o muriqui"
+        "o muriqui (espécie de macaco)"
       ],
       [
-        "the muriqui (woolly spider monkeys)"
+        "the muriqui (woolly spider monkey)"
       ]
     ],
     "byra": [
@@ -389,7 +397,7 @@
         "o camará (arbusto)"
       ],
       [
-        "lantana camara (bush)"
+        "common lantana (bush)"
       ]
     ],
     "canguá": [
@@ -506,10 +514,10 @@
     ],
     "ererê": [
       [
-        "canoa-marreca (ave)"
+        "canoa-marreca (ave do tipo marreco)"
       ],
       [
-        "?"
+        "black-bellied whistling duck"
       ]
     ],
     "etama": [
@@ -517,7 +525,7 @@
         "a terra natal, a pátria"
       ],
       [
-        "?"
+        "the homeland"
       ]
     ],
     "etá": [
@@ -525,15 +533,15 @@
         "muitos"
       ],
       [
-        "?"
+        "many"
       ]
     ],
     "ete": [
       [
-        "bom, (superlativa)"
+        "bom (superlativo)"
       ],
       [
-        "?"
+        "good (superlative)"
       ]
     ],
     "eté": [
@@ -557,7 +565,7 @@
         "sem"
       ],
       [
-        "?"
+        "without"
       ]
     ],
     "gara": [
@@ -565,7 +573,7 @@
         "a canoa"
       ],
       [
-        "?"
+        "the canoe"
       ]
     ],
     "guá": [
@@ -573,7 +581,7 @@
         "vale, baixada"
       ],
       [
-        "?"
+        "valley, lowland"
       ]
     ],
     "guaba": [
@@ -581,7 +589,7 @@
         "comestível"
       ],
       [
-        "?"
+        "edible"
       ]
     ],
     "gûaîanã": [
@@ -589,7 +597,7 @@
         "índios guaianás"
       ],
       [
-        "?"
+        "Guayaná indians"
       ]
     ],
     "guaimbê": [
@@ -597,7 +605,7 @@
         "cipó de amarrar"
       ],
       [
-        "?"
+        "vine for tying"
       ]
     ],
     "guajará": [
@@ -605,7 +613,7 @@
         "árvore da Amazônia"
       ],
       [
-        "?"
+        "tree from the Amazon"
       ]
     ],
     "guara": [
@@ -613,7 +621,7 @@
         "o indivíduo"
       ],
       [
-        "?"
+        "the individual"
       ]
     ],
     "guará": [
@@ -621,7 +629,7 @@
         "a garça"
       ],
       [
-        "?"
+        "the heron"
       ]
     ],
     "gûará": [
@@ -629,7 +637,7 @@
         "o lobo-guará"
       ],
       [
-        "?"
+        "the maned wolf"
       ]
     ],
     "gûasu": [
@@ -637,7 +645,7 @@
         "grande"
       ],
       [
-        "?"
+        "big"
       ]
     ],
     "gwa'su": [
@@ -645,7 +653,7 @@
         "o veado"
       ],
       [
-        "?"
+        "the deer"
       ]
     ],
     "guiana": [
@@ -653,7 +661,7 @@
         "terra de muitas águas"
       ],
       [
-        "?"
+        "land of many waters"
       ]
     ],
     "guirá": [
@@ -661,7 +669,7 @@
         "o pássaro"
       ],
       [
-        "?"
+        "the bird"
       ]
     ],
     "guiri": [
@@ -669,7 +677,7 @@
         "o bagre"
       ],
       [
-        "?"
+        "the catfish"
       ]
     ],
     "hu": [
@@ -677,7 +685,7 @@
         "negro, a água"
       ],
       [
-        "?"
+        "black, the water"
       ]
     ],
     "i": [
@@ -685,7 +693,7 @@
         "em"
       ],
       [
-        "?"
+        "in"
       ]
     ],
     "îá": [
@@ -693,7 +701,7 @@
         "a repleção, a fartura, a abundância"
       ],
       [
-        "?"
+        "the fullness, the profusion, the abundance"
       ]
     ],
     "îagûara": [
@@ -701,7 +709,7 @@
         "a onça"
       ],
       [
-        "?"
+        "the jaguar"
       ]
     ],
     "îakaré": [
@@ -709,15 +717,15 @@
         "o jacaré"
       ],
       [
-        "?"
+        "the alligator"
       ]
     ],
     "îaku": [
       [
-        "o jacu"
+        "o jacu (nome popular de aves do gênero Penelope)"
       ],
       [
-        "?"
+        "the guans (birds of the genus Penelope)"
       ]
     ],
     "îara": [
@@ -725,7 +733,7 @@
         "o senhor, a senhora"
       ],
       [
-        "?"
+        "the lord, the lady"
       ]
     ],
     "îasy": [
@@ -733,7 +741,7 @@
         "a lua"
       ],
       [
-        "?"
+        "the moon"
       ]
     ],
     "îate'i": [
@@ -741,7 +749,7 @@
         "a abelha"
       ],
       [
-        "?"
+        "the bee"
       ]
     ],
     "ikuia": [
@@ -749,7 +757,7 @@
         "a flecha-arpão"
       ],
       [
-        "?"
+        "the harpoon arrow"
       ]
     ],
     "imba-u": [
@@ -757,7 +765,7 @@
         "beber [água] da bica"
       ],
       [
-        "?"
+        "to drink [water] from the spout"
       ]
     ],
     "imbé": [
@@ -765,7 +773,7 @@
         "o cipó, guaimbé (planta)"
       ],
       [
-        "?"
+        "the vine, guaimbé (plant)"
       ]
     ],
     "inaîá": [
@@ -773,7 +781,7 @@
         "indaiá (palmeira)"
       ],
       [
-        "?"
+        "indaiá (palm tree)"
       ]
     ],
     "inhapim": [
@@ -781,7 +789,7 @@
         "amanhece"
       ],
       [
-        "?"
+        "it dawns"
       ]
     ],
     "ini": [
@@ -789,7 +797,7 @@
         "rede de fios, rede de dormir"
       ],
       [
-        "?"
+        "threads hammocks, sleeping hammock"
       ]
     ],
     "iperu": [
@@ -797,7 +805,7 @@
         "o tubarão"
       ],
       [
-        "?"
+        "the shark"
       ]
     ],
     "ipo'ú": [
@@ -813,7 +821,7 @@
         "o mel"
       ],
       [
-        "?"
+        "the honey"
       ]
     ],
     "itá": [
@@ -821,7 +829,7 @@
         "a pedra"
       ],
       [
-        "?"
+        "the rock"
       ]
     ],
     "itagybá": [
@@ -845,7 +853,7 @@
         "amarelo"
       ],
       [
-        "?"
+        "yellow"
       ]
     ],
     "îuka": [
@@ -853,7 +861,7 @@
         "podre"
       ],
       [
-        "?"
+        "rotten"
       ]
     ],
     "jaguar": [
@@ -861,7 +869,7 @@
         "a onça, o tigre"
       ],
       [
-        "?"
+        "the jaguar, the tiger"
       ]
     ],
     "jaguaré": [
@@ -885,7 +893,7 @@
         "a rã"
       ],
       [
-        "?"
+        "the frog"
       ]
     ],
     "júba": [
@@ -893,7 +901,7 @@
         "amarelo"
       ],
       [
-        "?"
+        "yellow"
       ]
     ],
     "jundiá": [
@@ -901,7 +909,7 @@
         "o bagre"
       ],
       [
-        "?"
+        "the catfish"
       ]
     ],
     "jy": [
@@ -909,7 +917,7 @@
         "o machado"
       ],
       [
-        "?"
+        "the axe"
       ]
     ],
     "ka'a": [
@@ -917,7 +925,7 @@
         "a folha, a mata, a erva"
       ],
       [
-        "?"
+        "the leaf, the woods, the herb"
       ]
     ],
     "kapibara": [
@@ -933,7 +941,7 @@
         "mato que fura"
       ],
       [
-        "?"
+        "bush that pierces"
       ]
     ],
     "karaîá": [
@@ -941,7 +949,7 @@
         "os carajás (grupo indígena)"
       ],
       [
-        "?"
+        "the Karajás (indigenous group)"
       ]
     ],
     "ka'îuru": [
@@ -949,7 +957,7 @@
         "boca do mato"
       ],
       [
-        "?"
+        "point of entry into the woods"
       ]
     ],
     "ku'ri": [
@@ -957,7 +965,7 @@
         "o pinheiro"
       ],
       [
-        "?"
+        "the pine tree"
       ]
     ],
     "kuruba": [
@@ -965,7 +973,7 @@
         "o grão"
       ],
       [
-        "?"
+        "the grain"
       ]
     ],
     "kaîa": [
@@ -1013,7 +1021,7 @@
         "a enseada"
       ],
       [
-        "?"
+        "the cove"
       ]
     ],
     "kûara": [
@@ -1021,7 +1029,7 @@
         "a toca, o buraco"
       ],
       [
-        "?"
+        "the lair, the hole"
       ]
     ],
     "kuru": [
@@ -1029,7 +1037,15 @@
         "a influência"
       ],
       [
-        "?"
+        "the influence"
+      ]
+    ],
+    "kuri": [
+      [
+        "novo, imaturo"
+      ],
+      [
+        "young, immature"
       ]
     ],
     "kuruk": [
@@ -1045,7 +1061,7 @@
         "o sapo"
       ],
       [
-        "?"
+        "the frog"
       ]
     ],
     "kyyaverá": [
@@ -1053,7 +1069,7 @@
         "rio da lontra brilhante"
       ],
       [
-        "?"
+        "shiny otter river"
       ]
     ],
     "ma": [
@@ -1117,7 +1133,7 @@
         "a chuva"
       ],
       [
-        "?"
+        "the rain"
       ]
     ],
     "manacá": [
@@ -1125,7 +1141,7 @@
         "nome de uma planta"
       ],
       [
-        "?"
+        "name of a plant"
       ]
     ],
     "manaós": [
@@ -1133,7 +1149,7 @@
         "mãe dos deuses"
       ],
       [
-        "?"
+        "mother of the gods"
       ]
     ],
     "mandi": [
@@ -1141,7 +1157,7 @@
         "o peixe"
       ],
       [
-        "?"
+        "the fish"
       ]
     ],
     "mangará": [
@@ -1149,7 +1165,7 @@
         "mangará (planta da família das aráceas)"
       ],
       [
-        "?"
+        "arrowleaf elephant ear (plant of the araceae family)"
       ]
     ],
     "manhu": [
@@ -1157,7 +1173,7 @@
         "o rio"
       ],
       [
-        "?"
+        "the river"
       ]
     ],
     "maragûaó": [
@@ -1189,7 +1205,7 @@
         "grande"
       ],
       [
-        "?"
+        "big"
       ]
     ],
     "mbaé": [
@@ -1197,7 +1213,7 @@
         "a coisa"
       ],
       [
-        "?"
+        "the thing"
       ]
     ],
     "mbaitá": [
@@ -1205,7 +1221,7 @@
         "papagaio pequeno"
       ],
       [
-        "?"
+        "small parrot"
       ]
     ],
     "mbai-yuru": [
@@ -1221,7 +1237,7 @@
         "monstro marinho"
       ],
       [
-        "?"
+        "sea monster"
       ]
     ],
     "mbara'ká": [
@@ -1237,7 +1253,7 @@
         "a mosca, o mosquito"
       ],
       [
-        "?"
+        "the fly, the mosquito"
       ]
     ],
     "mboîa": [
@@ -1245,7 +1261,7 @@
         "a cobra"
       ],
       [
-        "?"
+        "the snake"
       ]
     ],
     "mbora": [
@@ -1253,7 +1269,7 @@
         "o povo"
       ],
       [
-        "?"
+        "the people"
       ]
     ],
     "mborá": [
@@ -1261,7 +1277,7 @@
         "a abelha"
       ],
       [
-        "?"
+        "the bee"
       ]
     ],
     "mboy": [
@@ -1269,15 +1285,15 @@
         "a cobra"
       ],
       [
-        "?"
+        "the snake"
       ]
     ],
     "mirá": [
       [
-        " madeira"
+        "madeira"
       ],
       [
-        "?"
+        "wood"
       ]
     ],
     "mirim": [
@@ -1285,7 +1301,7 @@
         "pequeno"
       ],
       [
-        "?"
+        "small"
       ]
     ],
     "mongaguá": [
@@ -1301,7 +1317,7 @@
         "fazer"
       ],
       [
-        "?"
+        "to do"
       ]
     ],
     "mutá": [
@@ -1333,7 +1349,7 @@
         "a água"
       ],
       [
-        "?"
+        "the water"
       ]
     ],
     "nha-em": [
@@ -1349,7 +1365,7 @@
         "correr"
       ],
       [
-        "?"
+        "to run"
       ]
     ],
     "nhandu": [
@@ -1357,7 +1373,7 @@
         "a ema"
       ],
       [
-        "?"
+        "the emu"
       ]
     ],
     "nhe'eng": [
@@ -1365,7 +1381,7 @@
         "falar, cantar"
       ],
       [
-        "?"
+        "to speak, to sing"
       ]
     ],
     "ñhe-tã": [
@@ -1381,7 +1397,7 @@
         "preto"
       ],
       [
-        "?"
+        "black"
       ]
     ],
     "nhum": [
@@ -1389,7 +1405,7 @@
         "o campo"
       ],
       [
-        "?"
+        "the field"
       ]
     ],
     "oane": [
@@ -1405,7 +1421,7 @@
         "verde, esmeralda, precioso"
       ],
       [
-        "?"
+        "green, emerald, precious"
       ]
     ],
     "oka": [
@@ -1437,7 +1453,7 @@
         "a lagoa"
       ],
       [
-        "?"
+        "the lagoon"
       ]
     ],
     "paba": [
@@ -1445,7 +1461,7 @@
         "o lugar"
       ],
       [
-        "?"
+        "the place"
       ]
     ],
     "paca": [
@@ -1469,7 +1485,7 @@
         "ruim"
       ],
       [
-        "?"
+        "bad"
       ]
     ],
     "pan meri": [
@@ -1485,7 +1501,7 @@
         "o mar, o rio grande"
       ],
       [
-        "?"
+        "the sea, the large river"
       ]
     ],
     "parauá": [
@@ -1493,7 +1509,7 @@
         "o papagaio"
       ],
       [
-        "?"
+        "the parrot"
       ]
     ],
     "paraná": [
@@ -1501,7 +1517,7 @@
         "o mar, o rio grande"
       ],
       [
-        "?"
+        "the sea, the large river"
       ]
     ],
     "parati": [
@@ -1525,7 +1541,7 @@
         "em (local)"
       ],
       [
-        "?"
+        "in (local)"
       ]
     ],
     "pé": [
@@ -1533,7 +1549,7 @@
         "o caminho, a estrada"
       ],
       [
-        "?"
+        "the path, the road"
       ]
     ],
     "peb": [
@@ -1565,7 +1581,7 @@
         "o peixe"
       ],
       [
-        "?"
+        "the fish"
       ]
     ],
     "piara": [
@@ -1573,7 +1589,7 @@
         "caminho para"
       ],
       [
-        "?"
+        "path to"
       ]
     ],
     "pindá": [
@@ -1597,7 +1613,7 @@
         "vermelho"
       ],
       [
-        "?"
+        "red"
       ]
     ],
     "poca": [
@@ -1629,7 +1645,7 @@
         "o habitante"
       ],
       [
-        "?"
+        "the inhabitant"
       ]
     ],
     "porang": [
@@ -1661,7 +1677,7 @@
         "o barulho"
       ],
       [
-        "?"
+        "the noise"
       ]
     ],
     "puá": [
@@ -1669,7 +1685,7 @@
         "redondo"
       ],
       [
-        "?"
+        "round"
       ]
     ],
     "pukáia": [
@@ -1701,7 +1717,7 @@
         "vermelho"
       ],
       [
-        "?"
+        "red"
       ]
     ],
     "rá": [
@@ -1725,7 +1741,7 @@
         "diferente, outro"
       ],
       [
-        "?"
+        "different, other"
       ]
     ],
     "rê": [
@@ -1733,7 +1749,7 @@
         "o campo"
       ],
       [
-        "?"
+        "the field"
       ]
     ],
     "rema": [
@@ -1749,7 +1765,7 @@
         "frio"
       ],
       [
-        "?"
+        "cold"
       ]
     ],
     "ryryî": [
@@ -1781,7 +1797,7 @@
         "parar"
       ],
       [
-        "?"
+        "to stop"
       ]
     ],
     "sunung": [
@@ -1789,7 +1805,7 @@
         "fazer barulho"
       ],
       [
-        "?"
+        "to make noise"
       ]
     ],
     "taba": [
@@ -1805,7 +1821,7 @@
         "o dente"
       ],
       [
-        "?"
+        "the tooth"
       ]
     ],
     "tajahy": [
@@ -1845,7 +1861,7 @@
         "a concha"
       ],
       [
-        "?"
+        "the shell"
       ]
     ],
     "tape": [
@@ -1853,7 +1869,7 @@
         "o caminho"
       ],
       [
-        "?"
+        "the path"
       ]
     ],
     "tatu": [
@@ -1861,7 +1877,7 @@
         "o tatu"
       ],
       [
-        "?"
+        "the armadillo"
       ]
     ],
     "ta'wa": [
@@ -1885,7 +1901,7 @@
         "o olho"
       ],
       [
-        "?"
+        "the eye"
       ]
     ],
     "ti": [
@@ -1901,7 +1917,7 @@
         "pontudo"
       ],
       [
-        "?"
+        "pointy"
       ]
     ],
     "tim": [
@@ -1925,7 +1941,7 @@
         "seco"
       ],
       [
-        "?"
+        "dry"
       ]
     ],
     "tira": [
@@ -1933,7 +1949,7 @@
         "alto"
       ],
       [
-        "?"
+        "high"
       ]
     ],
     "tororoma": [
@@ -1957,7 +1973,7 @@
         "o tucano"
       ],
       [
-        "?"
+        "the toucan"
       ]
     ],
     "tukura": [
@@ -1965,7 +1981,7 @@
         "o gafanhoto"
       ],
       [
-        "?"
+        "the locust"
       ]
     ],
     "ty": [
@@ -1973,7 +1989,7 @@
         "a água, o rio"
       ],
       [
-        "?"
+        "the water, the river"
       ]
     ],
     "tyba": [
@@ -1981,7 +1997,7 @@
         "o ajuntamento, muito"
       ],
       [
-        "?"
+        "the aggregation, plenty"
       ]
     ],
     "tybaia": [
@@ -1989,7 +2005,7 @@
         "rio da feitoria"
       ],
       [
-        "?"
+        "trading post river"
       ]
     ],
     "tyîuka": [
@@ -2005,7 +2021,7 @@
         "alto, elevado"
       ],
       [
-        "?"
+        "high, elevated"
       ]
     ],
     "ua'ra": [
@@ -2018,10 +2034,10 @@
     ],
     "ûará": [
       [
-        "o guará"
+        "o guará, ibis escarlate (ave)"
       ],
       [
-        "?"
+        "scarlet ibis"
       ]
     ],
     "uarará": [
@@ -2037,7 +2053,7 @@
         "a árvore"
       ],
       [
-        "?"
+        "the tree"
       ]
     ],
     "ubá": [
@@ -2053,7 +2069,7 @@
         "o pássaro"
       ],
       [
-        "?"
+        "the bird"
       ]
     ],
     "umari": [
@@ -2077,7 +2093,7 @@
         "preto, escuro"
       ],
       [
-        "?"
+        "black, dark"
       ]
     ],
     "upaú": [
@@ -2093,7 +2109,7 @@
         "a logoa"
       ],
       [
-        "?"
+        "the lagoon"
       ]
     ],
     "uru": [
@@ -2141,7 +2157,7 @@
         "pequeno"
       ],
       [
-        "?"
+        "small"
       ]
     ],
     "y": [
@@ -2149,7 +2165,7 @@
         "o rio"
       ],
       [
-        "?"
+        "the river"
       ]
     ],
     "ya": [
@@ -2165,7 +2181,7 @@
         "nosso"
       ],
       [
-        "?"
+        "our"
       ]
     ],
     "ybá": [
@@ -2173,7 +2189,7 @@
         "a fruta"
       ],
       [
-        "?"
+        "the fruit"
       ]
     ],
     "ybate": [
@@ -2197,7 +2213,7 @@
         "a árvore, a madeira"
       ],
       [
-        "?"
+        "the tree, the wood"
       ]
     ],
     "ybytu": [
@@ -2245,7 +2261,7 @@
         "a cachoeira"
       ],
       [
-        "?"
+        "the waterfall"
       ]
     ],
     "yurukuá": [
@@ -2253,7 +2269,7 @@
         "a tartaruga"
       ],
       [
-        "?"
+        "the turtle"
       ]
     ]
   }
