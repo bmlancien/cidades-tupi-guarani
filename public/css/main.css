@@ -229,6 +229,7 @@ html {
 .onboarding__text {
   font-size: 0.875rem;
   color: #777;
+  font-weight: 300;
 }
 
 @media only screen and (min-width: 640px) {
@@ -245,12 +246,12 @@ html {
 }
 
 .onboarding__img img {
-  width: 13rem;
+  width: 100%;
 }
 
 @media only screen and (min-width: 1024px) {
   .onboarding__img img {
-    width: 18rem;
+    width: 35rem;
   }
 }
 

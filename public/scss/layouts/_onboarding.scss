@@ -67,6 +67,7 @@
   &__text {
     font-size: $font-size-small;
     color: $gray-1;
+    font-weight: 300;
 
     @media only screen and (min-width: 640px) {
       font-size: $font-size-normal;
@@ -80,10 +81,10 @@
     padding: 1rem 0;
 
     img {
-      width: 13rem;
+      width: 100%;
 
       @media only screen and (min-width: 1024px) {
-        width: 18rem;
+        width: 35rem;
       }
     }
   }
