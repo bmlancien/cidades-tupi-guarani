@@ -291,6 +291,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bacabal",
+        "state": "MA",
+        "name_id": "bacabal_ma"
+      },
+      "geometry": {
+        "coordinates": [-44.78, -4.225],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bacurituba",
         "state": "MA",
         "name_id": "bacurituba_ma"
@@ -477,6 +489,18 @@
       },
       "geometry": {
         "coordinates": [-39.3, -14.958889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buri",
+        "state": "SP",
+        "name_id": "buri_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.592778, -23.797778],
         "type": "Point"
       }
     },
@@ -1227,6 +1251,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Inhambupe",
+        "state": "BA",
+        "name_id": "inhambupe_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.352778, -11.783889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Inhapim",
         "state": "MG",
         "name_id": "inhapim_mg"
@@ -1647,6 +1683,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jaboatão dos Guararapes",
+        "state": "PE",
+        "name_id": "jaboatao_pe"
+      },
+      "geometry": {
+        "coordinates": [-35.015, -8.112778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jacareí",
         "state": "SP",
         "name_id": "jacarei_sp"
@@ -1713,6 +1761,30 @@
       },
       "geometry": {
         "coordinates": [-49.705833, -24.250833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguaribe",
+        "state": "CE",
+        "name_id": "jaguaribe_ce"
+      },
+      "geometry": {
+        "coordinates": [-38.621944, -5.890833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguaripe",
+        "state": "CE",
+        "name_id": "jaguaripe_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.895833, -13.112778],
         "type": "Point"
       }
     },

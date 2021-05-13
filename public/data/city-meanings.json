@@ -526,6 +526,22 @@
     }
   },
   {
+    "name_id": "bacabal_ma",
+    "meaning": {
+      "pt": [
+        "Bacaba"
+      ],
+      "en": [
+        "Bacaba"
+      ],
+      "tu": [
+        [
+          "iwa-kawa"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "bacurituba_ma",
     "meaning": {
       "pt": [
@@ -841,13 +857,29 @@
     }
   },
   {
+    "name_id": "buri_sp",
+    "meaning": {
+      "pt": [
+        "Buri (palmeira)"
+      ],
+      "en": [
+        "Buri (palm tree)"
+      ],
+      "tu": [
+        [
+          "buri"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "buritama_sp",
     "meaning": {
       "pt": [
         "Terra dos buris (palmeira)"
       ],
       "en": [
-        "Buris land"
+        "Land of buris (palm tree)"
       ],
       "tu": [
         [
@@ -2270,6 +2302,24 @@
     }
   },
   {
+    "name_id": "inhambupe_ba",
+    "meaning": {
+      "pt": [
+        "No rio dos inhambus"
+      ],
+      "en": [
+        "In the river of inhambus"
+      ],
+      "tu": [
+        [
+          "ïnã'bu",
+          "y",
+          "pe"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "inhapim_mg",
     "meaning": {
       "pt": [
@@ -3044,6 +3094,28 @@
     }
   },
   {
+    "name_id": "jaboatao_pe",
+    "meaning": {
+      "pt": [
+        "Rio barulhento do estrondo dos tambores"
+      ],
+      "en": [
+        "?"
+      ],
+      "tu": [
+        [
+          "y",
+          "yapu",
+          "atã"
+        ],
+        [
+          "uarará",
+          "pe"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "jacarei_sp",
     "meaning": {
       "pt": [
@@ -3149,6 +3221,47 @@
           "îagûara",
           "y",
           "aíba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "jaguaribe_ce",
+    "meaning": {
+      "pt": [
+        "No rio das onças"
+      ],
+      "en": [
+        "In the river of the jaguars"
+      ],
+      "tu": [
+        [
+          "jaguar",
+          "y",
+          "be"
+        ],
+        [
+          "jaguar",
+          "y",
+          "pe"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "jaguaripe_ba",
+    "meaning": {
+      "pt": [
+        "No rio das onças"
+      ],
+      "en": [
+        "In the river of the jaguars"
+      ],
+      "tu": [
+        [
+          "jaguar",
+          "y",
+          "pe"
         ]
       ]
     }
@@ -3297,7 +3410,8 @@
         "Lugar de macabas"
       ],
       "en": [
-        "?"
+        "Place of many bacabas",
+        "Place of macabas"
       ],
       "tu": [
         [
