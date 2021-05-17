@@ -239,7 +239,7 @@
         "Rio da baixada dos papagaios"
       ],
       "en": [
-        "River of the parrots' lowland"
+        "Parrots lowland river"
       ],
       "tu": [
         [
@@ -987,7 +987,7 @@
         "Mato grande"
       ],
       "en": [
-        "Big bush"
+        "Large bush"
       ],
       "tu": [
         [
@@ -1189,7 +1189,7 @@
         "Caladão"
       ],
       "en": [
-        "Too quiet"
+        "Too quiet (related to a person)"
       ],
       "tu": [
         [
@@ -1277,11 +1277,11 @@
         "Farinheiro"
       ],
       "en": [
-        "?",
-        "?",
-        "?",
-        "?",
-        "?"
+        "Place of the harpoon arrow",
+        "Shiny otter river",
+        "Bowl creator river",
+        "Manufacturer or pruducer of bowls",
+        "Flour man"
       ],
       "tu": [
         [
@@ -1353,7 +1353,7 @@
         "Caminho do mel preto"
       ],
       "en": [
-        "Black honey path"
+        "Path to the black honey"
       ],
       "tu": [
         [
@@ -1757,7 +1757,7 @@
         "Rio dos guarás"
       ],
       "en": [
-        ""
+        "River of the herons"
       ],
       "tu": [
         [
@@ -1774,7 +1774,7 @@
         "Guarantã (árvore)"
       ],
       "en": [
-        ""
+        "Guarantã (tree)"
       ],
       "tu": [
         [
@@ -1791,7 +1791,7 @@
         "Arma para a caça de guarás"
       ],
       "en": [
-        ""
+        "Weapon for herons hunting"
       ],
       "tu": [
         [
@@ -1826,7 +1826,7 @@
         "Estrondo dos tambores"
       ],
       "en": [
-        ""
+        "Rumble of the drums"
       ],
       "tu": [
         [
@@ -1911,7 +1911,7 @@
         "Guaramomis/Maramomis (indígenas que habitavam a região)"
       ],
       "en": [
-        ""
+        "Guaramomis/Maramomis (indigenous people who inhabited the region"
       ],
       "tu": [
         [
@@ -1928,7 +1928,8 @@
         "Caminho de guaxe"
       ],
       "en": [
-        "?"
+        "Path to the bees",
+        "Path to red-rumped cacique"
       ],
       "tu": [
         [
@@ -1950,7 +1951,7 @@
         "Garça branca"
       ],
       "en": [
-        ""
+        "White heron"
       ],
       "tu": [
         [
@@ -3066,7 +3067,7 @@
         "Caminho da cachoeira"
       ],
       "en": [
-        ""
+        "Path to the waterfall"
       ],
       "tu": [
         [
@@ -3869,7 +3870,7 @@
     }
   },
   {
-    "name_id": "pacatupa_ce",
+    "name_id": "pacatuba_ce",
     "meaning": {
       "pt": [
         "Ajuntamento de pacas"
