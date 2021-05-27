@@ -43,7 +43,7 @@
       ],
       "en": [
         "The lord of men",
-        "The lord of indians"
+        "The lord of indigenous people"
       ],
       "tu": [
         [
@@ -138,7 +138,7 @@
         "Rio dos índios"
       ],
       "en": [
-        "Indians river"
+        "River of the indigenous people"
       ],
       "tu": [
         [
@@ -497,7 +497,7 @@
         "Água de homem"
       ],
       "en": [
-        "man's water"
+        "Man's water"
       ],
       "tu": [
         [
@@ -529,10 +529,10 @@
     "name_id": "bacabal_ma",
     "meaning": {
       "pt": [
-        "Bacaba"
+        "Lugar com abundância de bacabas"
       ],
       "en": [
-        "Bacaba"
+        "Place where there are plenty bacabas"
       ],
       "tu": [
         [
@@ -651,7 +651,7 @@
     "name_id": "bauru_sp",
     "meaning": {
       "pt": [
-        "Queda de água",
+        "Queda d'água",
         "Cesto de frutas",
         "Rio da lagoa"
       ],
@@ -1138,7 +1138,7 @@
         "Rio das Capivaras"
       ],
       "en": [
-        "Capybaras' river"
+        "Capybaras river"
       ],
       "tu": [
         [
@@ -1444,7 +1444,7 @@
         "Canoa-marreca"
       ],
       "en": [
-        "black-bellied whistling duck"
+        "Black-bellied whistling duck"
       ],
       "tu": [
         [
@@ -1460,7 +1460,7 @@
         "Abelha, vespa"
       ],
       "en": [
-        "bee, wasp"
+        "Bee, wasp"
       ],
       "tu": [
         [
@@ -1638,7 +1638,7 @@
         "Cipó de amarrar"
       ],
       "en": [
-        "Vine for tying"
+        "Liana for tying"
       ],
       "tu": [
         [
@@ -2054,7 +2054,7 @@
         "Olho d'água"
       ],
       "en": [
-        ""
+        "Spring (related to water)"
       ],
       "tu": [
         [
@@ -2071,7 +2071,7 @@
         "O alto"
       ],
       "en": [
-        ""
+        "The ridge"
       ],
       "tu": [
         [
@@ -2087,7 +2087,7 @@
         "A chapada"
       ],
       "en": [
-        ""
+        "The chapada (plateau found in the Brazilian highlands)"
       ],
       "tu": [
         [
@@ -2105,7 +2105,8 @@
         "Habitante da terra"
       ],
       "en": [
-        "?"
+        "Beautiful land",
+        "Land inhabitant"
       ],
       "tu": [
         [
@@ -2123,10 +2124,10 @@
     "name_id": "ibirarema_sp",
     "meaning": {
       "pt": [
-        "Madeira fetida"
+        "Madeira fétida"
       ],
       "en": [
-        ""
+        "Fetid wood"
       ],
       "tu": [
         [
@@ -2211,7 +2212,7 @@
         "Beber [água] da bica"
       ],
       "en": [
-        "to drink [water] from the spout"
+        "To drink [water] from the spout"
       ],
       "tu": [
         [
@@ -2262,7 +2263,7 @@
         "Imbé (cipó)"
       ],
       "en": [
-        "Imbé (vine)"
+        "Imbé (liana - woody climbing plant)"
       ],
       "tu": [
         [
@@ -2278,7 +2279,7 @@
         "Cipoal"
       ],
       "en": [
-        ""
+        "Place where there are plenty of lianas"
       ],
       "tu": [
         [
@@ -3653,10 +3654,10 @@
     "name_id": "marituba_pa",
     "meaning": {
       "pt": [
-        "Lugar abundante de Maris"
+        "Lugar abundante de maris"
       ],
       "en": [
-        ""
+        "Place with abundance of maris"
       ],
       "tu": [
         [
