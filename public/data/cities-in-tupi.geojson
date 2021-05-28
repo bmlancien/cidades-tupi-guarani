@@ -63,6 +63,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Acaraú",
+        "state": "CE",
+        "name_id": "acarau_ce"
+      },
+      "geometry": {
+        "coordinates": [-40.12, -2.885833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Acopiara",
         "state": "CE",
         "name_id": "acopiara_ce"
@@ -93,6 +105,18 @@
       },
       "geometry": {
         "coordinates": [-37.07, -10.91],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aracati",
+        "state": "CE",
+        "name_id": "aracati_ce"
+      },
+      "geometry": {
+        "coordinates": [-37.77, -4.561944],
         "type": "Point"
       }
     },
@@ -207,12 +231,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Aratuba",
+        "state": "CE",
+        "name_id": "aratuba_ce"
+      },
+      "geometry": {
+        "coordinates": [-39.045, -4.417778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Araxá",
         "state": "MS",
         "name_id": "araxa_ms"
       },
       "geometry": {
         "coordinates": [-46.940833, -19.592778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariquemes",
+        "state": "RO",
+        "name_id": "ariquemes_ro"
+      },
+      "geometry": {
+        "coordinates": [-63.040833, -9.913333],
         "type": "Point"
       }
     },
@@ -243,6 +291,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Assu",
+        "state": "RN",
+        "name_id": "assu_rn"
+      },
+      "geometry": {
+        "coordinates": [-36.908889, -5.576944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Atibaia",
         "state": "SP",
         "name_id": "atibaia_sp"
@@ -255,24 +315,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Avanhandava",
-        "state": "SP",
-        "name_id": "avanhandava_sp"
-      },
-      "geometry": {
-        "coordinates": [-49.95, -21.460833],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Avaí",
         "state": "SP",
         "name_id": "avai_sp"
       },
       "geometry": {
         "coordinates": [-49.332778, -22.146944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avanhandava",
+        "state": "SP",
+        "name_id": "avanhandava_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.95, -21.460833],
         "type": "Point"
       }
     },
@@ -531,12 +591,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Caapora",
+        "name": "Caaporã",
         "state": "PB",
         "name_id": "caapora_pb"
       },
       "geometry": {
         "coordinates": [-34.907778, -7.515833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caarapó",
+        "state": "MS",
+        "name_id": "caarapo_ms"
+      },
+      "geometry": {
+        "coordinates": [-54.821944, -22.633889],
         "type": "Point"
       }
     },
@@ -597,6 +669,18 @@
       },
       "geometry": {
         "coordinates": [-44.675, -2.880833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cajuru",
+        "state": "SP",
+        "name_id": "cajuru_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.303889, -21.275],
         "type": "Point"
       }
     },
