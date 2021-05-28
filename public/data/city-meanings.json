@@ -1135,7 +1135,7 @@
     "name_id": "capivari_sp",
     "meaning": {
       "pt": [
-        "Rio das Capivaras"
+        "Rio das capivaras"
       ],
       "en": [
         "Capybaras river"
@@ -1569,10 +1569,10 @@
     "name_id": "gravata_pe",
     "meaning": {
       "pt": [
-        "Caraguatá, Gravatá (Nome de uma planta do gênero Bromelia)"
+        "Caraguatá, Gravatá"
       ],
       "en": [
-        "Bromelia pinguin, Caraguatá (plant name of the genus Bromelia)"
+        "Bromelia pinguin, Caraguatá"
       ],
       "tu": [
         [
@@ -1585,10 +1585,10 @@
     "name_id": "gravatai_rs",
     "meaning": {
       "pt": [
-        "Rio dos caraguatás (nome de uma planta do gênero Bromelia)"
+        "Rio dos caraguatás"
       ],
       "en": [
-        "Caraguatás river (plant name of the genus Bromelia)"
+        "Caraguatás river"
       ],
       "tu": [
         [
@@ -1602,10 +1602,10 @@
     "name_id": "gravatal_sc",
     "meaning": {
       "pt": [
-        "Gravatá (nome de uma planta do gênero Bromelia)"
+        "Gravatá"
       ],
       "en": [
-        "Bromelia pinguin, Gravatá (plant name of the genus Bromelia)"
+        "Bromelia pinguin, Gravatá"
       ],
       "tu": [
         [
@@ -1911,7 +1911,7 @@
         "Guaramomis/Maramomis (indígenas que habitavam a região)"
       ],
       "en": [
-        "Guaramomis/Maramomis (indigenous people who inhabited the region"
+        "Guaramomis/Maramomis (indigenous people who inhabited the region)"
       ],
       "tu": [
         [
@@ -2568,7 +2568,7 @@
         "Padre de pedra"
       ],
       "en": [
-        ""
+        "Stone priest"
       ],
       "tu": [
         [
@@ -2602,7 +2602,7 @@
         "Pedra escrita, pintada"
       ],
       "en": [
-        ""
+        "Written stone, painted"
       ],
       "tu": [
         [
@@ -2619,7 +2619,7 @@
         "Grão de pedra"
       ],
       "en": [
-        ""
+        "Stone grain"
       ],
       "tu": [
         [
@@ -2638,7 +2638,9 @@
         "Poço de pedra"
       ],
       "en": [
-        "?"
+        "Wolf stone",
+        "Edible stone",
+        "Stone well"
       ],
       "tu": [
         [
@@ -2678,11 +2680,12 @@
     "name_id": "itajai_sc",
     "meaning": {
       "pt": [
-        "Rio dos Taiás",
+        "Rio dos taiás",
         "Água do senhor das pedras"
       ],
       "en": [
-        "?"
+        "River of the arrowleaf elephant ear",
+        "Lord of stones water"
       ],
       "tu": [
         [
@@ -2703,7 +2706,7 @@
         "Pedra preciosa/verde"
       ],
       "en": [
-        ""
+        "Precious/green stone"
       ],
       "tu": [
         [
@@ -2721,7 +2724,8 @@
         "Pedra amarela"
       ],
       "en": [
-        "?"
+        "Stones river that falls from above",
+        "Yellow stone"
       ],
       "tu": [
         [
@@ -2741,7 +2745,7 @@
         "Rio das pedras pequenas"
       ],
       "en": [
-        ""
+        "Small stones river"
       ],
       "tu": [
         [
@@ -2760,7 +2764,8 @@
         "Pedra que canta, fala"
       ],
       "en": [
-        "?"
+        "Weeping of stone",
+        "Singing/talking stone"
       ],
       "tu": [
         [
@@ -2781,7 +2786,7 @@
         "Ema de pedra"
       ],
       "en": [
-        ""
+        "Stone emu"
       ],
       "tu": [
         [
@@ -2798,7 +2803,7 @@
         "Ocara de pedras"
       ],
       "en": [
-        ""
+        "Stone ocara"
       ],
       "tu": [
         [
@@ -2815,7 +2820,7 @@
         "Água caminha entre as pedras"
       ],
       "en": [
-        ""
+        "Water walks between stones"
       ],
       "tu": [
         [
@@ -2834,7 +2839,7 @@
         "Laje seca"
       ],
       "en": [
-        ""
+        "Dry slab"
       ],
       "tu": [
         [
@@ -2851,7 +2856,7 @@
         "Pedra achatada"
       ],
       "en": [
-        ""
+        "Flat stone"
       ],
       "tu": [
         [
@@ -2867,7 +2872,7 @@
         "Rio das lajes"
       ],
       "en": [
-        ""
+        "River of the slabs"
       ],
       "tu": [
         [
@@ -2884,7 +2889,7 @@
         "Pedra arrebentada"
       ],
       "en": [
-        ""
+        "Broken stone"
       ],
       "tu": [
         [
@@ -2953,7 +2958,7 @@
         "Pedra bonita"
       ],
       "en": [
-        ""
+        "Beautiful stone"
       ],
       "tu": [
         [
@@ -2970,7 +2975,7 @@
         "Pedra pontuda"
       ],
       "en": [
-        ""
+        "Pointy stone"
       ],
       "tu": [
         [
@@ -3106,7 +3111,7 @@
         "Rio barulhento do estrondo dos tambores"
       ],
       "en": [
-        "?"
+        "Noisy river of the rumble of the drums"
       ],
       "tu": [
         [
@@ -3330,7 +3335,7 @@
         "Cesto afunilado"
       ],
       "en": [
-        ""
+        "Tapered basket"
       ],
       "tu": [
         [
@@ -3346,7 +3351,7 @@
         "Morada das rãs, toca das tartarugas"
       ],
       "en": [
-        ""
+        "Frogs address, turtles lair"
       ],
       "tu": [
         [
@@ -3365,7 +3370,7 @@
         "Rio dos machados"
       ],
       "en": [
-        ""
+        "River of the axes"
       ],
       "tu": [
         [
@@ -3382,7 +3387,7 @@
         "Rio dos jundiás (peixes)"
       ],
       "en": [
-        ""
+        "Catfish river"
       ],
       "tu": [
         [
@@ -3541,7 +3546,9 @@
         "Algodoeiros grandes"
       ],
       "en": [
-        "?"
+        "Big yellow fish",
+        "Large river",
+        "Big cotton plants"
       ],
       "tu": [
         [
@@ -3568,7 +3575,8 @@
         "Pequeno campo da chuva"
       ],
       "en": [
-        "?"
+        "Small rain",
+        "Small rainy field"
       ],
       "tu": [
         [
@@ -3675,7 +3683,7 @@
         "Parte elevada de um local"
       ],
       "en": [
-        ""
+        "Elevated part of a location"
       ],
       "tu": [
         [
@@ -3692,7 +3700,7 @@
         "Grande rio das cobras"
       ],
       "en": [
-        ""
+        "Large river of the snakes"
       ],
       "tu": [
         [
@@ -3710,7 +3718,7 @@
         "Pequeno rio das cobras"
       ],
       "en": [
-        ""
+        "Small river of the snakes"
       ],
       "tu": [
         [
@@ -3728,7 +3736,7 @@
         "Rio das cobras"
       ],
       "en": [
-        ""
+        "Snakes river"
       ],
       "tu": [
         [
@@ -3745,7 +3753,7 @@
         "Água pegajosa"
       ],
       "en": [
-        ""
+        "Sticky water"
       ],
       "tu": [
         [
@@ -3761,7 +3769,7 @@
         "Nosso Senhor"
       ],
       "en": [
-        ""
+        "Our Lord"
       ],
       "tu": [
         [
@@ -3900,7 +3908,8 @@
         "Papagaio baixo"
       ],
       "en": [
-        "?"
+        "Shallow tributary of the large river",
+        "Short parrot"
       ],
       "tu": [
         [
@@ -4360,7 +4369,8 @@
         "Aldeia branca"
       ],
       "en": [
-        "?"
+        "White clay",
+        "White village"
       ],
       "tu": [
         [
@@ -4382,7 +4392,8 @@
         "Barro branco"
       ],
       "en": [
-        ""
+        "White bird",
+        "White clay"
       ],
       "tu": [
         [
@@ -4403,7 +4414,7 @@
         "Porco-do-mato"
       ],
       "en": [
-        ""
+        "White-lipped peccary (wild pig)"
       ],
       "tu": [
         [
@@ -4526,10 +4537,10 @@
     "name_id": "tocantins_to",
     "meaning": {
       "pt": [
-        "(Paraíso dos) bicos de tucanos"
+        "[Paraíso dos] bicos de tucanos"
       ],
       "en": [
-        ""
+        "Toucan beaks [paradise]"
       ],
       "tu": [
         [
@@ -4564,7 +4575,8 @@
         "Gramínea"
       ],
       "en": [
-        "?"
+        "One-piece canoe dug into tree trunk",
+        "Grass"
       ],
       "tu": [
         [
@@ -4583,7 +4595,7 @@
         "Ajuntamento de canas-do-rio"
       ],
       "en": [
-        ""
+        "Cluster of wild canes"
       ],
       "tu": [
         [
@@ -4635,7 +4647,7 @@
         "Cesto esquinado, peneira"
       ],
       "en": [
-        ""
+        "Angular basket, sifter"
       ],
       "tu": [
         [
@@ -4652,7 +4664,7 @@
         "Morro pontudo"
       ],
       "en": [
-        ""
+        "Pointy hill"
       ],
       "tu": [
         [
@@ -4670,7 +4682,8 @@
         "Morro bonito"
       ],
       "en": [
-        "?"
+        "Good winds",
+        "Beautiful hill"
       ],
       "tu": [
         [
@@ -4691,7 +4704,7 @@
         "Campina da cascavel"
       ],
       "en": [
-        ""
+        "Rattlesnake meadow"
       ],
       "tu": [
         [
