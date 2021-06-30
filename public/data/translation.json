@@ -21,7 +21,7 @@
         "o homem, o criador, o índio"
       ],
       [
-        "the man, the creator, the indian"
+        "the man, the creator, the indigenous person"
       ]
     ],
     "abiré": [
@@ -58,10 +58,18 @@
     ],
     "acará": [
       [
-        "a garça, o cará"
+        "a garça, o cará (peixe)"
       ],
       [
         "the heron, the angelfish"
+      ]
+    ],
+    "atã": [
+      [
+        "forte"
+      ],
+      [
+        "strong"
       ]
     ],
     "cema": [
@@ -85,7 +93,7 @@
         "grande"
       ],
       [
-        "big"
+        "big/large"
       ]
     ],
     "agûarausá": [
@@ -165,7 +173,7 @@
         "os índios, separação de rios"
       ],
       [
-        "the indians, rivers separation"
+        "the indigenous people, rivers separation"
       ]
     ],
     "ara": [
@@ -202,7 +210,7 @@
     ],
     "arikeme": [
       [
-        "arikeme (tribo extinta de indígenas)"
+        "Arikeme (tribo extinta de indígenas)"
       ],
       [
         "arikeme (extinct tribe of indigenous people)"
@@ -296,6 +304,14 @@
         "the mount, the mountain range"
       ]
     ],
+    "be": [
+      [
+        "em (local)"
+      ],
+      [
+        "in (place)"
+      ]
+    ],
     "beraba": [
       [
         "brilhante"
@@ -309,7 +325,7 @@
         "o biguá, o corvo-marinho, o cormorão, o mergulhão"
       ],
       [
-        "the cormorant"
+        "the cormorant (water bird)"
       ]
     ],
     "bocaiúva": [
@@ -397,7 +413,7 @@
         "o camará (arbusto)"
       ],
       [
-        "common lantana (bush)"
+        "the lantana (shrub)"
       ]
     ],
     "canguá": [
@@ -418,10 +434,10 @@
     ],
     "caraguatá": [
       [
-        "a gravatá (planta)"
+        "a gravatá (planta do gênero Bromelia)"
       ],
       [
-        "the bromelia pinguin (plant)"
+        "the bromelia pinguin (plant of the genus Bromelia)"
       ]
     ],
     "caucaia": [
@@ -597,7 +613,7 @@
         "índios guaianás"
       ],
       [
-        "Guayaná indians"
+        "Guayaná indigenous people"
       ]
     ],
     "guaimbê": [
@@ -605,7 +621,7 @@
         "cipó de amarrar"
       ],
       [
-        "vine for tying"
+        "branch of liana (woody climbing plant) for tying"
       ]
     ],
     "guajará": [
@@ -773,7 +789,15 @@
         "o cipó, guaimbé (planta)"
       ],
       [
-        "the vine, guaimbé (plant)"
+        "the liana (woody climbing plant), guaimbé (plant)"
+      ]
+    ],
+    "ïnã'bu": [
+      [
+        "inhambu (ave de aparência galinácea)"
+      ],
+      [
+        "tinamou (chicken-looking birds)"
       ]
     ],
     "inaîá": [
@@ -813,7 +837,7 @@
         "o alagadiço"
       ],
       [
-        "?"
+        "the wetland"
       ]
     ],
     "ira": [
@@ -837,7 +861,7 @@
         "a cascata"
       ],
       [
-        "?"
+        "the cascade"
       ]
     ],
     "itapeba": [
@@ -845,7 +869,7 @@
         "a pedra chata, rasa"
       ],
       [
-        "?"
+        "the flat stone, shallow"
       ]
     ],
     "îub": [
@@ -877,7 +901,7 @@
         "tipo de capim"
       ],
       [
-        "?"
+        "type of grass"
       ]
     ],
     "jequi": [
@@ -885,7 +909,7 @@
         "cesto afunilado, armadilha para peixes"
       ],
       [
-        "?"
+        "tapered basket, fish trap"
       ]
     ],
     "ji": [
@@ -930,10 +954,10 @@
     ],
     "kapibara": [
       [
-        "Capivara (população Capoivari)"
+        "capivara"
       ],
       [
-        "?"
+        "capybara"
       ]
     ],
     "karawatã": [
@@ -981,7 +1005,7 @@
         "assado"
       ],
       [
-        "?"
+        "baked"
       ]
     ],
     "kamasary": [
@@ -989,7 +1013,7 @@
         "a lágrima do peito"
       ],
       [
-        "?"
+        "the tear from the chest"
       ]
     ],
     "karapina": [
@@ -997,7 +1021,7 @@
         "variedade de pica-pau"
       ],
       [
-        "?"
+        "variety of woodpecker"
       ]
     ],
     "katu": [
@@ -1005,7 +1029,7 @@
         "bom"
       ],
       [
-        "?"
+        "good"
       ]
     ],
     "kiri'ri": [
@@ -1013,7 +1037,7 @@
         "calado, taciturno"
       ],
       [
-        "?"
+        "quiet, taciturn"
       ]
     ],
     "kûá": [
@@ -1053,7 +1077,7 @@
         "roncador"
       ],
       [
-        "?"
+        "snorer"
       ]
     ],
     "kururu": [
@@ -1077,23 +1101,23 @@
         "agora"
       ],
       [
-        "?"
+        "now"
       ]
     ],
     "macaba": [
       [
-        "árvore frutífera sertaneja"
+        "palmeira frutífera, também chamada de bacaba"
       ],
       [
-        "?"
+        "fruiting palm, alson known as bacaba"
       ]
     ],
     "macapaba": [
       [
-        "lugar de muitas bacabas (palmeira)"
+        "lugar de muitas bacabas (palmeira frutífera)"
       ],
       [
-        "?"
+        "place of many bacabas (fruiting palm native to the Amazon Rainforest)"
       ]
     ],
     "maçayó": [
@@ -1101,7 +1125,7 @@
         "o que tapa o alagadiço"
       ],
       [
-        "?"
+        "The one that covers the wetland"
       ]
     ],
     "maíra": [
@@ -1109,7 +1133,7 @@
         "entidade mitológica associada aos franceses"
       ],
       [
-        "?"
+        "mythological entity associated with the French"
       ]
     ],
     "makaîuba": [
@@ -1117,15 +1141,15 @@
         "macaúba (palmeira)"
       ],
       [
-        "?"
+        "macaúba palm"
       ]
     ],
     "mamangá": [
       [
-        "o mamangá"
+        "o mamangá (variedade de arbustos)"
       ],
       [
-        "?"
+        "the mamangá (variety of bushes)"
       ]
     ],
     "manã": [
@@ -1181,7 +1205,7 @@
         "o gato-do-mato"
       ],
       [
-        "?"
+        "the oncilla (also known as little spotted cat)"
       ]
     ],
     "marakanã": [
@@ -1189,7 +1213,7 @@
         "a maracanã"
       ],
       [
-        "?"
+        "the mini-macaw"
       ]
     ],
     "mayr": [
@@ -1197,7 +1221,7 @@
         "o estrangeiro"
       ],
       [
-        "?"
+        "the foreigner"
       ]
     ],
     "mbâgn": [
@@ -1229,7 +1253,7 @@
         "rio de grande inclinação"
       ],
       [
-        "?"
+        "steep river"
       ]
     ],
     "mba'eapina": [
@@ -1242,10 +1266,10 @@
     ],
     "mbara'ká": [
       [
-        "a maracá"
+        "o maracá (tipo de chocalho indígena)"
       ],
       [
-        "?"
+        "the maracá (type of indigenous rattle)"
       ]
     ],
     "mbiru": [
@@ -1309,7 +1333,7 @@
         "água pegajosa"
       ],
       [
-        "?"
+        "sticky water"
       ]
     ],
     "monhang": [
@@ -1325,7 +1349,7 @@
         "o degrau, a elevação"
       ],
       [
-        "?"
+        "the step, the elevation"
       ]
     ],
     "mu'tá": [
@@ -1333,7 +1357,7 @@
         "pau atravessado"
       ],
       [
-        "?"
+        "cross stick"
       ]
     ],
     "mutaba": [
@@ -1341,7 +1365,7 @@
         "ação de fazer, confecção"
       ],
       [
-        "?"
+        "action of doing, making"
       ]
     ],
     "ngoi": [
@@ -1357,7 +1381,7 @@
         "o pranto"
       ],
       [
-        "?"
+        "the weeping"
       ]
     ],
     "nhan": [
@@ -1389,7 +1413,7 @@
         "de canto forte"
       ],
       [
-        "?"
+        "of strong singing"
       ]
     ],
     "nhi": [
@@ -1413,7 +1437,7 @@
         "alguém"
       ],
       [
-        "?"
+        "someone"
       ]
     ],
     "obi": [
@@ -1429,7 +1453,7 @@
         "a morada, a casa"
       ],
       [
-        "?"
+        "the address, the house"
       ]
     ],
     "okara": [
@@ -1437,7 +1461,7 @@
         "a ocara (praça no interior de uma aldeia indígena)"
       ],
       [
-        "?"
+        "the ocara (square in the interior of an indigenous village)"
       ]
     ],
     "oiap": [
@@ -1445,7 +1469,7 @@
         "oiampi, povo Waiãpi"
       ],
       [
-        "?"
+        "the Wayampi, Wayampi people"
       ]
     ],
     "pa": [
@@ -1469,7 +1493,7 @@
         "a paca (roedor)"
       ],
       [
-        "?"
+        "the lowland paca (rodent)"
       ]
     ],
     "pai": [
@@ -1477,7 +1501,7 @@
         "dependurado"
       ],
       [
-        "?"
+        "hung"
       ]
     ],
     "panema": [
@@ -1493,7 +1517,7 @@
         "vão, espaço, entre"
       ],
       [
-        "?"
+        "empty, space, between"
       ]
     ],
     "pará": [
@@ -1522,10 +1546,10 @@
     ],
     "parati": [
       [
-        "a tainha, variedade de mandioca"
+        "a tainha (peixe)"
       ],
       [
-        "?"
+        "the mullet (fish)"
       ]
     ],
     "parim": [
@@ -1533,7 +1557,7 @@
         "arma de caça"
       ],
       [
-        "?"
+        "hunting weapon"
       ]
     ],
     "pe": [
@@ -1541,7 +1565,7 @@
         "em (local)"
       ],
       [
-        "in (local)"
+        "in (place)"
       ]
     ],
     "pé": [
@@ -1557,7 +1581,7 @@
         "achatado"
       ],
       [
-        "?"
+        "flat"
       ]
     ],
     "pema": [
@@ -1565,7 +1589,7 @@
         "esquinado, anguloso"
       ],
       [
-        "?"
+        "cornered, angular"
       ]
     ],
     "pi": [
@@ -1573,7 +1597,7 @@
         "limpar, tratar, a pele, o couro"
       ],
       [
-        "?"
+        "to clean, to treat, the skin, the leather"
       ]
     ],
     "pirá": [
@@ -1597,7 +1621,7 @@
         "o anzol"
       ],
       [
-        "?"
+        "the hook"
       ]
     ],
     "pira": [
@@ -1605,7 +1629,7 @@
         "a casca, a ponta, o penhasco"
       ],
       [
-        "?"
+        "the bark, the tip, the cliff"
       ]
     ],
     "piranga": [
@@ -1621,7 +1645,7 @@
         "arrebentar, estourar"
       ],
       [
-        "?"
+        "to burst, to explode"
       ]
     ],
     "pong": [
@@ -1629,7 +1653,7 @@
         "soar, fazer ruído"
       ],
       [
-        "?"
+        "to sound, to make noise"
       ]
     ],
     "pora": [
@@ -1637,7 +1661,7 @@
         "o salto"
       ],
       [
-        "?"
+        "the jump"
       ]
     ],
     "porã": [
@@ -1653,7 +1677,7 @@
         "bonito"
       ],
       [
-        "?"
+        "beautiful"
       ]
     ],
     "poranga": [
@@ -1661,7 +1685,7 @@
         "bonito"
       ],
       [
-        "?"
+        "beautiful"
       ]
     ],
     "poti": [
@@ -1669,7 +1693,7 @@
         "florido"
       ],
       [
-        "?"
+        "flowery"
       ]
     ],
     "pu": [
@@ -1693,7 +1717,7 @@
         "saltado"
       ],
       [
-        "?"
+        "sprung"
       ]
     ],
     "puru": [
@@ -1701,7 +1725,7 @@
         "matizado"
       ],
       [
-        "?"
+        "tinted"
       ]
     ],
     "puyú": [
@@ -1709,7 +1733,7 @@
         "o brejo"
       ],
       [
-        "?"
+        "the wetland"
       ]
     ],
     "pyrang": [
@@ -1725,7 +1749,7 @@
         "o que impede"
       ],
       [
-        "?"
+        "which prevents"
       ]
     ],
     "rapó": [
@@ -1733,7 +1757,7 @@
         "a raiz"
       ],
       [
-        "?"
+        "the root"
       ]
     ],
     "ré": [
@@ -1757,7 +1781,7 @@
         "fedido, cheiro agradável"
       ],
       [
-        "?"
+        "stinky, pleasant smell"
       ]
     ],
     "ro'y": [
@@ -1773,7 +1797,7 @@
         "tremer"
       ],
       [
-        "?"
+        "to shake"
       ]
     ],
     "sema": [
@@ -1781,7 +1805,7 @@
         "a saída"
       ],
       [
-        "?"
+        "the emergence"
       ]
     ],
     "sorok": [
@@ -1789,7 +1813,7 @@
         "rasgar"
       ],
       [
-        "?"
+        "to tear"
       ]
     ],
     "syk": [
@@ -1813,7 +1837,7 @@
         "a aldeia"
       ],
       [
-        "?"
+        "the village"
       ]
     ],
     "tãi": [
@@ -1826,18 +1850,18 @@
     ],
     "tajahy": [
       [
-        "rio dos taiás"
+        "rio dos taiás (planta da família das aráceas)"
       ],
       [
-        "?"
+        "river of the arrowleaf elephant ear (plant of the araceae family)"
       ]
     ],
     "takwar": [
       [
-        "a taquara (gramínea)"
+        "a taquara (tipo de bambu da família das gramíneas)"
       ],
       [
-        "?"
+        "the taquara (type of bamboo of the Gramineae family)"
       ]
     ],
     "takwa'ri": [
@@ -1845,7 +1869,7 @@
         "a taquara (gramínea) pequena"
       ],
       [
-        "?"
+        "the small taquara (grass)"
       ]
     ],
     "tamanduá": [
@@ -1853,7 +1877,7 @@
         "o tamanduá"
       ],
       [
-        "?"
+        "the anteater"
       ]
     ],
     "tambá": [
@@ -1885,7 +1909,7 @@
         "a ave, o barro"
       ],
       [
-        "?"
+        "the bird, the clay"
       ]
     ],
     "terõi": [
@@ -1893,7 +1917,7 @@
         "que se esconde"
       ],
       [
-        "?"
+        "that hides itself"
       ]
     ],
     "tesá": [
@@ -1909,7 +1933,7 @@
         "o rio, o montão"
       ],
       [
-        "?"
+        "the river, the heap"
       ]
     ],
     "tĩ": [
@@ -1925,7 +1949,7 @@
         "a proa, o bico"
       ],
       [
-        "?"
+        "the bow, the nozzle"
       ]
     ],
     "tinga": [
@@ -1933,7 +1957,7 @@
         "branco, claro, o barro branco"
       ],
       [
-        "?"
+        "white, clear, white clay"
       ]
     ],
     "tininga": [
@@ -1957,7 +1981,7 @@
         "o jorro"
       ],
       [
-        "?"
+        "the spurt"
       ]
     ],
     "tuba": [
@@ -1965,7 +1989,7 @@
         "o pinho"
       ],
       [
-        "?"
+        "the pine nut"
       ]
     ],
     "tukana": [
@@ -1997,7 +2021,7 @@
         "o ajuntamento, muito"
       ],
       [
-        "the aggregation, plenty"
+        "the gathering, the cluster, the roundup, many"
       ]
     ],
     "tybaia": [
@@ -2005,7 +2029,7 @@
         "rio da feitoria"
       ],
       [
-        "trading post river"
+        "river of the trading post"
       ]
     ],
     "tyîuka": [
@@ -2013,7 +2037,7 @@
         "o lamaçal"
       ],
       [
-        "?"
+        "the mire"
       ]
     ],
     "uã": [
@@ -2029,7 +2053,7 @@
         "o indivíduo"
       ],
       [
-        "?"
+        "the individual"
       ]
     ],
     "ûará": [
@@ -2045,7 +2069,7 @@
         "tambor indígena"
       ],
       [
-        "?"
+        "indigenous drum"
       ]
     ],
     "uba": [
@@ -2061,7 +2085,7 @@
         "a canoa, gramínea"
       ],
       [
-        "?"
+        "the canoe, grass"
       ]
     ],
     "uirá": [
@@ -2074,10 +2098,10 @@
     ],
     "umari": [
       [
-        "umari (planta)"
+        "umari/mari (planta)"
       ],
       [
-        "?"
+        "umari/mari (plant)"
       ]
     ],
     "un": [
@@ -2085,7 +2109,7 @@
         "preto, escuro"
       ],
       [
-        "?"
+        "black, dark"
       ]
     ],
     "una": [
@@ -2101,12 +2125,12 @@
         "o lago, a lagoa, a água represada"
       ],
       [
-        "?"
+        "the lake, the lagoon, dammed water"
       ]
     ],
     "upaba": [
       [
-        "a logoa"
+        "a lagoa"
       ],
       [
         "the lagoon"
@@ -2117,7 +2141,7 @@
         "o cesto"
       ],
       [
-        "?"
+        "the basket"
       ]
     ],
     "usu": [
@@ -2125,7 +2149,7 @@
         "grande"
       ],
       [
-        "?"
+        "big, large"
       ]
     ],
     "votura": [
@@ -2133,7 +2157,7 @@
         "o morro"
       ],
       [
-        "?"
+        "the hill"
       ]
     ],
     "xãxã": [
@@ -2141,15 +2165,15 @@
         "a cascavel"
       ],
       [
-        "?"
+        "the rattlesnake"
       ]
     ],
     "waxi": [
       [
-        "o guaxe"
+        "o guaxe (espécie de ave da família Icteridae)"
       ],
       [
-        "?"
+        "the red-rumped cacique (species of bird in the family Icteridae)"
       ]
     ],
     "xim": [
@@ -2173,7 +2197,7 @@
         "o indivíduo, o fruto"
       ],
       [
-        "?"
+        "the individual, the fruit"
       ]
     ],
     "yandê": [
@@ -2182,6 +2206,14 @@
       ],
       [
         "our"
+      ]
+    ],
+    "yapu": [
+      [
+        "barulho forte"
+      ],
+      [
+        "strong noise"
       ]
     ],
     "ybá": [
@@ -2197,7 +2229,7 @@
         "o alto, o elevado, o cume"
       ],
       [
-        "?"
+        "the top, the peak, the ridge"
       ]
     ],
     "yby": [
@@ -2205,7 +2237,7 @@
         "a terra"
       ],
       [
-        "?"
+        "the land"
       ]
     ],
     "ybyrá": [
@@ -2237,7 +2269,7 @@
         "a canoa"
       ],
       [
-        "?"
+        "the canoe"
       ]
     ],
     "yguara": [
@@ -2245,7 +2277,7 @@
         "o poço"
       ],
       [
-        "?"
+        "the well"
       ]
     ],
     "yma": [
@@ -2253,7 +2285,7 @@
         "antiguidade"
       ],
       [
-        "?"
+        "antiquity"
       ]
     ],
     "ytu": [
