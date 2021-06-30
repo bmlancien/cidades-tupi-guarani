@@ -43,7 +43,7 @@
       ],
       "en": [
         "The lord of men",
-        "The lord of indians"
+        "The lord of indigenous people"
       ],
       "tu": [
         [
@@ -64,7 +64,7 @@
         "Ajuntamento de cajueiros"
       ],
       "en": [
-        "Aggregation of cashew trees"
+        "Cluster of cashew trees"
       ],
       "tu": [
         [
@@ -95,7 +95,7 @@
     "meaning": {
       "pt": [
         "Rio das garças",
-        "Rio do acará (peixe)"
+        "Rio do acará"
       ],
       "en": [
         "Herons river",
@@ -138,7 +138,7 @@
         "Rio dos índios"
       ],
       "en": [
-        "Indians river"
+        "River of the indigenous people"
       ],
       "tu": [
         [
@@ -186,10 +186,10 @@
     "name_id": "aracas_ba",
     "meaning": {
       "pt": [
-        "Muitos araçás (variedade de planta frutífera, bem como o seu fruto)"
+        "Muitos araçás"
       ],
       "en": [
-        "Many cattley guava (variety of fruit plant, as well as its fruit)"
+        "Many cattley guava"
       ],
       "tu": [
         [
@@ -202,10 +202,10 @@
     "name_id": "aracatuba_sp",
     "meaning": {
       "pt": [
-        "Muitos araçás (variedade de planta frutífera, bem como o seu fruto)"
+        "Muitos araçás"
       ],
       "en": [
-        "Many cattley guava (variety of fruit plant, as well as its fruit)"
+        "Many cattley guava"
       ],
       "tu": [
         [
@@ -239,7 +239,7 @@
         "Rio da baixada dos papagaios"
       ],
       "en": [
-        "River of the parrots' lowland"
+        "Parrots lowland river"
       ],
       "tu": [
         [
@@ -377,22 +377,6 @@
     }
   },
   {
-    "name_id": "ariranha_sp",
-    "meaning": {
-      "pt": [
-        "Ariranha"
-      ],
-      "en": [
-        "Giant otter"
-      ],
-      "tu": [
-        [
-          "ari'raña"
-        ]
-      ]
-    }
-  },
-  {
     "name_id": "ariquemes_ro",
     "meaning": {
       "pt": [
@@ -404,6 +388,22 @@
       "tu": [
         [
           "arikeme"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "ariranha_sp",
+    "meaning": {
+      "pt": [
+        "Ariranha"
+      ],
+      "en": [
+        "Giant otter"
+      ],
+      "tu": [
+        [
+          "ari'raña"
         ]
       ]
     }
@@ -473,6 +473,23 @@
     }
   },
   {
+    "name_id": "avai_sp",
+    "meaning": {
+      "pt": [
+        "Água de homem"
+      ],
+      "en": [
+        "Man's water"
+      ],
+      "tu": [
+        [
+          "abá",
+          "y"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "avanhandava_sp",
     "meaning": {
       "pt": [
@@ -491,23 +508,6 @@
     }
   },
   {
-    "name_id": "avai_sp",
-    "meaning": {
-      "pt": [
-        "Água de homem"
-      ],
-      "en": [
-        "man's water"
-      ],
-      "tu": [
-        [
-          "abá",
-          "y"
-        ]
-      ]
-    }
-  },
-  {
     "name_id": "avare_sp",
     "meaning": {
       "pt": [
@@ -521,6 +521,22 @@
           "abiré",
           "abá",
           "ré"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "bacabal_ma",
+    "meaning": {
+      "pt": [
+        "Lugar com abundância de bacabas"
+      ],
+      "en": [
+        "Place where there are plenty bacabas"
+      ],
+      "tu": [
+        [
+          "iwa-kawa"
         ]
       ]
     }
@@ -635,7 +651,7 @@
     "name_id": "bauru_sp",
     "meaning": {
       "pt": [
-        "Queda de água",
+        "Queda d'água",
         "Cesto de frutas",
         "Rio da lagoa"
       ],
@@ -703,10 +719,10 @@
     "name_id": "biguacu_sc",
     "meaning": {
       "pt": [
-        "Biguá grande (ave aquática)"
+        "Biguá grande"
       ],
       "en": [
-        "Big cormorant (water bird)"
+        "Big cormorant"
       ],
       "tu": [
         [
@@ -841,13 +857,29 @@
     }
   },
   {
+    "name_id": "buri_sp",
+    "meaning": {
+      "pt": [
+        "Buri (palmeira)"
+      ],
+      "en": [
+        "Buri (palm tree)"
+      ],
+      "tu": [
+        [
+          "buri"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "buritama_sp",
     "meaning": {
       "pt": [
         "Terra dos buris (palmeira)"
       ],
       "en": [
-        "Buris land (palm tree)"
+        "Land of buris (palm tree)"
       ],
       "tu": [
         [
@@ -875,7 +907,7 @@
     }
   },
   {
-    "name_id": "caapora_jp",
+    "name_id": "caapora_pb",
     "meaning": {
       "pt": [
         "Mata bonita",
@@ -921,7 +953,7 @@
         "Ajuntamento de mata"
       ],
       "en": [
-        "Aggregation of woods"
+        "Cluster of woods"
       ],
       "tu": [
         [
@@ -955,7 +987,7 @@
         "Mato grande"
       ],
       "en": [
-        "Big bush"
+        "Large bush"
       ],
       "tu": [
         [
@@ -1054,7 +1086,7 @@
         "Rio dos camarás (arbusto)"
       ],
       "en": [
-        "River of the common lantana (bush)"
+        "River of the lantanas (shrub)"
       ],
       "tu": [
         [
@@ -1086,10 +1118,10 @@
     "name_id": "canguaterama_rn",
     "meaning": {
       "pt": [
-        "Terra de canguás (tipo de peixe)"
+        "Terra de canguás"
       ],
       "en": [
-        "Canguá land (type of fish)"
+        "Canguá land"
       ],
       "tu": [
         [
@@ -1103,10 +1135,10 @@
     "name_id": "capivari_sp",
     "meaning": {
       "pt": [
-        "Rio das Capivaras"
+        "Rio das capivaras"
       ],
       "en": [
-        "Capybaras' river"
+        "Capybaras river"
       ],
       "tu": [
         [
@@ -1136,10 +1168,10 @@
     "name_id": "caraguatatuba_sp",
     "meaning": {
       "pt": [
-        "Ajuntamento de gravatás (nome de uma planta do gênero Bromelia)"
+        "Ajuntamento de gravatás"
       ],
       "en": [
-        "Aggregation of gravatás (plant name of the genus Bromelia)"
+        "Cluster of gravatás"
       ],
       "tu": [
         [
@@ -1157,7 +1189,7 @@
         "Caladão"
       ],
       "en": [
-        "Too quiet"
+        "Too quiet (related to a person)"
       ],
       "tu": [
         [
@@ -1245,11 +1277,11 @@
         "Farinheiro"
       ],
       "en": [
-        "?",
-        "?",
-        "?",
-        "?",
-        "?"
+        "Place of the harpoon arrow",
+        "Bright otter river",
+        "Bowl creator river",
+        "Manufacturer or pruducer of bowls",
+        "Flour man"
       ],
       "tu": [
         [
@@ -1321,7 +1353,7 @@
         "Caminho do mel preto"
       ],
       "en": [
-        "Black honey path"
+        "Path to the black honey"
       ],
       "tu": [
         [
@@ -1409,10 +1441,10 @@
     "name_id": "erere_ce",
     "meaning": {
       "pt": [
-        "Canoa-marreca (ave do tipo marreco)"
+        "Canoa-marreca"
       ],
       "en": [
-        "black-bellied whistling duck"
+        "Black-bellied whistling duck"
       ],
       "tu": [
         [
@@ -1428,7 +1460,7 @@
         "Abelha, vespa"
       ],
       "en": [
-        "bee, wasp"
+        "Bee, wasp"
       ],
       "tu": [
         [
@@ -1537,10 +1569,10 @@
     "name_id": "gravata_pe",
     "meaning": {
       "pt": [
-        "Caraguatá, Gravatá (Nome de uma planta do gênero Bromelia)"
+        "Caraguatá, Gravatá"
       ],
       "en": [
-        "Bromelia pinguin, Caraguatá (plant name of the genus Bromelia)"
+        "Bromelia pinguin, Caraguatá"
       ],
       "tu": [
         [
@@ -1553,10 +1585,10 @@
     "name_id": "gravatai_rs",
     "meaning": {
       "pt": [
-        "Rio dos caraguatás (nome de uma planta do gênero Bromelia)"
+        "Rio dos caraguatás"
       ],
       "en": [
-        "Caraguatás river (plant name of the genus Bromelia)"
+        "Caraguatás river"
       ],
       "tu": [
         [
@@ -1570,10 +1602,10 @@
     "name_id": "gravatal_sc",
     "meaning": {
       "pt": [
-        "Gravatá (nome de uma planta do gênero Bromelia)"
+        "Gravatá"
       ],
       "en": [
-        "Bromelia pinguin, Gravatá (plant name of the genus Bromelia)"
+        "Bromelia pinguin, Gravatá"
       ],
       "tu": [
         [
@@ -1606,7 +1638,7 @@
         "Cipó de amarrar"
       ],
       "en": [
-        "Vine for tying"
+        "Liana for tying"
       ],
       "tu": [
         [
@@ -1725,7 +1757,7 @@
         "Rio dos guarás"
       ],
       "en": [
-        ""
+        "River of the herons"
       ],
       "tu": [
         [
@@ -1742,7 +1774,7 @@
         "Guarantã (árvore)"
       ],
       "en": [
-        ""
+        "Guarantã (tree)"
       ],
       "tu": [
         [
@@ -1759,7 +1791,7 @@
         "Arma para a caça de guarás"
       ],
       "en": [
-        ""
+        "Weapon for herons hunting"
       ],
       "tu": [
         [
@@ -1794,7 +1826,7 @@
         "Estrondo dos tambores"
       ],
       "en": [
-        ""
+        "Rumble of the drums"
       ],
       "tu": [
         [
@@ -1879,7 +1911,7 @@
         "Guaramomis/Maramomis (indígenas que habitavam a região)"
       ],
       "en": [
-        ""
+        "Guaramomis/Maramomis (indigenous people who inhabited the region)"
       ],
       "tu": [
         [
@@ -1896,7 +1928,8 @@
         "Caminho de guaxe"
       ],
       "en": [
-        "?"
+        "Path to the bees",
+        "Path to red-rumped cacique"
       ],
       "tu": [
         [
@@ -1918,7 +1951,7 @@
         "Garça branca"
       ],
       "en": [
-        ""
+        "White heron"
       ],
       "tu": [
         [
@@ -1990,7 +2023,10 @@
         "Pau atravessado"
       ],
       "en": [
-        "?"
+        "The stone now is black",
+        "Ancient stone",
+        "Small parrot",
+        "Cross stick"
       ],
       "tu": [
         [
@@ -2018,7 +2054,7 @@
         "Olho d'água"
       ],
       "en": [
-        ""
+        "Spring (related to water)"
       ],
       "tu": [
         [
@@ -2035,7 +2071,7 @@
         "O alto"
       ],
       "en": [
-        ""
+        "The ridge"
       ],
       "tu": [
         [
@@ -2051,7 +2087,7 @@
         "A chapada"
       ],
       "en": [
-        ""
+        "The chapada (plateau found in the Brazilian highlands)"
       ],
       "tu": [
         [
@@ -2069,7 +2105,8 @@
         "Habitante da terra"
       ],
       "en": [
-        "?"
+        "Beautiful land",
+        "Land inhabitant"
       ],
       "tu": [
         [
@@ -2087,10 +2124,10 @@
     "name_id": "ibirarema_sp",
     "meaning": {
       "pt": [
-        "Madeira fetida"
+        "Madeira fétida"
       ],
       "en": [
-        ""
+        "Fetid wood"
       ],
       "tu": [
         [
@@ -2175,7 +2212,7 @@
         "Beber [água] da bica"
       ],
       "en": [
-        "to drink [water] from the spout"
+        "To drink [water] from the spout"
       ],
       "tu": [
         [
@@ -2208,7 +2245,7 @@
         "Rio das canoas emproadas"
       ],
       "en": [
-        ""
+        "River of the canoes with bow"
       ],
       "tu": [
         [
@@ -2226,7 +2263,7 @@
         "Imbé (cipó)"
       ],
       "en": [
-        "Imbé (vine)"
+        "Imbé (liana - woody climbing plant)"
       ],
       "tu": [
         [
@@ -2242,7 +2279,7 @@
         "Cipoal"
       ],
       "en": [
-        ""
+        "Place where there are many lianas"
       ],
       "tu": [
         [
@@ -2259,12 +2296,30 @@
         "Ajuntamento de indaiás"
       ],
       "en": [
-        "Aggregation of indaiás (variety of palm tree)"
+        "Cluster of indaiás (variety of palm tree)"
       ],
       "tu": [
         [
           "inaîá",
           "tyba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "inhambupe_ba",
+    "meaning": {
+      "pt": [
+        "No rio dos inhambus"
+      ],
+      "en": [
+        "In the river of inhambus"
+      ],
+      "tu": [
+        [
+          "ïnã'bu",
+          "y",
+          "pe"
         ]
       ]
     }
@@ -2292,29 +2347,12 @@
         "Aldeia de tecelão"
       ],
       "en": [
-        ""
+        "Weaver's village"
       ],
       "tu": [
         [
           "ini",
           "mutaba"
-        ]
-      ]
-    }
-  },
-  {
-    "name_id": "ipatinga_mg",
-    "meaning": {
-      "pt": [
-        "Pouso de água limpa"
-      ],
-      "en": [
-        ""
-      ],
-      "tu": [
-        [
-          "upaba",
-          "tinga"
         ]
       ]
     }
@@ -2337,13 +2375,30 @@
     }
   },
   {
+    "name_id": "ipatinga_mg",
+    "meaning": {
+      "pt": [
+        "Pouso de água limpa"
+      ],
+      "en": [
+        "Clean water landing"
+      ],
+      "tu": [
+        [
+          "upaba",
+          "tinga"
+        ]
+      ]
+    }
+  },
+  {
     "name_id": "ipojuca_pe",
     "meaning": {
       "pt": [
         "Rio das águas podres"
       ],
       "en": [
-        ""
+        "River of the foul-smelling waters"
       ],
       "tu": [
         [
@@ -2361,7 +2416,7 @@
         "Rio bonito"
       ],
       "en": [
-        ""
+        "Beautiful river"
       ],
       "tu": [
         [
@@ -2379,7 +2434,8 @@
         "Grande alagadiço"
       ],
       "en": [
-        "?"
+        "Great water noise",
+        "Large wetland"
       ],
       "tu": [
         [
@@ -2401,7 +2457,7 @@
         "Rio vermelho"
       ],
       "en": [
-        ""
+        "Red river"
       ],
       "tu": [
         [
@@ -2418,7 +2474,7 @@
         "Saída de mel, saída de abelhas"
       ],
       "en": [
-        ""
+        "Honey flow, bees flow"
       ],
       "tu": [
         [
@@ -2435,7 +2491,7 @@
         "Naquela aldeia mora alguém"
       ],
       "en": [
-        ""
+        "In that village someone lives"
       ],
       "tu": [
         [
@@ -2453,7 +2509,7 @@
         "Pedra brilhante"
       ],
       "en": [
-        ""
+        "Shiny stone"
       ],
       "tu": [
         [
@@ -2470,7 +2526,7 @@
         "Pedra brilhante"
       ],
       "en": [
-        ""
+        "Shiny stone"
       ],
       "tu": [
         [
@@ -2488,7 +2544,8 @@
         "Rio das pedras brilhantes"
       ],
       "en": [
-        "?"
+        "Beautiful stone river",
+        "Shiny stones river"
       ],
       "tu": [
         [
@@ -2511,7 +2568,7 @@
         "Padre de pedra"
       ],
       "en": [
-        ""
+        "Stone priest"
       ],
       "tu": [
         [
@@ -2545,7 +2602,7 @@
         "Pedra escrita, pintada"
       ],
       "en": [
-        ""
+        "Written stone, painted"
       ],
       "tu": [
         [
@@ -2562,7 +2619,7 @@
         "Grão de pedra"
       ],
       "en": [
-        ""
+        "Stone grain"
       ],
       "tu": [
         [
@@ -2581,7 +2638,9 @@
         "Poço de pedra"
       ],
       "en": [
-        "?"
+        "Wolf stone",
+        "Edible stone",
+        "Stone well"
       ],
       "tu": [
         [
@@ -2606,7 +2665,7 @@
         "Ajuntamento de pedrinhas"
       ],
       "en": [
-        ""
+        "Cluster of little stones"
       ],
       "tu": [
         [
@@ -2621,11 +2680,12 @@
     "name_id": "itajai_sc",
     "meaning": {
       "pt": [
-        "Rio dos Taiás",
+        "Rio dos taiás",
         "Água do senhor das pedras"
       ],
       "en": [
-        "?"
+        "River of the arrowleaf elephant ear",
+        "Lord of stones water"
       ],
       "tu": [
         [
@@ -2646,7 +2706,7 @@
         "Pedra preciosa/verde"
       ],
       "en": [
-        ""
+        "Precious/green stone"
       ],
       "tu": [
         [
@@ -2664,7 +2724,8 @@
         "Pedra amarela"
       ],
       "en": [
-        "?"
+        "Stones river that falls from above",
+        "Yellow stone"
       ],
       "tu": [
         [
@@ -2684,7 +2745,7 @@
         "Rio das pedras pequenas"
       ],
       "en": [
-        ""
+        "Small stones river"
       ],
       "tu": [
         [
@@ -2703,7 +2764,8 @@
         "Pedra que canta, fala"
       ],
       "en": [
-        "?"
+        "Weeping of stone",
+        "Singing/talking stone"
       ],
       "tu": [
         [
@@ -2724,7 +2786,7 @@
         "Ema de pedra"
       ],
       "en": [
-        ""
+        "Stone emu"
       ],
       "tu": [
         [
@@ -2741,7 +2803,7 @@
         "Ocara de pedras"
       ],
       "en": [
-        ""
+        "Stone ocara"
       ],
       "tu": [
         [
@@ -2758,7 +2820,7 @@
         "Água caminha entre as pedras"
       ],
       "en": [
-        ""
+        "Water walks between stones"
       ],
       "tu": [
         [
@@ -2777,7 +2839,7 @@
         "Laje seca"
       ],
       "en": [
-        ""
+        "Dry slab"
       ],
       "tu": [
         [
@@ -2794,7 +2856,7 @@
         "Pedra achatada"
       ],
       "en": [
-        ""
+        "Flat stone"
       ],
       "tu": [
         [
@@ -2810,7 +2872,7 @@
         "Rio das lajes"
       ],
       "en": [
-        ""
+        "River of the slabs"
       ],
       "tu": [
         [
@@ -2827,7 +2889,7 @@
         "Pedra arrebentada"
       ],
       "en": [
-        ""
+        "Broken stone"
       ],
       "tu": [
         [
@@ -2845,7 +2907,7 @@
         "Ponta de pedra"
       ],
       "en": [
-        ""
+        "Stone tip"
       ],
       "tu": [
         [
@@ -2890,30 +2952,13 @@
     }
   },
   {
-    "name_id": "itaporanga_se",
-    "meaning": {
-      "pt": [
-        "Pedra bonita"
-      ],
-      "en": [
-        ""
-      ],
-      "tu": [
-        [
-          "itá",
-          "poranga"
-        ]
-      ]
-    }
-  },
-  {
     "name_id": "itatiaia_rj",
     "meaning": {
       "pt": [
         "Pedra pontuda"
       ],
       "en": [
-        ""
+        "Pointy stone"
       ],
       "tu": [
         [
@@ -2930,7 +2975,7 @@
         "Ajuntamento de pedras"
       ],
       "en": [
-        ""
+        "Cluster of stones"
       ],
       "tu": [
         [
@@ -2947,7 +2992,7 @@
         "Pedra preta"
       ],
       "en": [
-        ""
+        "Black stone"
       ],
       "tu": [
         [
@@ -2964,7 +3009,7 @@
         "Jorro d'água"
       ],
       "en": [
-        ""
+        "Water spurt"
       ],
       "tu": [
         [
@@ -2997,7 +3042,7 @@
         "Aldeia do lamaçal do rio"
       ],
       "en": [
-        ""
+        "Village of the river mire"
       ],
       "tu": [
         [
@@ -3015,7 +3060,7 @@
         "Caminho da cachoeira"
       ],
       "en": [
-        ""
+        "Path to the waterfall"
       ],
       "tu": [
         [
@@ -3032,12 +3077,34 @@
         "Salto brilhante"
       ],
       "en": [
-        ""
+        "Bright jump"
       ],
       "tu": [
         [
           "ytu",
           "beraba"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "jaboatao_pe",
+    "meaning": {
+      "pt": [
+        "Rio barulhento do estrondo dos tambores"
+      ],
+      "en": [
+        "Noisy river of the rumble of the drums"
+      ],
+      "tu": [
+        [
+          "y",
+          "yapu",
+          "atã"
+        ],
+        [
+          "uarará",
+          "pe"
         ]
       ]
     }
@@ -3153,17 +3220,42 @@
     }
   },
   {
-    "name_id": "jatai_go",
+    "name_id": "jaguaribe_ce",
     "meaning": {
       "pt": [
-        "Abelha"
+        "No rio das onças"
       ],
       "en": [
-        "Bee"
+        "In the river of the jaguars"
       ],
       "tu": [
         [
-          "îate'i"
+          "jaguar",
+          "y",
+          "be"
+        ],
+        [
+          "jaguar",
+          "y",
+          "pe"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "jaguaripe_ba",
+    "meaning": {
+      "pt": [
+        "No rio das onças"
+      ],
+      "en": [
+        "In the river of the jaguars"
+      ],
+      "tu": [
+        [
+          "jaguar",
+          "y",
+          "pe"
         ]
       ]
     }
@@ -3182,6 +3274,22 @@
           "îagûara",
           "y",
           "un"
+        ]
+      ]
+    }
+  },
+  {
+    "name_id": "jatai_go",
+    "meaning": {
+      "pt": [
+        "Abelha"
+      ],
+      "en": [
+        "Bee"
+      ],
+      "tu": [
+        [
+          "îate'i"
         ]
       ]
     }
@@ -3210,7 +3318,7 @@
         "Cesto afunilado"
       ],
       "en": [
-        ""
+        "Tapered basket"
       ],
       "tu": [
         [
@@ -3226,7 +3334,7 @@
         "Morada das rãs, toca das tartarugas"
       ],
       "en": [
-        ""
+        "Frogs address, turtles lair"
       ],
       "tu": [
         [
@@ -3245,7 +3353,7 @@
         "Rio dos machados"
       ],
       "en": [
-        ""
+        "River of the axes"
       ],
       "tu": [
         [
@@ -3262,7 +3370,7 @@
         "Rio dos jundiás (peixes)"
       ],
       "en": [
-        ""
+        "Catfish river"
       ],
       "tu": [
         [
@@ -3279,7 +3387,7 @@
         "Macaúba (palmeira)"
       ],
       "en": [
-        ""
+        "Macaúba palm"
       ],
       "tu": [
         [
@@ -3296,7 +3404,8 @@
         "Lugar de macabas"
       ],
       "en": [
-        "?"
+        "Place of many bacabas",
+        "Place of macabas"
       ],
       "tu": [
         [
@@ -3316,7 +3425,7 @@
         "O que tapa o alagadiço"
       ],
       "en": [
-        ""
+        "The one that covers the wetland"
       ],
       "tu": [
         [
@@ -3332,7 +3441,7 @@
         "Água bonita de Maíra"
       ],
       "en": [
-        ""
+        "Maíra's beautiful water"
       ],
       "tu": [
         [
@@ -3350,7 +3459,7 @@
         "Flor matizada"
       ],
       "en": [
-        ""
+        "Tinted flower"
       ],
       "tu": [
         [
@@ -3364,10 +3473,10 @@
     "name_id": "mamanguape_pb",
     "meaning": {
       "pt": [
-        "Na enseada dos mamangás (variedade de arbustos)"
+        "Na enseada dos mamangás"
       ],
       "en": [
-        "In the cove of the mamangás (variety of bushes)"
+        "In the cove of the mamangás"
       ],
       "tu": [
         [
@@ -3398,10 +3507,10 @@
     "name_id": "mangaratiba_rj",
     "meaning": {
       "pt": [
-        "Ajuntamento de mangarás (planta da família das aráceas)"
+        "Ajuntamento de mangarás"
       ],
       "en": [
-        "Aggregation of arrowleaf elephant ear (plant of the araceae family)"
+        "Cluster of arrowleaf elephant ear"
       ],
       "tu": [
         [
@@ -3420,7 +3529,9 @@
         "Algodoeiros grandes"
       ],
       "en": [
-        "?"
+        "Big yellow fish",
+        "Large river",
+        "Big cotton plants"
       ],
       "tu": [
         [
@@ -3447,7 +3558,8 @@
         "Pequeno campo da chuva"
       ],
       "en": [
-        "?"
+        "Small rain",
+        "Small rainy field"
       ],
       "tu": [
         [
@@ -3469,7 +3581,7 @@
         "Filho do estrangeiro com a índia"
       ],
       "en": [
-        ""
+        "Child of a foreigner with an indigenous woman"
       ],
       "tu": [
         [
@@ -3486,7 +3598,7 @@
         "Água de maracá"
       ],
       "en": [
-        ""
+        "Maracá water"
       ],
       "tu": [
         [
@@ -3503,7 +3615,7 @@
         "Rio das maracanãs"
       ],
       "en": [
-        ""
+        "River of the mini-macaws"
       ],
       "tu": [
         [
@@ -3520,7 +3632,7 @@
         "Rio dos gatos-do-mato"
       ],
       "en": [
-        ""
+        "River of the oncillas"
       ],
       "tu": [
         [
@@ -3534,10 +3646,10 @@
     "name_id": "marituba_pa",
     "meaning": {
       "pt": [
-        "Lugar abundante de Maris"
+        "Lugar abundante de maris"
       ],
       "en": [
-        ""
+        "Place with abundance of maris"
       ],
       "tu": [
         [
@@ -3554,7 +3666,7 @@
         "Parte elevada de um local"
       ],
       "en": [
-        ""
+        "Elevated part of a location"
       ],
       "tu": [
         [
@@ -3571,7 +3683,7 @@
         "Grande rio das cobras"
       ],
       "en": [
-        ""
+        "Large river of the snakes"
       ],
       "tu": [
         [
@@ -3589,7 +3701,7 @@
         "Pequeno rio das cobras"
       ],
       "en": [
-        ""
+        "Small river of the snakes"
       ],
       "tu": [
         [
@@ -3607,7 +3719,7 @@
         "Rio das cobras"
       ],
       "en": [
-        ""
+        "Snakes river"
       ],
       "tu": [
         [
@@ -3624,7 +3736,7 @@
         "Água pegajosa"
       ],
       "en": [
-        ""
+        "Sticky water"
       ],
       "tu": [
         [
@@ -3640,7 +3752,7 @@
         "Nosso Senhor"
       ],
       "en": [
-        ""
+        "Our Lord"
       ],
       "tu": [
         [
@@ -3658,7 +3770,8 @@
         "Rio verdadeiro frio"
       ],
       "en": [
-        "?"
+        "Water that hides itself",
+        "Cold true river"
       ],
       "tu": [
         [
@@ -3697,7 +3810,7 @@
         "Campo belo"
       ],
       "en": [
-        ""
+        "Beautiful field"
       ],
       "tu": [
         [
@@ -3714,7 +3827,7 @@
         "Casa dos Waiãpi"
       ],
       "en": [
-        ""
+        "House of the Wayampi"
       ],
       "tu": [
         [
@@ -3754,13 +3867,13 @@
     }
   },
   {
-    "name_id": "pacatupa_ce",
+    "name_id": "pacatuba_ce",
     "meaning": {
       "pt": [
         "Ajuntamento de pacas"
       ],
       "en": [
-        ""
+        "Roundup of pacas"
       ],
       "tu": [
         [
@@ -3778,7 +3891,8 @@
         "Papagaio baixo"
       ],
       "en": [
-        "?"
+        "Shallow tributary of the large river",
+        "Short parrot"
       ],
       "tu": [
         [
@@ -3996,7 +4110,7 @@
         "Peixe assado"
       ],
       "en": [
-        "Fried fish"
+        "Baked fish"
       ],
       "tu": [
         [
@@ -4203,7 +4317,7 @@
         "Lugar da rasgadura"
       ],
       "en": [
-        ""
+        "Place of the tearing"
       ],
       "tu": [
         [
@@ -4220,7 +4334,7 @@
         "Aldeia redonda"
       ],
       "en": [
-        ""
+        "Round village"
       ],
       "tu": [
         [
@@ -4238,7 +4352,8 @@
         "Aldeia branca"
       ],
       "en": [
-        "?"
+        "White clay",
+        "White village"
       ],
       "tu": [
         [
@@ -4260,7 +4375,8 @@
         "Barro branco"
       ],
       "en": [
-        ""
+        "White bird",
+        "White clay"
       ],
       "tu": [
         [
@@ -4281,7 +4397,7 @@
         "Porco-do-mato"
       ],
       "en": [
-        ""
+        "White-lipped peccary (wild pig)"
       ],
       "tu": [
         [
@@ -4298,7 +4414,7 @@
         "Tamanduá diferente"
       ],
       "en": [
-        ""
+        "Different anteater"
       ],
       "tu": [
         [
@@ -4315,7 +4431,7 @@
         "Rio das conchas"
       ],
       "en": [
-        "Shells river"
+        "River of the shells"
       ],
       "tu": [
         [
@@ -4332,7 +4448,7 @@
         "Senhor dos caminhos"
       ],
       "en": [
-        ""
+        "Lord of the ways"
       ],
       "tu": [
         [
@@ -4350,7 +4466,8 @@
         "Rio claro das taquaras"
       ],
       "en": [
-        "?"
+        "Small white taquara",
+        "Clear river of the taquaras"
       ],
       "tu": [
         [
@@ -4389,7 +4506,7 @@
         "Aldeia alta"
       ],
       "en": [
-        ""
+        "High village"
       ],
       "tu": [
         [
@@ -4403,10 +4520,10 @@
     "name_id": "tocantins_to",
     "meaning": {
       "pt": [
-        "(Paraíso dos) bicos de tucanos"
+        "[Paraíso dos] bicos de tucanos"
       ],
       "en": [
-        ""
+        "Toucan beaks [paradise]"
       ],
       "tu": [
         [
@@ -4441,7 +4558,8 @@
         "Gramínea"
       ],
       "en": [
-        "?"
+        "One-piece canoe dug into tree trunk",
+        "Grass"
       ],
       "tu": [
         [
@@ -4460,7 +4578,7 @@
         "Ajuntamento de canas-do-rio"
       ],
       "en": [
-        ""
+        "Cluster of wild canes"
       ],
       "tu": [
         [
@@ -4512,7 +4630,7 @@
         "Cesto esquinado, peneira"
       ],
       "en": [
-        ""
+        "Angular basket, sifter"
       ],
       "tu": [
         [
@@ -4529,7 +4647,7 @@
         "Morro pontudo"
       ],
       "en": [
-        ""
+        "Pointy hill"
       ],
       "tu": [
         [
@@ -4547,7 +4665,8 @@
         "Morro bonito"
       ],
       "en": [
-        "?"
+        "Good winds",
+        "Beautiful hill"
       ],
       "tu": [
         [
@@ -4568,7 +4687,7 @@
         "Campina da cascavel"
       ],
       "en": [
-        ""
+        "Rattlesnake meadow"
       ],
       "tu": [
         [

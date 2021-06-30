@@ -69,6 +69,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Acaraú",
+        "state": "CE",
+        "name_id": "acarau_ce"
+      },
+      "geometry": {
+        "coordinates": [-40.12, -2.885833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Acopiara",
         "state": "CE",
         "name_id": "acopiara_ce"
@@ -99,6 +111,18 @@
       },
       "geometry": {
         "coordinates": [-37.07, -10.91],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aracati",
+        "state": "CE",
+        "name_id": "aracati_ce"
+      },
+      "geometry": {
+        "coordinates": [-37.77, -4.561944],
         "type": "Point"
       }
     },
@@ -213,12 +237,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Aratuba",
+        "state": "CE",
+        "name_id": "aratuba_ce"
+      },
+      "geometry": {
+        "coordinates": [-39.045, -4.417778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Araxá",
         "state": "MS",
         "name_id": "araxa_ms"
       },
       "geometry": {
         "coordinates": [-46.940833, -19.592778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariquemes",
+        "state": "RO",
+        "name_id": "ariquemes_ro"
+      },
+      "geometry": {
+        "coordinates": [-63.040833, -9.913333],
         "type": "Point"
       }
     },
@@ -249,24 +297,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Atibaia",
-        "state": "SP",
-        "name_id": "atibaia_sp"
+        "name": "Assu",
+        "state": "RN",
+        "name_id": "assu_rn"
       },
       "geometry": {
-        "coordinates": [-46.55, -23.116944],
+        "coordinates": [-36.908889, -5.576944],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Avanhandava",
+        "name": "Atibaia",
         "state": "SP",
-        "name_id": "avanhandava_sp"
+        "name_id": "atibaia_sp"
       },
       "geometry": {
-        "coordinates": [-49.95, -21.460833],
+        "coordinates": [-46.55, -23.116944],
         "type": "Point"
       }
     },
@@ -285,12 +333,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Avanhandava",
+        "state": "SP",
+        "name_id": "avanhandava_sp"
+      },
+      "geometry": {
+        "coordinates": [-49.95, -21.460833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Avaré",
         "state": "SP",
         "name_id": "avare_sp"
       },
       "geometry": {
         "coordinates": [-48.925833, -23.098889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bacabal",
+        "state": "MA",
+        "name_id": "bacabal_ma"
+      },
+      "geometry": {
+        "coordinates": [-44.78, -4.225],
         "type": "Point"
       }
     },
@@ -489,6 +561,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Buri",
+        "state": "SP",
+        "name_id": "buri_sp"
+      },
+      "geometry": {
+        "coordinates": [-48.592778, -23.797778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Buritama",
         "state": "SP",
         "name_id": "buritama_sp"
@@ -513,12 +597,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Caapora",
+        "name": "Caaporã",
         "state": "PB",
         "name_id": "caapora_pb"
       },
       "geometry": {
         "coordinates": [-34.907778, -7.515833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caarapó",
+        "state": "MS",
+        "name_id": "caarapo_ms"
+      },
+      "geometry": {
+        "coordinates": [-54.821944, -22.633889],
         "type": "Point"
       }
     },
@@ -579,6 +675,18 @@
       },
       "geometry": {
         "coordinates": [-44.675, -2.880833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cajuru",
+        "state": "SP",
+        "name_id": "cajuru_sp"
+      },
+      "geometry": {
+        "coordinates": [-47.303889, -21.275],
         "type": "Point"
       }
     },
@@ -1233,6 +1341,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Inhambupe",
+        "state": "BA",
+        "name_id": "inhambupe_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.352778, -11.783889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Inhapim",
         "state": "MG",
         "name_id": "inhapim_mg"
@@ -1653,6 +1773,18 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Jaboatão dos Guararapes",
+        "state": "PE",
+        "name_id": "jaboatao_pe"
+      },
+      "geometry": {
+        "coordinates": [-35.015, -8.112778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Jacareí",
         "state": "SP",
         "name_id": "jacarei_sp"
@@ -1719,6 +1851,30 @@
       },
       "geometry": {
         "coordinates": [-49.705833, -24.250833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguaribe",
+        "state": "CE",
+        "name_id": "jaguaribe_ce"
+      },
+      "geometry": {
+        "coordinates": [-38.621944, -5.890833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguaripe",
+        "state": "BA",
+        "name_id": "jaguaripe_ba"
+      },
+      "geometry": {
+        "coordinates": [-38.895833, -13.112778],
         "type": "Point"
       }
     },
